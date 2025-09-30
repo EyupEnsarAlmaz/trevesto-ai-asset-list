@@ -1,0 +1,3217 @@
+{
+  "assets": [
+    {
+      "category": "forex",
+      "items": [
+        {
+          "name": "Australian Dollar / Japanese Yen",
+          "symbol": "AUDJPY",
+          "description": "The Australian Dollar (AUD) is the currency of Australia, and the Japanese Yen (JPY) is the currency of Japan. This pair represents how many Japanese Yen are needed to purchase one Australian Dollar."
+        },
+        {
+          "name": "Australian Dollar / U.S. Dollar",
+          "symbol": "AUDUSD",
+          "description": "The Australian Dollar (AUD) is the currency of Australia, and the U.S. Dollar (USD) is the currency of the United States. This pair shows how many U.S. Dollars are needed to purchase one Australian Dollar."
+        },
+        {
+          "name": "Euro / Australian Dollar",
+          "symbol": "EURAUD",
+          "description": "The Euro (EUR) is the currency of the Eurozone, and the Australian Dollar (AUD) is the currency of Australia. This pair indicates how many Australian Dollars are needed to purchase one Euro."
+        },
+        {
+          "name": "Euro / Canadian Dollar",
+          "symbol": "EURCAD",
+          "description": "The Euro (EUR) is the currency of the Eurozone, and the Canadian Dollar (CAD) is the currency of Canada. This pair shows how many Canadian Dollars are needed to purchase one Euro."
+        },
+        {
+          "name": "Euro / British Pound",
+          "symbol": "EURGBP",
+          "description": "The Euro (EUR) is the currency of the Eurozone, and the British Pound (GBP) is the currency of the United Kingdom. This pair indicates how many British Pounds are needed to purchase one Euro."
+        },
+        {
+          "name": "Euro / Japanese Yen",
+          "symbol": "EURJPY",
+          "description": "The Euro (EUR) is the currency of the Eurozone, and the Japanese Yen (JPY) is the currency of Japan. This pair shows how many Japanese Yen are needed to purchase one Euro."
+        },
+        {
+          "name": "Euro / U.S. Dollar",
+          "symbol": "EURUSD",
+          "description": "The Euro (EUR) is the currency of the Eurozone, and the U.S. Dollar (USD) is the currency of the United States. This pair indicates how many U.S. Dollars are needed to purchase one Euro."
+        },
+        {
+          "name": "British Pound / Australian Dollar",
+          "symbol": "GBPAUD",
+          "description": "The British Pound (GBP) is the currency of the United Kingdom, and the Australian Dollar (AUD) is the currency of Australia. This pair shows how many Australian Dollars are needed to purchase one British Pound."
+        },
+        {
+          "name": "New Zealand Dollar / Japanese Yen",
+          "symbol": "NZDJPY",
+          "description": "The New Zealand Dollar (NZD) is the currency of New Zealand, and the Japanese Yen (JPY) is the currency of Japan. This pair indicates how many Japanese Yen are needed to purchase one New Zealand Dollar."
+        },
+        {
+          "name": "New Zealand Dollar / U.S. Dollar",
+          "symbol": "NZDUSD",
+          "description": "The New Zealand Dollar (NZD) is the currency of New Zealand, and the U.S. Dollar (USD) is the currency of the United States. This pair shows how many U.S. Dollars are needed to purchase one New Zealand Dollar."
+        },
+        {
+          "name": "U.S. Dollar / Canadian Dollar",
+          "symbol": "USDCAD",
+          "description": "The U.S. Dollar (USD) is the currency of the United States, and the Canadian Dollar (CAD) is the currency of Canada. This pair indicates how many Canadian Dollars are needed to purchase one U.S. Dollar."
+        },
+        {
+          "name": "U.S. Dollar / Swiss Franc",
+          "symbol": "USDCHF",
+          "description": "The U.S. Dollar (USD) is the currency of the United States, and the Swiss Franc (CHF) is the currency of Switzerland. This pair shows how many Swiss Francs are needed to purchase one U.S. Dollar."
+        },
+        {
+          "name": "U.S. Dollar / Japanese Yen",
+          "symbol": "USDJPY",
+          "description": "The U.S. Dollar (USD) is the currency of the United States, and the Japanese Yen (JPY) is the currency of Japan. This pair indicates how many Japanese Yen are needed to purchase one U.S. Dollar."
+        },
+        {
+          "name": "British Pound / Swiss Franc",
+          "symbol": "GBPCHF",
+          "description": "The British Pound (GBP) is the currency of the United Kingdom, and the Swiss Franc (CHF) is the currency of Switzerland. This pair indicates how many Swiss Francs are needed to purchase one British Pound."
+        },
+        {
+          "name": "Swiss Franc / Japanese Yen",
+          "symbol": "CHFJPY",
+          "description": "The Swiss Franc (CHF) is the currency of Switzerland, and the Japanese Yen (JPY) is the currency of Japan. This pair indicates how many Japanese Yen are needed to purchase one Swiss Franc."
+        },
+        {
+          "name": "Canadian Dollar / Japanese Yen",
+          "symbol": "CADJPY",
+          "description": "The Canadian Dollar (CAD) is the currency of Canada, and the Japanese Yen (JPY) is the currency of Japan. This pair indicates how many Japanese Yen are needed to purchase one Canadian Dollar."
+        }
+      ]
+    },
+    {
+      "category": "stock",
+      "items": [
+        {
+          "symbol": "MSFT",
+          "companyName": "Microsoft Corporation",
+          "sector": "Technology",
+          "industry": "Software - Infrastructure"
+        },
+        {
+          "symbol": "NVDA",
+          "companyName": "NVIDIA Corporation",
+          "sector": "Technology",
+          "industry": "Semiconductors"
+        },
+        {
+          "symbol": "AAPL",
+          "companyName": "Apple Inc.",
+          "sector": "Technology",
+          "industry": "Consumer Electronics"
+        },
+        {
+          "symbol": "AMZN",
+          "companyName": "Amazon.com, Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Specialty Retail"
+        },
+        {
+          "symbol": "GOOGL",
+          "companyName": "Alphabet Inc.",
+          "sector": "Communication Services",
+          "industry": "Internet Content & Information"
+        },
+        {
+          "symbol": "GOOG",
+          "companyName": "Alphabet Inc.",
+          "sector": "Communication Services",
+          "industry": "Internet Content & Information"
+        },
+        {
+          "symbol": "META",
+          "companyName": "Meta Platforms, Inc.",
+          "sector": "Communication Services",
+          "industry": "Internet Content & Information"
+        },
+        {
+          "symbol": "AVGO",
+          "companyName": "Broadcom Inc.",
+          "sector": "Technology",
+          "industry": "Semiconductors"
+        },
+        {
+          "symbol": "BRK-B",
+          "companyName": "Berkshire Hathaway Inc.",
+          "sector": "Financial Services",
+          "industry": "Insurance - Diversified"
+        },
+        {
+          "symbol": "BRK-A",
+          "companyName": "Berkshire Hathaway Inc.",
+          "sector": "Financial Services",
+          "industry": "Insurance - Diversified"
+        },
+        {
+          "symbol": "TSLA",
+          "companyName": "Tesla, Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Auto - Manufacturers"
+        },
+        {
+          "symbol": "WMT",
+          "companyName": "Walmart Inc.",
+          "sector": "Consumer Defensive",
+          "industry": "Discount Stores"
+        },
+        {
+          "symbol": "JPM",
+          "companyName": "JPMorgan Chase & Co.",
+          "sector": "Financial Services",
+          "industry": "Banks - Diversified"
+        },
+        {
+          "symbol": "LLY",
+          "companyName": "Eli Lilly and Company",
+          "sector": "Healthcare",
+          "industry": "Drug Manufacturers - General"
+        },
+        {
+          "symbol": "V",
+          "companyName": "Visa Inc.",
+          "sector": "Financial Services",
+          "industry": "Financial - Credit Services"
+        },
+        {
+          "symbol": "MA",
+          "companyName": "Mastercard Incorporated",
+          "sector": "Financial Services",
+          "industry": "Financial - Credit Services"
+        },
+        {
+          "symbol": "NFLX",
+          "companyName": "Netflix, Inc.",
+          "sector": "Communication Services",
+          "industry": "Entertainment"
+        },
+        {
+          "symbol": "VXUS",
+          "companyName": "Vanguard Total Intl Stock Idx Fund",
+          "sector": "Financial Services",
+          "industry": "Asset Management"
+        },
+        {
+          "symbol": "XOM",
+          "companyName": "Exxon Mobil Corporation",
+          "sector": "Energy",
+          "industry": "Oil & Gas Integrated"
+        },
+        {
+          "symbol": "ORCL",
+          "companyName": "Oracle Corporation",
+          "sector": "Technology",
+          "industry": "Software - Infrastructure"
+        },
+        {
+          "symbol": "COST",
+          "companyName": "Costco Wholesale Corporation",
+          "sector": "Consumer Defensive",
+          "industry": "Discount Stores"
+        },
+        {
+          "symbol": "HD",
+          "companyName": "The Home Depot, Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Home Improvement"
+        },
+        {
+          "symbol": "PG",
+          "companyName": "The Procter & Gamble Company",
+          "sector": "Consumer Defensive",
+          "industry": "Household & Personal Products"
+        },
+        {
+          "symbol": "JNJ",
+          "companyName": "Johnson & Johnson",
+          "sector": "Healthcare",
+          "industry": "Drug Manufacturers - General"
+        },
+        {
+          "symbol": "BND",
+          "companyName": "Vanguard Total Bond Market Index Fund",
+          "sector": "Financial Services",
+          "industry": "Asset Management - Bonds"
+        },
+        {
+          "symbol": "BAC",
+          "companyName": "Bank of America Corporation",
+          "sector": "Financial Services",
+          "industry": "Banks - Diversified"
+        },
+        {
+          "symbol": "ABBV",
+          "companyName": "AbbVie Inc.",
+          "sector": "Healthcare",
+          "industry": "Drug Manufacturers - General"
+        },
+        {
+          "symbol": "PLTR",
+          "companyName": "Palantir Technologies Inc.",
+          "sector": "Technology",
+          "industry": "Software - Infrastructure"
+        },
+        {
+          "symbol": "KO",
+          "companyName": "The Coca-Cola Company",
+          "sector": "Consumer Defensive",
+          "industry": "Beverages - Non-Alcoholic"
+        },
+        {
+          "symbol": "UNH",
+          "companyName": "UnitedHealth Group Incorporated",
+          "sector": "Healthcare",
+          "industry": "Medical - Healthcare Plans"
+        },
+        {
+          "symbol": "CRM",
+          "companyName": "Salesforce, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Application"
+        },
+        {
+          "symbol": "TMUS",
+          "companyName": "T-Mobile US, Inc.",
+          "sector": "Communication Services",
+          "industry": "Telecommunications Services"
+        },
+        {
+          "symbol": "PM",
+          "companyName": "Philip Morris International Inc.",
+          "sector": "Consumer Defensive",
+          "industry": "Tobacco"
+        },
+        {
+          "symbol": "WFC",
+          "companyName": "Wells Fargo & Company",
+          "sector": "Financial Services",
+          "industry": "Banks - Diversified"
+        },
+        {
+          "symbol": "CVX",
+          "companyName": "Chevron Corporation",
+          "sector": "Energy",
+          "industry": "Oil & Gas Integrated"
+        },
+        {
+          "symbol": "CSCO",
+          "companyName": "Cisco Systems, Inc.",
+          "sector": "Technology",
+          "industry": "Communication Equipment"
+        },
+        {
+          "symbol": "VZA",
+          "companyName": "Verizon Communications, 5.9% 15 Feb 2054",
+          "sector": "Communication Services",
+          "industry": "Telecommunications Services"
+        },
+        {
+          "symbol": "IBM",
+          "companyName": "International Business Machines Corporation",
+          "sector": "Technology",
+          "industry": "Information Technology Services"
+        },
+        {
+          "symbol": "GE",
+          "companyName": "General Electric Company",
+          "sector": "Industrials",
+          "industry": "Aerospace & Defense"
+        },
+        {
+          "symbol": "ABT",
+          "companyName": "Abbott Laboratories",
+          "sector": "Healthcare",
+          "industry": "Medical - Devices"
+        },
+        {
+          "symbol": "MCD",
+          "companyName": "McDonald's Corporation",
+          "sector": "Consumer Cyclical",
+          "industry": "Restaurants"
+        },
+        {
+          "symbol": "NOW",
+          "companyName": "ServiceNow, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Application"
+        },
+        {
+          "symbol": "AXP",
+          "companyName": "American Express Company",
+          "sector": "Financial Services",
+          "industry": "Financial - Credit Services"
+        },
+        {
+          "symbol": "MS",
+          "companyName": "Morgan Stanley",
+          "sector": "Financial Services",
+          "industry": "Financial - Capital Markets"
+        },
+        {
+          "symbol": "QQQ",
+          "companyName": "Invesco QQQ Trust",
+          "sector": "Financial Services",
+          "industry": "Asset Management"
+        },
+        {
+          "symbol": "ISRG",
+          "companyName": "Intuitive Surgical, Inc.",
+          "sector": "Healthcare",
+          "industry": "Medical - Instruments & Supplies"
+        },
+        {
+          "symbol": "DIS",
+          "companyName": "The Walt Disney Company",
+          "sector": "Communication Services",
+          "industry": "Entertainment"
+        },
+        {
+          "symbol": "MER-PK",
+          "companyName": "Merrill Lynch Capital Trust I GTD CAP 6.45%",
+          "sector": "",
+          "industry": ""
+        },
+        {
+          "symbol": "AMD",
+          "companyName": "Advanced Micro Devices, Inc.",
+          "sector": "Technology",
+          "industry": "Semiconductors"
+        },
+        {
+          "symbol": "TBB",
+          "companyName": "AT&T Inc. 5.35% GLB NTS 66",
+          "sector": "Communication Services",
+          "industry": "Telecommunications Services"
+        },
+        {
+          "symbol": "T",
+          "companyName": "AT&T Inc.",
+          "sector": "Communication Services",
+          "industry": "Telecommunications Services"
+        },
+        {
+          "symbol": "UBER",
+          "companyName": "Uber Technologies, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Application"
+        },
+        {
+          "symbol": "MRK",
+          "companyName": "Merck & Co., Inc.",
+          "sector": "Healthcare",
+          "industry": "Drug Manufacturers - General"
+        },
+        {
+          "symbol": "GS",
+          "companyName": "The Goldman Sachs Group, Inc.",
+          "sector": "Financial Services",
+          "industry": "Financial - Capital Markets"
+        },
+        {
+          "symbol": "INTU",
+          "companyName": "Intuit Inc.",
+          "sector": "Technology",
+          "industry": "Software - Application"
+        },
+        {
+          "symbol": "TBC",
+          "companyName": "AT&T Inc. 5.625% Global Notes d",
+          "sector": "Communication Services",
+          "industry": "Telecommunications Services"
+        },
+        {
+          "symbol": "VZ",
+          "companyName": "Verizon Communications Inc.",
+          "sector": "Communication Services",
+          "industry": "Telecommunications Services"
+        },
+        {
+          "symbol": "PEP",
+          "companyName": "PepsiCo, Inc.",
+          "sector": "Consumer Defensive",
+          "industry": "Beverages - Non-Alcoholic"
+        },
+        {
+          "symbol": "RTX",
+          "companyName": "RTX Corporation",
+          "sector": "Industrials",
+          "industry": "Aerospace & Defense"
+        },
+        {
+          "symbol": "BKNG",
+          "companyName": "Booking Holdings Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Travel Services"
+        },
+        {
+          "symbol": "ADBE",
+          "companyName": "Adobe Inc.",
+          "sector": "Technology",
+          "industry": "Software - Infrastructure"
+        },
+        {
+          "symbol": "TXN",
+          "companyName": "Texas Instruments Incorporated",
+          "sector": "Technology",
+          "industry": "Semiconductors"
+        },
+        {
+          "symbol": "QCOM",
+          "companyName": "QUALCOMM Incorporated",
+          "sector": "Technology",
+          "industry": "Semiconductors"
+        },
+        {
+          "symbol": "CAT",
+          "companyName": "Caterpillar Inc.",
+          "sector": "Industrials",
+          "industry": "Agricultural - Machinery"
+        },
+        {
+          "symbol": "PGR",
+          "companyName": "The Progressive Corporation",
+          "sector": "Financial Services",
+          "industry": "Insurance - Property & Casualty"
+        },
+        {
+          "symbol": "SPGI",
+          "companyName": "S&P Global Inc.",
+          "sector": "Financial Services",
+          "industry": "Financial - Data & Stock Exchanges"
+        },
+        {
+          "symbol": "SCHW",
+          "companyName": "The Charles Schwab Corporation",
+          "sector": "Financial Services",
+          "industry": "Financial - Capital Markets"
+        },
+        {
+          "symbol": "TMO",
+          "companyName": "Thermo Fisher Scientific Inc.",
+          "sector": "Healthcare",
+          "industry": "Medical - Diagnostics & Research"
+        },
+        {
+          "symbol": "BA",
+          "companyName": "The Boeing Company",
+          "sector": "Industrials",
+          "industry": "Aerospace & Defense"
+        },
+        {
+          "symbol": "BSX",
+          "companyName": "Boston Scientific Corporation",
+          "sector": "Healthcare",
+          "industry": "Medical - Devices"
+        },
+        {
+          "symbol": "BLK",
+          "companyName": "BlackRock, Inc.",
+          "sector": "Financial Services",
+          "industry": "Asset Management"
+        },
+        {
+          "symbol": "SYK",
+          "companyName": "Stryker Corporation",
+          "sector": "Healthcare",
+          "industry": "Medical - Devices"
+        },
+        {
+          "symbol": "NEE",
+          "companyName": "NextEra Energy, Inc.",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "TJX",
+          "companyName": "The TJX Companies, Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Apparel - Retail"
+        },
+        {
+          "symbol": "AMGN",
+          "companyName": "Amgen Inc.",
+          "sector": "Healthcare",
+          "industry": "Drug Manufacturers - General"
+        },
+        {
+          "symbol": "AMAT",
+          "companyName": "Applied Materials, Inc.",
+          "sector": "Technology",
+          "industry": "Semiconductors"
+        },
+        {
+          "symbol": "C",
+          "companyName": "Citigroup Inc.",
+          "sector": "Financial Services",
+          "industry": "Banks - Diversified"
+        },
+        {
+          "symbol": "HON",
+          "companyName": "Honeywell International Inc.",
+          "sector": "Industrials",
+          "industry": "Conglomerates"
+        },
+        {
+          "symbol": "DHR",
+          "companyName": "Danaher Corporation",
+          "sector": "Healthcare",
+          "industry": "Medical - Diagnostics & Research"
+        },
+        {
+          "symbol": "UNP",
+          "companyName": "Union Pacific Corporation",
+          "sector": "Industrials",
+          "industry": "Railroads"
+        },
+        {
+          "symbol": "DE",
+          "companyName": "Deere & Company",
+          "sector": "Industrials",
+          "industry": "Agricultural - Machinery"
+        },
+        {
+          "symbol": "LOW",
+          "companyName": "Lowe's Companies, Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Home Improvement"
+        },
+        {
+          "symbol": "CMCSA",
+          "companyName": "Comcast Corporation",
+          "sector": "Communication Services",
+          "industry": "Telecommunications Services"
+        },
+        {
+          "symbol": "PFE",
+          "companyName": "Pfizer Inc.",
+          "sector": "Healthcare",
+          "industry": "Drug Manufacturers - General"
+        },
+        {
+          "symbol": "PANW",
+          "companyName": "Palo Alto Networks, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Infrastructure"
+        },
+        {
+          "symbol": "APP",
+          "companyName": "AppLovin Corporation",
+          "sector": "Technology",
+          "industry": "Software - Application"
+        },
+        {
+          "symbol": "ADP",
+          "companyName": "Automatic Data Processing, Inc.",
+          "sector": "Industrials",
+          "industry": "Staffing & Employment Services"
+        },
+        {
+          "symbol": "GILD",
+          "companyName": "Gilead Sciences, Inc.",
+          "sector": "Healthcare",
+          "industry": "Drug Manufacturers - General"
+        },
+        {
+          "symbol": "ANET",
+          "companyName": "Arista Networks, Inc.",
+          "sector": "Technology",
+          "industry": "Computer Hardware"
+        },
+        {
+          "symbol": "GEV",
+          "companyName": "GE Vernova Inc.",
+          "sector": "Utilities",
+          "industry": "Renewable Utilities"
+        },
+        {
+          "symbol": "COP",
+          "companyName": "ConocoPhillips",
+          "sector": "Energy",
+          "industry": "Oil & Gas Exploration & Production"
+        },
+        {
+          "symbol": "FISV",
+          "companyName": "Fiserv, Inc.",
+          "sector": "Technology",
+          "industry": "Information Technology Services"
+        },
+        {
+          "symbol": "KKR",
+          "companyName": "KKR & Co. Inc.",
+          "sector": "Financial Services",
+          "industry": "Asset Management"
+        },
+        {
+          "symbol": "ANTM",
+          "companyName": "Elevance Health Inc.",
+          "sector": "Healthcare",
+          "industry": "Medical - Healthcare Plans"
+        },
+        {
+          "symbol": "BX",
+          "companyName": "Blackstone Inc.",
+          "sector": "Financial Services",
+          "industry": "Asset Management"
+        },
+        {
+          "symbol": "MSTR",
+          "companyName": "MicroStrategy Incorporated",
+          "sector": "Technology",
+          "industry": "Software - Application"
+        },
+        {
+          "symbol": "ADI",
+          "companyName": "Analog Devices, Inc.",
+          "sector": "Technology",
+          "industry": "Semiconductors"
+        },
+        {
+          "symbol": "CRWD",
+          "companyName": "CrowdStrike Holdings, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Infrastructure"
+        },
+        {
+          "symbol": "MMC",
+          "companyName": "Marsh & McLennan Companies, Inc.",
+          "sector": "Financial Services",
+          "industry": "Insurance - Brokers"
+        },
+        {
+          "symbol": "LRCX",
+          "companyName": "Lam Research Corporation",
+          "sector": "Technology",
+          "industry": "Semiconductors"
+        },
+        {
+          "symbol": "MU",
+          "companyName": "Micron Technology, Inc.",
+          "sector": "Technology",
+          "industry": "Semiconductors"
+        },
+        {
+          "symbol": "EP-PC",
+          "companyName": "El Paso Energy Capital Trust I PFD CV TR SECS",
+          "sector": "Energy",
+          "industry": "Oil & Gas Midstream"
+        },
+        {
+          "symbol": "VRTX",
+          "companyName": "Vertex Pharmaceuticals Incorporated",
+          "sector": "Healthcare",
+          "industry": "Biotechnology"
+        },
+        {
+          "symbol": "LMT",
+          "companyName": "Lockheed Martin Corporation",
+          "sector": "Industrials",
+          "industry": "Aerospace & Defense"
+        },
+        {
+          "symbol": "KLAC",
+          "companyName": "KLA Corporation",
+          "sector": "Technology",
+          "industry": "Semiconductors"
+        },
+        {
+          "symbol": "FI",
+          "companyName": "Fiserv, Inc.",
+          "sector": "Technology",
+          "industry": "Information Technology Services"
+        },
+        {
+          "symbol": "APH",
+          "companyName": "Amphenol Corporation",
+          "sector": "Technology",
+          "industry": "Hardware, Equipment & Parts"
+        },
+        {
+          "symbol": "BNDX",
+          "companyName": "Vanguard Total International Bond Index Fund",
+          "sector": "Financial Services",
+          "industry": "Asset Management - Bonds"
+        },
+        {
+          "symbol": "PLD",
+          "companyName": "Prologis, Inc.",
+          "sector": "Real Estate",
+          "industry": "REIT - Industrial"
+        },
+        {
+          "symbol": "ICE",
+          "companyName": "Intercontinental Exchange, Inc.",
+          "sector": "Financial Services",
+          "industry": "Financial - Data & Stock Exchanges"
+        },
+        {
+          "symbol": "SBUX",
+          "companyName": "Starbucks Corporation",
+          "sector": "Consumer Cyclical",
+          "industry": "Restaurants"
+        },
+        {
+          "symbol": "BNH",
+          "companyName": "Brookfield Finance Inc. 4.625%",
+          "sector": "Financial Services",
+          "industry": "Financial - Credit Services"
+        },
+        {
+          "symbol": "BNJ",
+          "companyName": "Brookfield Finance Inc. 4.50% P",
+          "sector": "Financial Services",
+          "industry": "Investment - Banking & Investment Services"
+        },
+        {
+          "symbol": "CME",
+          "companyName": "CME Group Inc.",
+          "sector": "Financial Services",
+          "industry": "Financial - Data & Stock Exchanges"
+        },
+        {
+          "symbol": "AMT",
+          "companyName": "American Tower Corporation",
+          "sector": "Real Estate",
+          "industry": "REIT - Specialty"
+        },
+        {
+          "symbol": "MO",
+          "companyName": "Altria Group, Inc.",
+          "sector": "Consumer Defensive",
+          "industry": "Tobacco"
+        },
+        {
+          "symbol": "SOJD",
+          "companyName": "Southern Company (The) Series 2",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "INTC",
+          "companyName": "Intel Corporation",
+          "sector": "Technology",
+          "industry": "Semiconductors"
+        },
+        {
+          "symbol": "SOJC",
+          "companyName": "The Southern Company JR 2017B NT 77",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "WELL",
+          "companyName": "Welltower Inc.",
+          "sector": "Real Estate",
+          "industry": "REIT - Healthcare Facilities"
+        },
+        {
+          "symbol": "SOJE",
+          "companyName": "Southern Company (The) Series 2",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "BMY",
+          "companyName": "Bristol-Myers Squibb Company",
+          "sector": "Healthcare",
+          "industry": "Drug Manufacturers - General"
+        },
+        {
+          "symbol": "NKE",
+          "companyName": "NIKE, Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Apparel - Footwear & Accessories"
+        },
+        {
+          "symbol": "SO",
+          "companyName": "The Southern Company",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "CEG",
+          "companyName": "Constellation Energy Corporation",
+          "sector": "Utilities",
+          "industry": "Renewable Utilities"
+        },
+        {
+          "symbol": "WM",
+          "companyName": "Waste Management, Inc.",
+          "sector": "Industrials",
+          "industry": "Waste Management"
+        },
+        {
+          "symbol": "SHW",
+          "companyName": "The Sherwin-Williams Company",
+          "sector": "Basic Materials",
+          "industry": "Chemicals - Specialty"
+        },
+        {
+          "symbol": "HCA",
+          "companyName": "HCA Healthcare, Inc.",
+          "sector": "Healthcare",
+          "industry": "Medical - Care Facilities"
+        },
+        {
+          "symbol": "DUKB",
+          "companyName": "Duke Energy Corporation 5.625%",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "CDNS",
+          "companyName": "Cadence Design Systems, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Application"
+        },
+        {
+          "symbol": "ABNB",
+          "companyName": "Airbnb, Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Travel Services"
+        },
+        {
+          "symbol": "MCO",
+          "companyName": "Moody's Corporation",
+          "sector": "Financial Services",
+          "industry": "Financial - Data & Stock Exchanges"
+        },
+        {
+          "symbol": "DUK",
+          "companyName": "Duke Energy Corporation",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "ELV",
+          "companyName": "Elevance Health Inc.",
+          "sector": "Healthcare",
+          "industry": "Medical - Healthcare Plans"
+        },
+        {
+          "symbol": "CTAS",
+          "companyName": "Cintas Corporation",
+          "sector": "Industrials",
+          "industry": "Specialty Business Services"
+        },
+        {
+          "symbol": "PH",
+          "companyName": "Parker-Hannifin Corporation",
+          "sector": "Industrials",
+          "industry": "Industrial - Machinery"
+        },
+        {
+          "symbol": "MCK",
+          "companyName": "McKesson Corporation",
+          "sector": "Healthcare",
+          "industry": "Medical - Distribution"
+        },
+        {
+          "symbol": "UPS",
+          "companyName": "United Parcel Service, Inc.",
+          "sector": "Industrials",
+          "industry": "Integrated Freight & Logistics"
+        },
+        {
+          "symbol": "EQIX",
+          "companyName": "Equinix, Inc.",
+          "sector": "Real Estate",
+          "industry": "REIT - Specialty"
+        },
+        {
+          "symbol": "AJG",
+          "companyName": "Arthur J. Gallagher & Co.",
+          "sector": "Financial Services",
+          "industry": "Insurance - Brokers"
+        },
+        {
+          "symbol": "DASH",
+          "companyName": "DoorDash, Inc.",
+          "sector": "Communication Services",
+          "industry": "Internet Content & Information"
+        },
+        {
+          "symbol": "APO",
+          "companyName": "Apollo Global Management, Inc.",
+          "sector": "Financial Services",
+          "industry": "Asset Management - Global"
+        },
+        {
+          "symbol": "MDLZ",
+          "companyName": "Mondelez International, Inc.",
+          "sector": "Consumer Defensive",
+          "industry": "Food Confectioners"
+        },
+        {
+          "symbol": "CI",
+          "companyName": "Cigna Corporation",
+          "sector": "Healthcare",
+          "industry": "Medical - Healthcare Plans"
+        },
+        {
+          "symbol": "FTNT",
+          "companyName": "Fortinet, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Infrastructure"
+        },
+        {
+          "symbol": "SNPS",
+          "companyName": "Synopsys, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Infrastructure"
+        },
+        {
+          "symbol": "MMM",
+          "companyName": "3M Company",
+          "sector": "Industrials",
+          "industry": "Conglomerates"
+        },
+        {
+          "symbol": "TDG",
+          "companyName": "TransDigm Group Incorporated",
+          "sector": "Industrials",
+          "industry": "Aerospace & Defense"
+        },
+        {
+          "symbol": "DELL",
+          "companyName": "Dell Technologies Inc.",
+          "sector": "Technology",
+          "industry": "Computer Hardware"
+        },
+        {
+          "symbol": "CVS",
+          "companyName": "CVS Health Corporation",
+          "sector": "Healthcare",
+          "industry": "Medical - Healthcare Plans"
+        },
+        {
+          "symbol": "COF",
+          "companyName": "Capital One Financial Corporation",
+          "sector": "Financial Services",
+          "industry": "Financial - Credit Services"
+        },
+        {
+          "symbol": "ORLY",
+          "companyName": "O'Reilly Automotive, Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Specialty Retail"
+        },
+        {
+          "symbol": "MAR",
+          "companyName": "Marriott International, Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Travel Lodging"
+        },
+        {
+          "symbol": "SCCO",
+          "companyName": "Southern Copper Corporation",
+          "sector": "Basic Materials",
+          "industry": "Copper"
+        },
+        {
+          "symbol": "ATVI",
+          "companyName": "Activision Blizzard, Inc.",
+          "sector": "Technology",
+          "industry": "Electronic Gaming & Multimedia"
+        },
+        {
+          "symbol": "RSG",
+          "companyName": "Republic Services, Inc.",
+          "sector": "Industrials",
+          "industry": "Waste Management"
+        },
+        {
+          "symbol": "WDAY",
+          "companyName": "Workday, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Application"
+        },
+        {
+          "symbol": "GD",
+          "companyName": "General Dynamics Corporation",
+          "sector": "Industrials",
+          "industry": "Aerospace & Defense"
+        },
+        {
+          "symbol": "ITW",
+          "companyName": "Illinois Tool Works Inc.",
+          "sector": "Industrials",
+          "industry": "Industrial - Machinery"
+        },
+        {
+          "symbol": "WMB",
+          "companyName": "The Williams Companies, Inc.",
+          "sector": "Energy",
+          "industry": "Oil & Gas Midstream"
+        },
+        {
+          "symbol": "PYPL",
+          "companyName": "PayPal Holdings, Inc.",
+          "sector": "Financial Services",
+          "industry": "Financial - Credit Services"
+        },
+        {
+          "symbol": "ECL",
+          "companyName": "Ecolab Inc.",
+          "sector": "Basic Materials",
+          "industry": "Chemicals - Specialty"
+        },
+        {
+          "symbol": "CL",
+          "companyName": "Colgate-Palmolive Company",
+          "sector": "Consumer Defensive",
+          "industry": "Household & Personal Products"
+        },
+        {
+          "symbol": "PNC",
+          "companyName": "The PNC Financial Services Group, Inc.",
+          "sector": "Financial Services",
+          "industry": "Banks - Regional"
+        },
+        {
+          "symbol": "ZTS",
+          "companyName": "Zoetis Inc.",
+          "sector": "Healthcare",
+          "industry": "Drug Manufacturers - Specialty & Generic"
+        },
+        {
+          "symbol": "MSI",
+          "companyName": "Motorola Solutions, Inc.",
+          "sector": "Technology",
+          "industry": "Communication Equipment"
+        },
+        {
+          "symbol": "CMG",
+          "companyName": "Chipotle Mexican Grill, Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Restaurants"
+        },
+        {
+          "symbol": "EPD",
+          "companyName": "Enterprise Products Partners L.P.",
+          "sector": "Energy",
+          "industry": "Oil & Gas Midstream"
+        },
+        {
+          "symbol": "USB",
+          "companyName": "U.S. Bancorp",
+          "sector": "Financial Services",
+          "industry": "Banks - Regional"
+        },
+        {
+          "symbol": "RCL",
+          "companyName": "Royal Caribbean Cruises Ltd.",
+          "sector": "Consumer Cyclical",
+          "industry": "Travel Services"
+        },
+        {
+          "symbol": "EMR",
+          "companyName": "Emerson Electric Co.",
+          "sector": "Industrials",
+          "industry": "Industrial - Machinery"
+        },
+        {
+          "symbol": "NOC",
+          "companyName": "Northrop Grumman Corporation",
+          "sector": "Industrials",
+          "industry": "Aerospace & Defense"
+        },
+        {
+          "symbol": "COIN",
+          "companyName": "Coinbase Global, Inc.",
+          "sector": "Financial Services",
+          "industry": "Financial - Data & Stock Exchanges"
+        },
+        {
+          "symbol": "CVNA",
+          "companyName": "Carvana Co.",
+          "sector": "Consumer Cyclical",
+          "industry": "Specialty Retail"
+        },
+        {
+          "symbol": "HWM",
+          "companyName": "Howmet Aerospace Inc.",
+          "sector": "Industrials",
+          "industry": "Industrial - Machinery"
+        },
+        {
+          "symbol": "ADSK",
+          "companyName": "Autodesk, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Application"
+        },
+        {
+          "symbol": "CARR",
+          "companyName": "Carrier Global Corporation",
+          "sector": "Industrials",
+          "industry": "Construction"
+        },
+        {
+          "symbol": "PXD",
+          "companyName": "Pioneer Natural Resources Company",
+          "sector": "Energy",
+          "industry": "Oil & Gas Exploration & Production"
+        },
+        {
+          "symbol": "EOG",
+          "companyName": "EOG Resources, Inc.",
+          "sector": "Energy",
+          "industry": "Oil & Gas Exploration & Production"
+        },
+        {
+          "symbol": "BK",
+          "companyName": "The Bank of New York Mellon Corporation",
+          "sector": "Financial Services",
+          "industry": "Asset Management"
+        },
+        {
+          "symbol": "ET",
+          "companyName": "Energy Transfer LP",
+          "sector": "Energy",
+          "industry": "Oil & Gas Midstream"
+        },
+        {
+          "symbol": "VMW",
+          "companyName": "VMware, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Infrastructure"
+        },
+        {
+          "symbol": "AZO",
+          "companyName": "AutoZone, Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Specialty Retail"
+        },
+        {
+          "symbol": "KMI",
+          "companyName": "Kinder Morgan, Inc.",
+          "sector": "Energy",
+          "industry": "Oil & Gas Midstream"
+        },
+        {
+          "symbol": "SNOW",
+          "companyName": "Snowflake Inc.",
+          "sector": "Technology",
+          "industry": "Software - Application"
+        },
+        {
+          "symbol": "REGN",
+          "companyName": "Regeneron Pharmaceuticals, Inc.",
+          "sector": "Healthcare",
+          "industry": "Biotechnology"
+        },
+        {
+          "symbol": "ROP",
+          "companyName": "Roper Technologies, Inc.",
+          "sector": "Industrials",
+          "industry": "Industrial - Machinery"
+        },
+        {
+          "symbol": "HLT",
+          "companyName": "Hilton Worldwide Holdings Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Travel Lodging"
+        },
+        {
+          "symbol": "APD",
+          "companyName": "Air Products and Chemicals, Inc.",
+          "sector": "Basic Materials",
+          "industry": "Chemicals - Specialty"
+        },
+        {
+          "symbol": "CPRT",
+          "companyName": "Copart, Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Auto - Dealerships"
+        },
+        {
+          "symbol": "TRV",
+          "companyName": "The Travelers Companies, Inc.",
+          "sector": "Financial Services",
+          "industry": "Insurance - Property & Casualty"
+        },
+        {
+          "symbol": "CCZ",
+          "companyName": "Comcast Holdings Corp.",
+          "sector": "Communication Services",
+          "industry": "Broadcasting"
+        },
+        {
+          "symbol": "MNST",
+          "companyName": "Monster Beverage Corporation",
+          "sector": "Consumer Defensive",
+          "industry": "Beverages - Non-Alcoholic"
+        },
+        {
+          "symbol": "VTIP",
+          "companyName": "Vanguard Short-Term Inflation-Protected Securities Index Fund",
+          "sector": "Financial Services",
+          "industry": "Asset Management - Leveraged"
+        },
+        {
+          "symbol": "CHTR",
+          "companyName": "Charter Communications, Inc.",
+          "sector": "Communication Services",
+          "industry": "Telecommunications Services"
+        },
+        {
+          "symbol": "CSX",
+          "companyName": "CSX Corporation",
+          "sector": "Industrials",
+          "industry": "Railroads"
+        },
+        {
+          "symbol": "IBIT",
+          "companyName": "iShares Bitcoin Trust",
+          "sector": "",
+          "industry": ""
+        },
+        {
+          "symbol": "MRVL",
+          "companyName": "Marvell Technology, Inc.",
+          "sector": "Technology",
+          "industry": "Semiconductors"
+        },
+        {
+          "symbol": "AFL",
+          "companyName": "Aflac Incorporated",
+          "sector": "Financial Services",
+          "industry": "Insurance - Life"
+        },
+        {
+          "symbol": "FCX",
+          "companyName": "Freeport-McMoRan Inc.",
+          "sector": "Basic Materials",
+          "industry": "Copper"
+        },
+        {
+          "symbol": "AXON",
+          "companyName": "Axon Enterprise, Inc.",
+          "sector": "Industrials",
+          "industry": "Aerospace & Defense"
+        },
+        {
+          "symbol": "DLR",
+          "companyName": "Digital Realty Trust, Inc.",
+          "sector": "Real Estate",
+          "industry": "REIT - Office"
+        },
+        {
+          "symbol": "HOOD",
+          "companyName": "Robinhood Markets, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Infrastructure"
+        },
+        {
+          "symbol": "FDX",
+          "companyName": "FedEx Corporation",
+          "sector": "Industrials",
+          "industry": "Integrated Freight & Logistics"
+        },
+        {
+          "symbol": "VCIT",
+          "companyName": "Vanguard Intermediate-Term Corporate Bond Index Fund",
+          "sector": "Financial Services",
+          "industry": "Asset Management - Bonds"
+        },
+        {
+          "symbol": "COR",
+          "companyName": "Cencora, Inc.",
+          "sector": "Healthcare",
+          "industry": "Medical - Distribution"
+        },
+        {
+          "symbol": "OKE",
+          "companyName": "ONEOK, Inc.",
+          "sector": "Energy",
+          "industry": "Oil & Gas Midstream"
+        },
+        {
+          "symbol": "NSC",
+          "companyName": "Norfolk Southern Corporation",
+          "sector": "Industrials",
+          "industry": "Railroads"
+        },
+        {
+          "symbol": "TFC",
+          "companyName": "Truist Financial Corporation",
+          "sector": "Financial Services",
+          "industry": "Banks - Regional"
+        },
+        {
+          "symbol": "PAYX",
+          "companyName": "Paychex, Inc.",
+          "sector": "Industrials",
+          "industry": "Staffing & Employment Services"
+        },
+        {
+          "symbol": "NEM",
+          "companyName": "Newmont Corporation",
+          "sector": "Basic Materials",
+          "industry": "Gold"
+        },
+        {
+          "symbol": "MET",
+          "companyName": "MetLife, Inc.",
+          "sector": "Financial Services",
+          "industry": "Insurance - Life"
+        },
+        {
+          "symbol": "RBLX",
+          "companyName": "Roblox Corporation",
+          "sector": "Technology",
+          "industry": "Electronic Gaming & Multimedia"
+        },
+        {
+          "symbol": "ALL",
+          "companyName": "The Allstate Corporation",
+          "sector": "Financial Services",
+          "industry": "Insurance - Property & Casualty"
+        },
+        {
+          "symbol": "NET",
+          "companyName": "Cloudflare, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Infrastructure"
+        },
+        {
+          "symbol": "SPG",
+          "companyName": "Simon Property Group, Inc.",
+          "sector": "Real Estate",
+          "industry": "REIT - Retail"
+        },
+        {
+          "symbol": "AEP",
+          "companyName": "American Electric Power Company, Inc.",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "PSA",
+          "companyName": "Public Storage",
+          "sector": "Real Estate",
+          "industry": "REIT - Industrial"
+        },
+        {
+          "symbol": "FICO",
+          "companyName": "Fair Isaac Corporation",
+          "sector": "Technology",
+          "industry": "Software - Application"
+        },
+        {
+          "symbol": "VST",
+          "companyName": "Vistra Corp.",
+          "sector": "Utilities",
+          "industry": "Independent Power Producers"
+        },
+        {
+          "symbol": "LNG",
+          "companyName": "Cheniere Energy, Inc.",
+          "sector": "Energy",
+          "industry": "Oil & Gas Midstream"
+        },
+        {
+          "symbol": "SQ",
+          "companyName": "Block, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Infrastructure"
+        },
+        {
+          "symbol": "MPLX",
+          "companyName": "MPLX LP",
+          "sector": "Energy",
+          "industry": "Oil & Gas Midstream"
+        },
+        {
+          "symbol": "GWW",
+          "companyName": "W.W. Grainger, Inc.",
+          "sector": "Industrials",
+          "industry": "Industrial - Distribution"
+        },
+        {
+          "symbol": "PSX",
+          "companyName": "Phillips 66",
+          "sector": "Energy",
+          "industry": "Oil & Gas Refining & Marketing"
+        },
+        {
+          "symbol": "DFS",
+          "companyName": "Discover Financial Services",
+          "sector": "Financial Services",
+          "industry": "Financial - Credit Services"
+        },
+        {
+          "symbol": "PWR",
+          "companyName": "Quanta Services, Inc.",
+          "sector": "Industrials",
+          "industry": "Engineering & Construction"
+        },
+        {
+          "symbol": "MPC",
+          "companyName": "Marathon Petroleum Corporation",
+          "sector": "Energy",
+          "industry": "Oil & Gas Refining & Marketing"
+        },
+        {
+          "symbol": "PCAR",
+          "companyName": "PACCAR Inc",
+          "sector": "Industrials",
+          "industry": "Agricultural - Machinery"
+        },
+        {
+          "symbol": "AMP",
+          "companyName": "Ameriprise Financial, Inc.",
+          "sector": "Financial Services",
+          "industry": "Asset Management"
+        },
+        {
+          "symbol": "O",
+          "companyName": "Realty Income Corporation",
+          "sector": "Real Estate",
+          "industry": "REIT - Retail"
+        },
+        {
+          "symbol": "ROST",
+          "companyName": "Ross Stores, Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Apparel - Retail"
+        },
+        {
+          "symbol": "BDX",
+          "companyName": "Becton, Dickinson and Company",
+          "sector": "Healthcare",
+          "industry": "Medical - Instruments & Supplies"
+        },
+        {
+          "symbol": "SLB",
+          "companyName": "Schlumberger Limited",
+          "sector": "Energy",
+          "industry": "Oil & Gas Equipment & Services"
+        },
+        {
+          "symbol": "SREA",
+          "companyName": "Sempra Energy",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "GM",
+          "companyName": "General Motors Company",
+          "sector": "Consumer Cyclical",
+          "industry": "Auto - Manufacturers"
+        },
+        {
+          "symbol": "SRE",
+          "companyName": "Sempra",
+          "sector": "Utilities",
+          "industry": "Diversified Utilities"
+        },
+        {
+          "symbol": "AIG",
+          "companyName": "American International Group, Inc.",
+          "sector": "Financial Services",
+          "industry": "Insurance - Diversified"
+        },
+        {
+          "symbol": "URI",
+          "companyName": "United Rentals, Inc.",
+          "sector": "Industrials",
+          "industry": "Rental & Leasing Services"
+        },
+        {
+          "symbol": "NDAQ",
+          "companyName": "Nasdaq, Inc.",
+          "sector": "Financial Services",
+          "industry": "Financial - Data & Stock Exchanges"
+        },
+        {
+          "symbol": "TLT",
+          "companyName": "iShares 20+ Year Treasury Bond ETF",
+          "sector": "Financial Services",
+          "industry": "Asset Management - Bonds"
+        },
+        {
+          "symbol": "CMI",
+          "companyName": "Cummins Inc.",
+          "sector": "Industrials",
+          "industry": "Industrial - Machinery"
+        },
+        {
+          "symbol": "CTVA",
+          "companyName": "Corteva, Inc.",
+          "sector": "Basic Materials",
+          "industry": "Agricultural Inputs"
+        },
+        {
+          "symbol": "FAST",
+          "companyName": "Fastenal Company",
+          "sector": "Industrials",
+          "industry": "Industrial - Distribution"
+        },
+        {
+          "symbol": "D",
+          "companyName": "Dominion Energy, Inc.",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "EW",
+          "companyName": "Edwards Lifesciences Corporation",
+          "sector": "Healthcare",
+          "industry": "Medical - Devices"
+        },
+        {
+          "symbol": "KVUE",
+          "companyName": "Kenvue Inc.",
+          "sector": "Consumer Defensive",
+          "industry": "Household & Personal Products"
+        },
+        {
+          "symbol": "CCIV",
+          "companyName": "Lucid Group, Inc.",
+          "sector": "Financial Services",
+          "industry": "Shell Companies"
+        },
+        {
+          "symbol": "KR",
+          "companyName": "The Kroger Co.",
+          "sector": "Consumer Defensive",
+          "industry": "Grocery Stores"
+        },
+        {
+          "symbol": "KMB",
+          "companyName": "Kimberly-Clark Corporation",
+          "sector": "Consumer Defensive",
+          "industry": "Household & Personal Products"
+        },
+        {
+          "symbol": "KDP",
+          "companyName": "Keurig Dr Pepper Inc.",
+          "sector": "Consumer Defensive",
+          "industry": "Beverages - Non-Alcoholic"
+        },
+        {
+          "symbol": "TGT",
+          "companyName": "Target Corporation",
+          "sector": "Consumer Defensive",
+          "industry": "Discount Stores"
+        },
+        {
+          "symbol": "MSCI",
+          "companyName": "MSCI Inc.",
+          "sector": "Financial Services",
+          "industry": "Financial - Data & Stock Exchanges"
+        },
+        {
+          "symbol": "SGEN",
+          "companyName": "Seagen Inc.",
+          "sector": "Healthcare",
+          "industry": "Biotechnology"
+        },
+        {
+          "symbol": "OXY",
+          "companyName": "Occidental Petroleum Corporation",
+          "sector": "Energy",
+          "industry": "Oil & Gas Exploration & Production"
+        },
+        {
+          "symbol": "QQQM",
+          "companyName": "Invesco NASDAQ 100 ETF",
+          "sector": "Financial Services",
+          "industry": "Asset Management"
+        },
+        {
+          "symbol": "FANG",
+          "companyName": "Diamondback Energy, Inc.",
+          "sector": "Energy",
+          "industry": "Oil & Gas Exploration & Production"
+        },
+        {
+          "symbol": "CCI",
+          "companyName": "Crown Castle Inc.",
+          "sector": "Real Estate",
+          "industry": "REIT - Specialty"
+        },
+        {
+          "symbol": "VLO",
+          "companyName": "Valero Energy Corporation",
+          "sector": "Energy",
+          "industry": "Oil & Gas Refining & Marketing"
+        },
+        {
+          "symbol": "EXC",
+          "companyName": "Exelon Corporation",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "ENBA",
+          "companyName": "Enbridge Inc. 6.375 SNT18 B 78",
+          "sector": "Energy",
+          "industry": "Oil & Gas Midstream"
+        },
+        {
+          "symbol": "HES",
+          "companyName": "Hess Corporation",
+          "sector": "Energy",
+          "industry": "Oil & Gas Exploration & Production"
+        },
+        {
+          "symbol": "F",
+          "companyName": "Ford Motor Company",
+          "sector": "Consumer Cyclical",
+          "industry": "Auto - Manufacturers"
+        },
+        {
+          "symbol": "VRSK",
+          "companyName": "Verisk Analytics, Inc.",
+          "sector": "Industrials",
+          "industry": "Consulting Services"
+        },
+        {
+          "symbol": "AME",
+          "companyName": "AMETEK, Inc.",
+          "sector": "Industrials",
+          "industry": "Industrial - Machinery"
+        },
+        {
+          "symbol": "VCSH",
+          "companyName": "Vanguard Short-Term Corporate Bond Index Fund",
+          "sector": "Financial Services",
+          "industry": "Asset Management - Bonds"
+        },
+        {
+          "symbol": "VRT",
+          "companyName": "Vertiv Holdings Co",
+          "sector": "Industrials",
+          "industry": "Electrical Equipment & Parts"
+        },
+        {
+          "symbol": "IXUS",
+          "companyName": "iShares Core MSCI Total International Stock ETF",
+          "sector": "Financial Services",
+          "industry": "Asset Management"
+        },
+        {
+          "symbol": "TWTR",
+          "companyName": "Twitter, Inc. (delisted)",
+          "sector": "Communication Services",
+          "industry": "Internet Content & Information"
+        },
+        {
+          "symbol": "DDOG",
+          "companyName": "Datadog, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Application"
+        },
+        {
+          "symbol": "IDXX",
+          "companyName": "IDEXX Laboratories, Inc.",
+          "sector": "Healthcare",
+          "industry": "Medical - Diagnostics & Research"
+        },
+        {
+          "symbol": "FIS",
+          "companyName": "Fidelity National Information Services, Inc.",
+          "sector": "Technology",
+          "industry": "Consumer Electronics"
+        },
+        {
+          "symbol": "MS-PQ",
+          "companyName": "Morgan Stanley",
+          "sector": "Financial Services",
+          "industry": "Financial - Capital Markets"
+        },
+        {
+          "symbol": "YUM",
+          "companyName": "Yum! Brands, Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Restaurants"
+        },
+        {
+          "symbol": "LHX",
+          "companyName": "L3Harris Technologies, Inc.",
+          "sector": "Industrials",
+          "industry": "Aerospace & Defense"
+        },
+        {
+          "symbol": "TTWO",
+          "companyName": "Take-Two Interactive Software, Inc.",
+          "sector": "Technology",
+          "industry": "Electronic Gaming & Multimedia"
+        },
+        {
+          "symbol": "GLW",
+          "companyName": "Corning Incorporated",
+          "sector": "Technology",
+          "industry": "Hardware, Equipment & Parts"
+        },
+        {
+          "symbol": "CTSH",
+          "companyName": "Cognizant Technology Solutions Corporation",
+          "sector": "Technology",
+          "industry": "Information Technology Services"
+        },
+        {
+          "symbol": "VGIT",
+          "companyName": "Vanguard Intermediate-Term Treasury Index Fund",
+          "sector": "Financial Services",
+          "industry": "Asset Management"
+        },
+        {
+          "symbol": "KIM-PN",
+          "companyName": "Kimco Realty Corporation",
+          "sector": "Real Estate",
+          "industry": "REIT - Retail"
+        },
+        {
+          "symbol": "VEEV",
+          "companyName": "Veeva Systems Inc.",
+          "sector": "Healthcare",
+          "industry": "Medical - Healthcare Information Services"
+        },
+        {
+          "symbol": "XEL",
+          "companyName": "Xcel Energy Inc.",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "TTD",
+          "companyName": "The Trade Desk, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Application"
+        },
+        {
+          "symbol": "EA",
+          "companyName": "Electronic Arts Inc.",
+          "sector": "Technology",
+          "industry": "Electronic Gaming & Multimedia"
+        },
+        {
+          "symbol": "CBRE",
+          "companyName": "CBRE Group, Inc.",
+          "sector": "Real Estate",
+          "industry": "Real Estate - Services"
+        },
+        {
+          "symbol": "DHI",
+          "companyName": "D.R. Horton, Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Residential Construction"
+        },
+        {
+          "symbol": "OTIS",
+          "companyName": "Otis Worldwide Corporation",
+          "sector": "Industrials",
+          "industry": "Industrial - Machinery"
+        },
+        {
+          "symbol": "PFH",
+          "companyName": "CABCO Trust for JC Penney Debentures",
+          "sector": "Financial Services",
+          "industry": "Banks"
+        },
+        {
+          "symbol": "PEG",
+          "companyName": "Public Service Enterprise Group Incorporated",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "PRS",
+          "companyName": "Prudential Financial, Inc. 5.62",
+          "sector": "Financial Services",
+          "industry": "Insurance - Life"
+        },
+        {
+          "symbol": "PRH",
+          "companyName": "Prudential Financial, Inc. 5.95",
+          "sector": "Financial Services",
+          "industry": "Insurance - Life"
+        },
+        {
+          "symbol": "ZS",
+          "companyName": "Zscaler, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Infrastructure"
+        },
+        {
+          "symbol": "BKR",
+          "companyName": "Baker Hughes Company",
+          "sector": "Energy",
+          "industry": "Oil & Gas Equipment & Services"
+        },
+        {
+          "symbol": "ARES",
+          "companyName": "Ares Management Corporation",
+          "sector": "Financial Services",
+          "industry": "Asset Management"
+        },
+        {
+          "symbol": "PRU",
+          "companyName": "Prudential Financial, Inc.",
+          "sector": "Financial Services",
+          "industry": "Insurance - Life"
+        },
+        {
+          "symbol": "MBB",
+          "companyName": "iShares MBS ETF",
+          "sector": "Financial Services",
+          "industry": "Asset Management"
+        },
+        {
+          "symbol": "PCG",
+          "companyName": "PG&E Corporation",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "TRGP",
+          "companyName": "Targa Resources Corp.",
+          "sector": "Energy",
+          "industry": "Oil & Gas Midstream"
+        },
+        {
+          "symbol": "RMD",
+          "companyName": "ResMed Inc.",
+          "sector": "Healthcare",
+          "industry": "Medical - Instruments & Supplies"
+        },
+        {
+          "symbol": "ABC",
+          "companyName": "AmerisourceBergen Corporation",
+          "sector": "Healthcare",
+          "industry": "Medical - Distribution"
+        },
+        {
+          "symbol": "XYZ",
+          "companyName": "Block, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Infrastructure"
+        },
+        {
+          "symbol": "HIG",
+          "companyName": "The Hartford Financial Services Group, Inc.",
+          "sector": "Financial Services",
+          "industry": "Insurance - Diversified"
+        },
+        {
+          "symbol": "ODFL",
+          "companyName": "Old Dominion Freight Line, Inc.",
+          "sector": "Industrials",
+          "industry": "Trucking"
+        },
+        {
+          "symbol": "CAH",
+          "companyName": "Cardinal Health, Inc.",
+          "sector": "Healthcare",
+          "industry": "Medical - Distribution"
+        },
+        {
+          "symbol": "HUBS",
+          "companyName": "HubSpot, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Application"
+        },
+        {
+          "symbol": "ED",
+          "companyName": "Consolidated Edison, Inc.",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "MPWR",
+          "companyName": "Monolithic Power Systems, Inc.",
+          "sector": "Technology",
+          "industry": "Semiconductors"
+        },
+        {
+          "symbol": "VMC",
+          "companyName": "Vulcan Materials Company",
+          "sector": "Basic Materials",
+          "industry": "Construction Materials"
+        },
+        {
+          "symbol": "ELC",
+          "companyName": "Entergy Louisiana, LLC COLLATERAL TR MT",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "WAB",
+          "companyName": "Westinghouse Air Brake Technologies Corporation",
+          "sector": "Industrials",
+          "industry": "Railroads"
+        },
+        {
+          "symbol": "ROK",
+          "companyName": "Rockwell Automation, Inc.",
+          "sector": "Industrials",
+          "industry": "Industrial - Machinery"
+        },
+        {
+          "symbol": "ALNY",
+          "companyName": "Alnylam Pharmaceuticals, Inc.",
+          "sector": "Healthcare",
+          "industry": "Biotechnology"
+        },
+        {
+          "symbol": "ETR",
+          "companyName": "Entergy Corporation",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "IT",
+          "companyName": "Gartner, Inc.",
+          "sector": "Technology",
+          "industry": "Information Technology Services"
+        },
+        {
+          "symbol": "SYY",
+          "companyName": "Sysco Corporation",
+          "sector": "Consumer Defensive",
+          "industry": "Food Distribution"
+        },
+        {
+          "symbol": "IEF",
+          "companyName": "iShares 7-10 Year Treasury Bond ETF",
+          "sector": "Financial Services",
+          "industry": "Asset Management - Bonds"
+        },
+        {
+          "symbol": "DAL",
+          "companyName": "Delta Air Lines, Inc.",
+          "sector": "Industrials",
+          "industry": "Airlines, Airports & Air Services"
+        },
+        {
+          "symbol": "IR",
+          "companyName": "Ingersoll Rand Inc.",
+          "sector": "Industrials",
+          "industry": "Industrial - Machinery"
+        },
+        {
+          "symbol": "EQT",
+          "companyName": "EQT Corporation",
+          "sector": "Energy",
+          "industry": "Oil & Gas Exploration & Production"
+        },
+        {
+          "symbol": "DXCM",
+          "companyName": "DexCom, Inc.",
+          "sector": "Healthcare",
+          "industry": "Medical - Devices"
+        },
+        {
+          "symbol": "GEHC",
+          "companyName": "GE HealthCare Technologies Inc.",
+          "sector": "Healthcare",
+          "industry": "Medical - Healthcare Information Services"
+        },
+        {
+          "symbol": "EFX",
+          "companyName": "Equifax Inc.",
+          "sector": "Industrials",
+          "industry": "Consulting Services"
+        },
+        {
+          "symbol": "TW",
+          "companyName": "Tradeweb Markets Inc.",
+          "sector": "Financial Services",
+          "industry": "Financial - Capital Markets"
+        },
+        {
+          "symbol": "VONG",
+          "companyName": "Vanguard Russell 1000 Growth Index Fund",
+          "sector": "Financial Services",
+          "industry": "Asset Management"
+        },
+        {
+          "symbol": "IUSB",
+          "companyName": "iShares Core Total USD Bond Market ETF",
+          "sector": "Financial Services",
+          "industry": "Asset Management - Bonds"
+        },
+        {
+          "symbol": "LYV",
+          "companyName": "Live Nation Entertainment, Inc.",
+          "sector": "Communication Services",
+          "industry": "Entertainment"
+        },
+        {
+          "symbol": "STZ",
+          "companyName": "Constellation Brands, Inc.",
+          "sector": "Consumer Defensive",
+          "industry": "Beverages - Wineries & Distilleries"
+        },
+        {
+          "symbol": "MCHP",
+          "companyName": "Microchip Technology Incorporated",
+          "sector": "Technology",
+          "industry": "Semiconductors"
+        },
+        {
+          "symbol": "VICI",
+          "companyName": "VICI Properties Inc.",
+          "sector": "Real Estate",
+          "industry": "REIT - Diversified"
+        },
+        {
+          "symbol": "HEI",
+          "companyName": "HEICO Corporation",
+          "sector": "Industrials",
+          "industry": "Aerospace & Defense"
+        },
+        {
+          "symbol": "HSY",
+          "companyName": "The Hershey Company",
+          "sector": "Consumer Defensive",
+          "industry": "Food Confectioners"
+        },
+        {
+          "symbol": "MLM",
+          "companyName": "Martin Marietta Materials, Inc.",
+          "sector": "Basic Materials",
+          "industry": "Construction Materials"
+        },
+        {
+          "symbol": "KHC",
+          "companyName": "The Kraft Heinz Company",
+          "sector": "Consumer Defensive",
+          "industry": "Packaged Foods"
+        },
+        {
+          "symbol": "WEC",
+          "companyName": "WEC Energy Group, Inc.",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "A",
+          "companyName": "Agilent Technologies, Inc.",
+          "sector": "Healthcare",
+          "industry": "Medical - Diagnostics & Research"
+        },
+        {
+          "symbol": "EBAY",
+          "companyName": "eBay Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Specialty Retail"
+        },
+        {
+          "symbol": "TPL",
+          "companyName": "Texas Pacific Land Corporation",
+          "sector": "Energy",
+          "industry": "Oil & Gas Exploration & Production"
+        },
+        {
+          "symbol": "CSGP",
+          "companyName": "CoStar Group, Inc.",
+          "sector": "Real Estate",
+          "industry": "Real Estate - Services"
+        },
+        {
+          "symbol": "FWONK",
+          "companyName": "Formula One Group",
+          "sector": "Communication Services",
+          "industry": "Entertainment"
+        },
+        {
+          "symbol": "BRO",
+          "companyName": "Brown & Brown, Inc.",
+          "sector": "Financial Services",
+          "industry": "Insurance - Brokers"
+        },
+        {
+          "symbol": "CRWV",
+          "companyName": "CoreWeave, Inc. Class A Common Stock",
+          "sector": "Technology",
+          "industry": "Software - Infrastructure"
+        },
+        {
+          "symbol": "EXR",
+          "companyName": "Extra Space Storage Inc.",
+          "sector": "Real Estate",
+          "industry": "REIT - Industrial"
+        },
+        {
+          "symbol": "ANSS",
+          "companyName": "ANSYS, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Application"
+        },
+        {
+          "symbol": "LPLA",
+          "companyName": "LPL Financial Holdings Inc.",
+          "sector": "Financial Services",
+          "industry": "Financial - Capital Markets"
+        },
+        {
+          "symbol": "RJF",
+          "companyName": "Raymond James Financial, Inc.",
+          "sector": "Financial Services",
+          "industry": "Financial - Capital Markets"
+        },
+        {
+          "symbol": "OWL",
+          "companyName": "Blue Owl Capital Inc.",
+          "sector": "Financial Services",
+          "industry": "Asset Management"
+        },
+        {
+          "symbol": "XYL",
+          "companyName": "Xylem Inc.",
+          "sector": "Industrials",
+          "industry": "Industrial - Machinery"
+        },
+        {
+          "symbol": "IIVI",
+          "companyName": "II-VI Incorporated",
+          "sector": "Technology",
+          "industry": "Hardware, Equipment & Parts"
+        },
+        {
+          "symbol": "NRG",
+          "companyName": "NRG Energy, Inc.",
+          "sector": "Utilities",
+          "industry": "Independent Power Producers"
+        },
+        {
+          "symbol": "EXEEW",
+          "companyName": "Expand Energy Corporation",
+          "sector": "Energy",
+          "industry": "Oil & Gas Energy"
+        },
+        {
+          "symbol": "LVS",
+          "companyName": "Las Vegas Sands Corp.",
+          "sector": "Consumer Cyclical",
+          "industry": "Gambling, Resorts & Casinos"
+        },
+        {
+          "symbol": "CCL",
+          "companyName": "Carnival Corporation & plc",
+          "sector": "Consumer Cyclical",
+          "industry": "Leisure"
+        },
+        {
+          "symbol": "MTB",
+          "companyName": "M&T Bank Corporation",
+          "sector": "Financial Services",
+          "industry": "Banks - Regional"
+        },
+        {
+          "symbol": "CNC",
+          "companyName": "Centene Corporation",
+          "sector": "Healthcare",
+          "industry": "Medical - Healthcare Plans"
+        },
+        {
+          "symbol": "LEN",
+          "companyName": "Lennar Corporation",
+          "sector": "Consumer Cyclical",
+          "industry": "Residential Construction"
+        },
+        {
+          "symbol": "GIS",
+          "companyName": "General Mills, Inc.",
+          "sector": "Consumer Defensive",
+          "industry": "Packaged Foods"
+        },
+        {
+          "symbol": "DD",
+          "companyName": "DuPont de Nemours, Inc.",
+          "sector": "Basic Materials",
+          "industry": "Chemicals - Specialty"
+        },
+        {
+          "symbol": "VTR",
+          "companyName": "Ventas, Inc.",
+          "sector": "Real Estate",
+          "industry": "REIT - Healthcare Facilities"
+        },
+        {
+          "symbol": "AVB",
+          "companyName": "AvalonBay Communities, Inc.",
+          "sector": "Real Estate",
+          "industry": "REIT - Residential"
+        },
+        {
+          "symbol": "KEYS",
+          "companyName": "Keysight Technologies, Inc.",
+          "sector": "Technology",
+          "industry": "Hardware, Equipment & Parts"
+        },
+        {
+          "symbol": "K",
+          "companyName": "Kellanova",
+          "sector": "Consumer Defensive",
+          "industry": "Food Confectioners"
+        },
+        {
+          "symbol": "IRM",
+          "companyName": "Iron Mountain Incorporated",
+          "sector": "Real Estate",
+          "industry": "REIT - Specialty"
+        },
+        {
+          "symbol": "HUM",
+          "companyName": "Humana Inc.",
+          "sector": "Healthcare",
+          "industry": "Medical - Healthcare Plans"
+        },
+        {
+          "symbol": "NETE",
+          "companyName": "Net Element, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Infrastructure"
+        },
+        {
+          "symbol": "STT",
+          "companyName": "State Street Corporation",
+          "sector": "Financial Services",
+          "industry": "Asset Management"
+        },
+        {
+          "symbol": "BR",
+          "companyName": "Broadridge Financial Solutions, Inc.",
+          "sector": "Technology",
+          "industry": "Information Technology Services"
+        },
+        {
+          "symbol": "VGSH",
+          "companyName": "Vanguard Short-Term Treasury Index Fund",
+          "sector": "Financial Services",
+          "industry": "Asset Management - Leveraged"
+        },
+        {
+          "symbol": "BMLP",
+          "companyName": "BMO Dorsey Wright MLP Index Exchange Traded Notes",
+          "sector": "Financial Services",
+          "industry": "Asset Management"
+        },
+        {
+          "symbol": "DTW",
+          "companyName": "DTE Energy Company JR SUB DB 2017 E",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "TSCO",
+          "companyName": "Tractor Supply Company",
+          "sector": "Consumer Cyclical",
+          "industry": "Specialty Retail"
+        },
+        {
+          "symbol": "DTG",
+          "companyName": "DTE Energy Company 2021 Series",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "DTB",
+          "companyName": "DTE Energy Company 2020 Series",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "NUE",
+          "companyName": "Nucor Corporation",
+          "sector": "Basic Materials",
+          "industry": "Steel"
+        },
+        {
+          "symbol": "SMCI",
+          "companyName": "Super Micro Computer, Inc.",
+          "sector": "Technology",
+          "industry": "Computer Hardware"
+        },
+        {
+          "symbol": "HPQ",
+          "companyName": "HP Inc.",
+          "sector": "Technology",
+          "industry": "Computer Hardware"
+        },
+        {
+          "symbol": "UI",
+          "companyName": "Ubiquiti Inc.",
+          "sector": "Technology",
+          "industry": "Communication Equipment"
+        },
+        {
+          "symbol": "DTE",
+          "companyName": "DTE Energy Company",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "UAL",
+          "companyName": "United Airlines Holdings, Inc.",
+          "sector": "Industrials",
+          "industry": "Airlines, Airports & Air Services"
+        },
+        {
+          "symbol": "IOT",
+          "companyName": "Samsara Inc.",
+          "sector": "Technology",
+          "industry": "Software - Infrastructure"
+        },
+        {
+          "symbol": "EXE",
+          "companyName": "Expand Energy Corporation",
+          "sector": "Energy",
+          "industry": "Oil & Gas Exploration & Production"
+        },
+        {
+          "symbol": "WRB",
+          "companyName": "W. R. Berkley Corporation",
+          "sector": "Financial Services",
+          "industry": "Insurance - Property & Casualty"
+        },
+        {
+          "symbol": "GDDY",
+          "companyName": "GoDaddy Inc.",
+          "sector": "Technology",
+          "industry": "Software - Infrastructure"
+        },
+        {
+          "symbol": "ROL",
+          "companyName": "Rollins, Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Personal Products & Services"
+        },
+        {
+          "symbol": "SPLK",
+          "companyName": "Splunk Inc.",
+          "sector": "Technology",
+          "industry": "Software - Infrastructure"
+        },
+        {
+          "symbol": "EXEEZ",
+          "companyName": "Expand Energy Corporation",
+          "sector": "Energy",
+          "industry": "Oil & Gas Energy"
+        },
+        {
+          "symbol": "FITB",
+          "companyName": "Fifth Third Bancorp",
+          "sector": "Financial Services",
+          "industry": "Banks - Regional"
+        },
+        {
+          "symbol": "EXEEL",
+          "companyName": "Expand Energy Corporation",
+          "sector": "Energy",
+          "industry": "Oil & Gas Energy"
+        },
+        {
+          "symbol": "FCNCA",
+          "companyName": "First Citizens BancShares, Inc.",
+          "sector": "Financial Services",
+          "industry": "Banks - Regional"
+        },
+        {
+          "symbol": "EQR",
+          "companyName": "Equity Residential",
+          "sector": "Real Estate",
+          "industry": "REIT - Residential"
+        },
+        {
+          "symbol": "VRSN",
+          "companyName": "VeriSign, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Infrastructure"
+        },
+        {
+          "symbol": "AWK",
+          "companyName": "American Water Works Company, Inc.",
+          "sector": "Utilities",
+          "industry": "Regulated Water"
+        },
+        {
+          "symbol": "TOST",
+          "companyName": "Toast, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Infrastructure"
+        },
+        {
+          "symbol": "IP",
+          "companyName": "International Paper Company",
+          "sector": "Consumer Cyclical",
+          "industry": "Packaging & Containers"
+        },
+        {
+          "symbol": "ZM",
+          "companyName": "Zoom Video Communications, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Application"
+        },
+        {
+          "symbol": "DOV",
+          "companyName": "Dover Corporation",
+          "sector": "Industrials",
+          "industry": "Industrial - Machinery"
+        },
+        {
+          "symbol": "PPG",
+          "companyName": "PPG Industries, Inc.",
+          "sector": "Basic Materials",
+          "industry": "Chemicals - Specialty"
+        },
+        {
+          "symbol": "IQV",
+          "companyName": "IQVIA Holdings Inc.",
+          "sector": "Healthcare",
+          "industry": "Medical - Diagnostics & Research"
+        },
+        {
+          "symbol": "AEE",
+          "companyName": "Ameren Corporation",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "CDW",
+          "companyName": "CDW Corporation",
+          "sector": "Technology",
+          "industry": "Information Technology Services"
+        },
+        {
+          "symbol": "SOJB",
+          "companyName": "The Southern Company JR SUB NT 76",
+          "sector": "",
+          "industry": ""
+        },
+        {
+          "symbol": "CPAY",
+          "companyName": "Corpay, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Infrastructure"
+        },
+        {
+          "symbol": "CUK",
+          "companyName": "Carnival Corporation & plc",
+          "sector": "Consumer Cyclical",
+          "industry": "Leisure"
+        },
+        {
+          "symbol": "FTV",
+          "companyName": "Fortive Corporation",
+          "sector": "Technology",
+          "industry": "Hardware, Equipment & Parts"
+        },
+        {
+          "symbol": "RKT",
+          "companyName": "Rocket Companies, Inc.",
+          "sector": "Financial Services",
+          "industry": "Financial - Mortgages"
+        },
+        {
+          "symbol": "VLTO",
+          "companyName": "Veralto Corporation",
+          "sector": "Industrials",
+          "industry": "Industrial - Pollution & Treatment Controls"
+        },
+        {
+          "symbol": "PPL",
+          "companyName": "PPL Corporation",
+          "sector": "Utilities",
+          "industry": "Regulated Electric"
+        },
+        {
+          "symbol": "DUOL",
+          "companyName": "Duolingo, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Application"
+        },
+        {
+          "symbol": "VG",
+          "companyName": "Venture Global, Inc.",
+          "sector": "Energy",
+          "industry": "Oil & Gas Midstream"
+        },
+        {
+          "symbol": "STRK",
+          "companyName": "MicroStrategy Incorporated",
+          "sector": "Technology",
+          "industry": "Software - Application"
+        },
+        {
+          "symbol": "JEPQ",
+          "companyName": "JPMorgan Nasdaq Equity Premium Income ETF",
+          "sector": "Financial Services",
+          "industry": "Asset Management - Income"
+        },
+        {
+          "symbol": "TYL",
+          "companyName": "Tyler Technologies, Inc.",
+          "sector": "Technology",
+          "industry": "Software - Application"
+        },
+        {
+          "symbol": "DRI",
+          "companyName": "Darden Restaurants, Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Restaurants"
+        },
+        {
+          "symbol": "SHY",
+          "companyName": "iShares 1-3 Year Treasury Bond ETF",
+          "sector": "Financial Services",
+          "industry": "Asset Management"
+        }
+      ]
+    },
+    {
+      "category": "commodities",
+      "items": [
+        {
+          "symbol": "HEUSX",
+          "name": "Lean Hogs Futures",
+          "description": "Lean hogs are the live hogs that are raised for meat production. Lean hog futures are contracts that allow traders to speculate on the future price of lean hogs."
+        },
+        {
+          "symbol": "ZCUSX",
+          "name": "Corn Futures",
+          "description": "Corn futures are contracts that allow traders to buy or sell corn at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+        },
+        {
+          "symbol": "ALIUSD",
+          "name": "Aluminum Futures",
+          "description": "Aluminum futures are contracts that allow traders to buy or sell aluminum at a predetermined price at a future date. They are used for hedging and speculation in the metals market."
+        },
+        {
+          "symbol": "ZOUSX",
+          "name": "Oat Futures",
+          "description": "Oat futures are contracts that allow traders to buy or sell oats at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+        },
+        {
+          "symbol": "PLUSD",
+          "name": "Platinum",
+          "description": "Platinum is a precious metal used in various industrial applications and jewelry. Platinum futures are contracts that allow traders to speculate on the future price of platinum."
+        },
+        {
+          "symbol": "ZMUSD",
+          "name": "Soybean Meal Futures",
+          "description": "Soybean meal futures are contracts that allow traders to buy or sell soybean meal at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+        },
+        {
+          "symbol": "GCUSD",
+          "name": "Gold Futures",
+          "description": "Gold futures are contracts that allow traders to buy or sell gold at a predetermined price at a future date. They are used for hedging and speculation in the commodities market."
+        },
+        {
+          "symbol": "ZLUSX",
+          "name": "Soybean Oil Futures",
+          "description": "Soybean oil futures are contracts that allow traders to buy or sell soybean oil at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+        },
+        {
+          "symbol": "KEUSX",
+          "name": "Wheat Futures",
+          "description": "Wheat futures are contracts that allow traders to buy or sell wheat at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+        },
+        {
+          "symbol": "HGUSD",
+          "name": "Copper",
+          "description": "Copper is a base metal used in various industrial applications. Copper futures are contracts that allow traders to speculate on the future price of copper."
+        },
+        {
+          "symbol": "SBUSX",
+          "name": "Sugar",
+          "description": "Sugar futures are contracts that allow traders to buy or sell sugar at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+        },
+        {
+          "symbol": "SIUSD",
+          "name": "Silver Futures",
+          "description": "Silver futures are contracts that allow traders to buy or sell silver at a predetermined price at a future date. They are used for hedging and speculation in the commodities market."
+        },
+        {
+          "symbol": "CTUSX",
+          "name": "Cotton",
+          "description": "Cotton futures are contracts that allow traders to buy or sell cotton at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+        },
+        {
+          "symbol": "ZSUSX",
+          "name": "Soybean Futures",
+          "description": "Soybean futures are contracts that allow traders to buy or sell soybeans at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+        },
+        {
+          "symbol": "LBUSD",
+          "name": "Lumber Futures",
+          "description": "Lumber futures are contracts that allow traders to buy or sell lumber at a predetermined price at a future date. They are used for hedging and speculation in the forestry market."
+        },
+        {
+          "symbol": "LEUSX",
+          "name": "Live Cattle Futures",
+          "description": "Live cattle futures are contracts that allow traders to buy or sell live cattle at a predetermined price at a future date. They are used for hedging and speculation in the livestock market."
+        },
+        {
+          "symbol": "NGUSD",
+          "name": "Natural Gas",
+          "description": "Natural gas futures are contracts that allow traders to buy or sell natural gas at a predetermined price at a future date. They are used for hedging and speculation in the energy market."
+        },
+        {
+          "symbol": "CLUSD",
+          "name": "Crude Oil",
+          "description": "Crude oil futures are contracts that allow traders to buy or sell crude oil at a predetermined price at a future date. They are used for hedging and speculation in the energy market."
+        },
+        {
+          "symbol": "OJUSX",
+          "name": "Orange Juice",
+          "description": "Orange juice futures are contracts that allow traders to buy or sell orange juice at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+        },
+        {
+          "symbol": "KCUSX",
+          "name": "Coffee",
+          "description": "Coffee futures are contracts that allow traders to buy or sell coffee at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+        },
+        {
+          "symbol": "PAUSD",
+          "name": "Palladium",
+          "description": "Palladium is a precious metal used in various industrial applications, particularly in catalytic converters. Palladium futures are contracts that allow traders to speculate on the future price of palladium."
+        },
+        {
+          "symbol": "GFUSX",
+          "name": "Feeder Cattle Futures",
+          "description": "Feeder cattle futures are contracts that allow traders to buy or sell feeder cattle at a predetermined price at a future date. They are used for hedging and speculation in the livestock market."
+        },
+        {
+          "symbol": "ZRUSD",
+          "name": "Rough Rice Futures",
+          "description": "Rough rice futures are contracts that allow traders to buy or sell rough rice at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+        },
+        {
+          "symbol": "CCUSD",
+          "name": "Cocoa",
+          "description": "Cocoa futures are contracts that allow traders to buy or sell cocoa at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+        },
+        {
+          "symbol": "RTYUSD",
+          "name": "Micro E-mini Russell 2000 Index Futures",
+          "description": "Micro E-mini Russell 2000 Index futures are contracts that allow traders to speculate on the performance of the small-cap segment of the U.S. equity market, represented by the Russell 2000 Index."
+        },
+        {
+          "symbol": "BZUSD",
+          "name": "Brent Crude Oil",
+          "description": "Brent crude oil futures are contracts that allow traders to buy or sell Brent crude oil at a predetermined price at a future date. They are used for hedging and speculation in the energy market."
+        },
+        {
+          "symbol": "DCUSD",
+          "name": "Class III Milk Futures",
+          "description": "Class III milk futures are contracts that allow traders to buy or sell Class III milk at a predetermined price at a future date. They are used for hedging and speculation in the dairy market."
+        },
+        {
+          "symbol": "RBUSD",
+          "name": "Gasoline RBOB",
+          "description": "Gasoline RBOB futures are contracts that allow traders to buy or sell reformulated gasoline blendstock for oxygenate blending (RBOB) at a predetermined price at a future date. They are used for hedging and speculation in the energy market."
+        },
+        {
+          "symbol": "HOUSD",
+          "name": "Heating Oil",
+          "description": "Heating oil futures are contracts that allow traders to buy or sell heating oil at a predetermined price at a future date. They are used for hedging and speculation in the energy market."
+        }
+      ]
+    },
+    {
+      "category": "indices",
+      "items": [
+        {
+          "name": "Nasdaq 100",
+          "symbol": "NQUSD",
+          "description": "The Nasdaq 100 Index is a stock market index that includes 100 of the largest non-financial companies listed on the Nasdaq stock exchange."
+        },
+        {
+          "name": "CAC 40",
+          "symbol": "FCHI",
+          "description": "The CAC 40 Index is a benchmark French stock market index that represents the 40 largest publicly traded companies on the Euronext Paris exchange."
+        },
+        {
+          "name": "S&P 500",
+          "symbol": "GSPC",
+          "description": "The S&P 500 Index is a stock market index that measures the stock performance of 500 of the largest companies listed on stock exchanges in the United States."
+        },
+        {
+          "name": "DAX Performance Index",
+          "symbol": "GDAXI",
+          "description": "The DAX Performance Index is a stock market index that represents the 40 largest and most liquid German companies traded on the Frankfurt Stock Exchange."
+        },
+        {
+          "name": "Dow Jones Industrial Average",
+          "symbol": "DJI",
+          "description": "The Dow Jones Industrial Average (DJIA) is a stock market index that represents 30 of the largest and most influential companies in the United States."
+        },
+        {
+          "name": "FTSE 100",
+          "symbol": "FTSE",
+          "description": "The FTSE 100 Index is a stock market index that represents the 100 largest companies listed on the London Stock Exchange by market capitalization."
+        }
+      ]
+    },
+     {
+      "category": "crypto",
+      "items": [
+        {
+          "name": "Bitcoin",
+          "symbol": "BTCUSDT",
+          "description": "Bitcoin is a decentralized digital currency that allows for peer-to-peer transactions over the Bitcoin network."
+        },
+        {
+          "name": "Ethereum",
+          "symbol": "ETHUSDT",
+          "description": "Ethereum is a decentralized platform that enables developers to build and deploy smart contracts and decentralized applications (DApps)."
+        },
+        {
+          "name": "XRP",
+          "symbol": "XRPUSDT",
+          "description": "XRP is a digital currency that enables fast, low-cost international payments."
+        },
+        {
+          "name": "BNB",
+          "symbol": "BNBUSDT",
+          "description": "BNB is the native cryptocurrency of the Binance exchange, used to pay for trading fees and participate in token sales."
+        },
+        {
+          "name" : "SOLANA",
+          "symbol": "SOLUSDT",
+          "description": "Solana is a high-performance blockchain platform designed for decentralized applications and cryptonomic systems."
+        },
+        {
+          "name" : "DOGE",
+          "symbol": "DOGEUSDT",
+          "description": "Dogecoin is a cryptocurrency that started as a meme but has gained popularity as a digital currency for tipping and charitable donations."
+        },
+        {
+          "name" : "CARDANO",
+          "symbol": "ADAUSDT",
+          "description": "Cardano is a blockchain platform for smart contracts, aiming to provide a more secure and scalable way to build decentralized applications."
+        },
+        {
+          "name" : "TRON",
+          "symbol": "TRXUSDT",
+          "description": "Tron is a blockchain-based decentralized platform that aims to build a free, global digital content entertainment system."
+        },
+        {
+          "name" : "CHAINLINK",
+          "symbol": "LINKUSDT",
+          "description": "Chainlink is a decentralized oracle network that enables smart contracts to securely interact with real-world data and external APIs."
+        },
+        {
+          "name" : "HYPERLIQUID",
+          "symbol": "HYPERUSDT",
+          "description": "Hyperliquid is a decentralized perpetual trading protocol that offers high-speed trading and low latency."
+        },
+        {
+          "name" : "AVALANCHE",
+          "symbol": "AVAXUSDT",
+          "description": "Avalanche is a decentralized platform that enables the creation of custom blockchain networks and decentralized applications."
+        },
+        {
+          "name" : "STELLAR",
+          "symbol": "XLMUSDT",
+          "description": "Stellar is a decentralized protocol for transferring digital currencies to fiat money domestically and across borders."
+        },
+        {
+          "name" : "SUI",
+          "symbol": "SUIUSDT",
+          "description": "Sui is a layer-1 blockchain designed for high throughput and low latency, enabling developers to build user-friendly decentralized applications."
+        },
+        {
+          "name" : "BITCOIN CASH",
+          "symbol": "BCHUSDT",
+          "description": "Bitcoin Cash is a peer-to-peer electronic cash system that aims to enable fast and low-cost transactions."
+        },
+        {
+          "name" : "HEDERA HASHGRAPH",
+          "symbol": "HBARUSDT",
+          "description": "Hedera Hashgraph is a decentralized public network that aims to provide fast, secure, and fair transactions."
+        },
+          {
+          "name" : "WhiteBIT Coin",
+          "symbol": "WBTUSDT",
+          "description": "WhiteBIT Coin is the native utility token of the WhiteBIT exchange, used for trading fee discounts and other benefits."
+        },
+        {
+          "name" : "LITECOIN",
+          "symbol": "LTCUSDT",
+          "description": "Litecoin is a peer-to-peer cryptocurrency that enables instant, low-cost payments to anyone in the world."
+        },
+         {
+          "name" : "SHIBA INU",
+          "symbol": "SHIBUSDT",
+          "description": "Shiba Inu is a meme-based cryptocurrency that has gained popularity as a decentralized community-driven project."
+        },
+         {
+          "name" : "TONCOIN",
+          "symbol": "TONUSDT",
+          "description": "Toncoin is the native cryptocurrency of the TON blockchain, designed for fast and secure transactions."
+        },
+        {
+          "name" : "POLKADOT",
+          "symbol": "DOTUSDT",
+          "description": "Polkadot is a multi-chain blockchain platform that enables different blockchains to interoperate and share information."
+        },
+        {
+          "name" : "MANTLE",
+          "symbol": "MNTUSDT",
+          "description": "Mantle is a layer-2 scaling solution for Ethereum, designed to improve transaction speed and reduce costs."
+        },
+      {
+          "name" : "MONERO",
+          "symbol": "XMRUSDT",
+          "description": "Monero is a privacy-focused cryptocurrency that enables secure, untraceable transactions."
+        },
+        {
+          "name" : "CRONOS",
+          "symbol": "CROUSDT",
+          "description": "Cronos is a blockchain network built on the Cosmos SDK that enables the development of decentralized applications and crypto projects."
+        },
+        {
+          "name" : "UNISWAP",
+          "symbol": "UNIUSDT",
+          "description": "Uniswap is a decentralized exchange protocol built on Ethereum that allows users to swap various tokens."
+        },
+        {
+          "name" : "AAVE",
+          "symbol": "AAVEUSDT",
+          "description": "Aave is a decentralized lending protocol that allows users to borrow and lend cryptocurrencies."
+        },
+        {
+          "name" : "PEPE",
+          "symbol": "PEPEUSDT",
+          "description": "Pepe is a meme-based cryptocurrency that has gained popularity as a decentralized community-driven project."
+        },
+        {
+          "name" : "NEAR PROTOCOL",
+          "symbol": "NEARUSDT",
+          "description": "Near Protocol is a decentralized application platform designed for scalability and user-friendliness."
+        },
+        {
+          "name" : "ONDO",
+          "symbol": "ONDOUSDT",
+          "description": "Ondo is a decentralized finance platform that offers a range of financial services, including lending and borrowing."
+        },
+        {
+          "name" : "APTOS",
+          "symbol": "APTUSDT",
+          "description": "Aptos is a layer-1 blockchain designed for high throughput and low latency, enabling developers to build user-friendly decentralized applications."
+        },
+        {
+          "name" : "ARBITRUM",
+          "symbol": "ARBUSDT",
+          "description": "Arbitrum is a layer-2 scaling solution for Ethereum, designed to improve transaction speed and reduce costs."
+        },
+        {
+          "name" : "ETHEREUM CLASSIC",
+          "symbol": "ETCUSDT",
+          "description": "Ethereum Classic is a decentralized platform that enables smart contracts and decentralized applications."
+        },
+        {
+          "name" : "WORLDCOIN",
+          "symbol": "WLDUSDT",
+          "description": "Worldcoin is a global digital currency that aims to create a more inclusive financial system."
+        },
+        {
+          "name" : "POLYGON ECOSYSTEM",
+          "symbol": "POLUSDT",
+          "description": "Polygon is a layer-2 scaling solution for Ethereum, designed to improve transaction speed and reduce costs."
+        },
+        {
+          "name" : "BITTENSOR",
+          "symbol": "TAOUSDT",
+          "description": "Bittensor is a decentralized, open-source protocol for creating and training AI models."
+        },
+        {
+          "name" : "KASPA",
+          "symbol": "KASUSDT",
+          "description": "Kaspa is a high-throughput blockchain that aims to provide fast and secure transactions."
+        },
+        {
+          "name" : "INTERNET COMPUTER",
+          "symbol": "ICPUSDT",
+          "description": "Internet Computer is a decentralized computing platform that aims to extend the public internet."
+        },
+        {
+          "name" : "GATECHAIN TOKEN",
+          "symbol": "GTUSDT",
+          "description": "Gatechain is a public blockchain that aims to provide a secure and efficient infrastructure for digital assets."
+        },
+        {
+          "name" : "ALGORAND",
+          "symbol": "ALGOUSDT",
+          "description": "Algorand is a decentralized blockchain platform that aims to provide fast and secure transactions."
+        },
+        {
+          "name" : "VET CHAIN",
+          "symbol": "VETUSDT",
+          "description": "VeChain is a blockchain platform designed to enhance supply chain and business processes."
+        },
+        {
+          "name" : "RENDER TOKEN",
+          "symbol": "RENDERUSDT",
+          "description": "Render Token is a decentralized GPU rendering network that aims to connect 3D artists and studios with GPU providers."
+        },
+        {
+          "name" : "COSMOS",
+          "symbol": "ATOMUSDT",
+          "description": "Cosmos is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms."
+        },
+        {
+          "name" : "IMMUTABLE X",
+          "symbol": "IMXUSDT",
+          "description": "Immutable X is a layer-2 scaling solution for Ethereum, designed to improve transaction speed and reduce costs."
+        },
+        {
+          "name" : "FILECOIN",
+          "symbol": "FILUSDT",
+          "description": "Filecoin is a decentralized storage network that aims to provide a secure and efficient way to store and retrieve data."
+        },
+        {
+          "name" : "Artificial Superintelligence Alliance",
+          "symbol": "FETUSDT",
+          "description": "Artificial Superintelligence Alliance is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
+        },
+         {
+          "name" : "OFFICIAL TRUMP",
+          "symbol": "TRUMPUSDT",
+          "description": "OFFICIAL TRUMP is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
+        },
+         {
+          "name" : "META GAME",
+          "symbol": "MGCUSDT",
+          "description": "META GAME is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
+        },
+          {
+          "name" : "QUANT",
+          "symbol": "QNTUSDT",
+          "description": "QUANT is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
+        },
+          {
+          "name" : "PENDLE",
+          "symbol": "PENDLEUSDT",
+          "description": "PENDLE is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
+        },
+          {
+          "name" : "ETHERFI",
+          "symbol": "ETHFIUSDT",
+          "description": "ETHERFI is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
+        },
+          {
+          "name" : "INJECTIVE PROTOCOL",
+          "symbol": "INJUSDT",
+          "description": "INJECTIVE PROTOCOL is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
+        },
+          {
+          "name" : "OPTIMISIM",
+          "symbol": "OPUSDT",
+          "description": "OPTIMISIM is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
+        },
+          {
+          "name" : "QUANT",
+          "symbol": "QNTUSDT",
+          "description": "QUANT is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
+        },
+          {
+          "name" : "BONK",
+          "symbol": "BONKUSDT",
+          "description": "BONK is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
+        },
+          {
+          "name" : "FLARE",
+          "symbol": "FLRUSDT",
+          "description": "FLARE is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
+        },
+          {
+          "name" : "CELESTIA",
+          "symbol": "TIAUSDT",
+          "description": "CELESTIA is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
+        },
+         {
+          "name" : "STACKS",
+          "symbol": "STXUSDT",
+          "description": "STACKS is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms."
+        },
+         {
+          "name" : "ZCASH",
+          "symbol": "ZECUSDT",
+          "description": "ZCASH is a decentralized and open-source cryptocurrency that offers privacy and selective transparency of transactions."
+        },
+         {
+          "name" : "ETHEREUM NAME SERVICE",
+          "symbol": "ENSUSDT",
+          "description": "ETHEREUM NAME SERVICE is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms."
+        },
+         {
+          "name" : "LIDO DAO",
+          "symbol": "LDOUSDT",
+          "description": "LIDO DAO is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms."
+        },
+         {
+          "name" : "XDC NETWORK",
+          "symbol": "XDCUSDT",
+          "description": "XDC NETWORK is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms."
+        },
+         {
+          "name" : "CURVE DAO",
+          "symbol": "CRVUSDT",
+          "description": "CURVE DAO is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms."
+        },
+         {
+          "name" : "AERODROME",
+          "symbol": "AEROUSDT",
+          "description": "AERODROME is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms."
+        },
+         {
+          "name" : "PANCAKESWAP",
+          "symbol": "CAKEUSDT",
+          "description": "PANCAKESWAP is a decentralized exchange built on the Binance Smart Chain, allowing users to trade BEP-20 tokens."
+        },
+         {
+          "name" : "GNOSIS",
+          "symbol": "GNOUSDT",
+          "description": "GNOSIS is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms."
+        },
+         {
+          "name" : "EOS",
+          "symbol": "EOSUSDT",
+          "description": "EOS is a decentralized operating system that enables the development and hosting of industrial-scale decentralized applications."
+        },
+         {
+          "name" : "FLOKI INU",
+          "symbol": "FLOKIUSDT",
+          "description": "FLOKI INU is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms."
+        },
+         {
+          "name" : "DEXE",
+          "symbol": "DEXEUSDT",
+          "description": "DEXE is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms."
+        },
+         {
+          "name" : "THE GRAPH",
+          "symbol": "GRTUSDT",
+          "description": "THE GRAPH is a decentralized protocol for indexing and querying blockchain data."
+        },
+        {
+          "name" : "DOGWIFHAT",
+          "symbol": "WIFUSDT",
+          "description": "DOGWIFHAT is a decentralized protocol for indexing and querying blockchain data."
+        },
+        {
+          "name" : "RAYDIUM",
+          "symbol": "RAYUSDT",
+          "description": "RAYDIUM is a decentralized protocol for providing liquidity and trading on the Solana blockchain."
+        },
+        {
+          "name" : "THE SANDBOX",
+          "symbol": "SANDUSDT",
+          "description": "THE SANDBOX is a decentralized gaming platform that allows users to create, own, and monetize their gaming experiences."
+        },
+        {
+          "name" : "NEXO",
+          "symbol": "NEXOUSDT",
+          "description": "NEXO is a decentralized platform that offers instant crypto credit lines and high-yield savings accounts."
+        },
+        {
+          "name" : "THETA NETWORK",
+          "symbol": "THETAUSDT",
+          "description": "THETA NETWORK is a decentralized video delivery network powered by blockchain technology."
+        },
+        {
+          "name" : "VIRTUAL PROTOCOL",
+          "symbol": "VIRTUALUSDT",
+          "description": "VIRTUAL PROTOCOL is a decentralized protocol for creating and managing virtual assets on the blockchain."
+        },
+        {
+          "name" : "FANTOM",
+          "symbol": "FTMUSDT",
+          "description": "FANTOM is a high-performance, scalable, and secure smart contract platform for decentralized applications."
+        },
+        {
+          "name" : "DECENTRALAND",
+          "symbol": "MANAUSDT",
+          "description": "DECENTRALAND is a virtual reality platform powered by the Ethereum blockchain, allowing users to create, experience, and monetize content and applications."
+        },
+        {
+          "name" : "TEZOS",
+          "symbol": "XTZUSDT",
+          "description": "TEZOS is a self-amending blockchain that evolves by upgrading itself."
+        },
+        {
+          "name" : "SEI",
+          "symbol": "SEIUSDT",
+          "description": "SEI is a high-performance blockchain designed for trading and DeFi applications."
+        },
+        {
+          "name" : "FARTCOIN",
+          "symbol": "FARTCOINTUSDT",
+          "description": "THE GRAPH is a decentralized protocol for indexing and querying blockchain data."
+        },
+        {
+          "name" : "JTO",
+          "symbol": "JTOUSDT",
+          "description": "JTO is a decentralized protocol for indexing and querying blockchain data."
+        },
+        {
+          "name" : "JASMY",
+          "symbol": "JASMYUSDT",
+          "description": "JASMY is a decentralized protocol for indexing and querying blockchain data."
+        },
+        {
+          "name" : "JUP",
+          "symbol": "JUPITERUSDT",
+          "description": "JUPITER is a decentralized protocol for indexing and querying blockchain data."
+        },
+        {
+          "name" : "BITTORENT",
+          "symbol": "BTTUSDT",
+          "description": "BITTORRENT is a decentralized protocol for sharing and distributing digital content."
+        },
+        {
+          "name" : "NEO",
+          "symbol": "NEOUSDT",
+          "description": "NEO is a decentralized platform for building smart contracts and decentralized applications."
+        },
+        {
+          "name" : "RSR",
+          "symbol": "RSRUSDT",
+          "description": "RSR is a decentralized protocol for indexing and querying blockchain data."
+        },
+        {
+          "name" : "GALA",
+          "symbol": "GALAUSDT",
+          "description": "GALA is a decentralized protocol for indexing and querying blockchain data."
+        },
+        {
+          "name" : "SUPER",
+          "symbol": "SUPERUSDT",
+          "description": "SUPER is a decentralized protocol for indexing and querying blockchain data."
+        },
+        {
+          "name" : "BITCOIN SV",
+          "symbol": "BSVUSDT",
+          "description": "BITCOIN SV is a decentralized cryptocurrency that aims to fulfill the original vision of Bitcoin."
+        },
+        {
+          "name" : "MIOTA",
+          "symbol": "IOTAUSDT",
+          "description": "MIOTA is a cryptocurrency designed for the Internet of Things (IoT)."
+        },
+        {
+          "name" : "SYRUP TOKEN",
+          "symbol": "SYRUPUSDT",
+          "description": "SYRUP TOKEN is a decentralized protocol for indexing and querying blockchain data."
+        },
+        {
+          "name" : "TRUST WALLET TOKEN",
+          "symbol": "TWTUSDT",
+          "description": "TRUST WALLET TOKEN is a decentralized protocol for indexing and querying blockchain data."
+        }
+      ]
+    }
+  ]
+}
