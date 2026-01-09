@@ -6,81 +6,193 @@
         {
           "name": "Australian Dollar / Japanese Yen",
           "symbol": "AUDJPY",
+           "aliases": [
+        "audjpy",
+        "aud jpy",
+        "aud/jpy",
+        "australian dollar japanese yen",
+        "audjpy price"
+      ],
           "description": "The Australian Dollar (AUD) is the currency of Australia, and the Japanese Yen (JPY) is the currency of Japan. This pair represents how many Japanese Yen are needed to purchase one Australian Dollar."
         },
         {
           "name": "Australian Dollar / U.S. Dollar",
           "symbol": "AUDUSD",
+             "aliases": [
+        "audusd",
+        "aud usd",
+        "aud/usd",
+        "australian dollar us dollar",
+        "audusd price"
+      ],
           "description": "The Australian Dollar (AUD) is the currency of Australia, and the U.S. Dollar (USD) is the currency of the United States. This pair shows how many U.S. Dollars are needed to purchase one Australian Dollar."
         },
         {
           "name": "Euro / Australian Dollar",
           "symbol": "EURAUD",
+           "aliases": [
+        "euraud",
+        "eur aud",
+        "eur/aud",
+        "euro australian dollar",
+        "euraud price"
+      ],
           "description": "The Euro (EUR) is the currency of the Eurozone, and the Australian Dollar (AUD) is the currency of Australia. This pair indicates how many Australian Dollars are needed to purchase one Euro."
         },
         {
           "name": "Euro / Canadian Dollar",
           "symbol": "EURCAD",
+            "aliases": [
+        "eurcad",
+        "eur cad",
+        "eur/cad",
+        "euro canadian dollar",
+        "eurcad price"
+      ],
           "description": "The Euro (EUR) is the currency of the Eurozone, and the Canadian Dollar (CAD) is the currency of Canada. This pair shows how many Canadian Dollars are needed to purchase one Euro."
         },
         {
           "name": "Euro / British Pound",
           "symbol": "EURGBP",
+             "aliases": [
+        "eurgbp",
+        "eur gbp",
+        "eur/gbp",
+        "euro british pound",
+        "eurgbp price"
+      ],
           "description": "The Euro (EUR) is the currency of the Eurozone, and the British Pound (GBP) is the currency of the United Kingdom. This pair indicates how many British Pounds are needed to purchase one Euro."
         },
         {
           "name": "Euro / Japanese Yen",
           "symbol": "EURJPY",
+            "aliases": [
+        "eurjpy",
+        "eur jpy",
+        "eur/jpy",
+        "euro japanese yen",
+        "eurjpy price"
+      ],
           "description": "The Euro (EUR) is the currency of the Eurozone, and the Japanese Yen (JPY) is the currency of Japan. This pair shows how many Japanese Yen are needed to purchase one Euro."
         },
         {
           "name": "Euro / U.S. Dollar",
           "symbol": "EURUSD",
+           "aliases": [
+        "eurusd",
+        "eur usd",
+        "eur/usd",
+        "euro us dollar",
+        "eurusd price"
+      ],
           "description": "The Euro (EUR) is the currency of the Eurozone, and the U.S. Dollar (USD) is the currency of the United States. This pair indicates how many U.S. Dollars are needed to purchase one Euro."
         },
         {
           "name": "British Pound / Australian Dollar",
           "symbol": "GBPAUD",
+              "aliases": [
+        "gbpaud",
+        "gbp aud",
+        "gbp/aud",
+        "british pound australian dollar",
+        "gbpaud price"
+      ],
           "description": "The British Pound (GBP) is the currency of the United Kingdom, and the Australian Dollar (AUD) is the currency of Australia. This pair shows how many Australian Dollars are needed to purchase one British Pound."
         },
         {
           "name": "New Zealand Dollar / Japanese Yen",
           "symbol": "NZDJPY",
+            "aliases": [
+        "nzdjpy",
+        "nzd jpy",
+        "nzd/jpy",
+        "new zealand dollar japanese yen",
+        "nzdjpy price"
+      ],
           "description": "The New Zealand Dollar (NZD) is the currency of New Zealand, and the Japanese Yen (JPY) is the currency of Japan. This pair indicates how many Japanese Yen are needed to purchase one New Zealand Dollar."
         },
         {
           "name": "New Zealand Dollar / U.S. Dollar",
           "symbol": "NZDUSD",
+            "aliases": [
+        "nzdusd",
+        "nzd usd",
+        "nzd/usd",
+        "new zealand dollar us dollar",
+        "nzdusd price"
+      ],
           "description": "The New Zealand Dollar (NZD) is the currency of New Zealand, and the U.S. Dollar (USD) is the currency of the United States. This pair shows how many U.S. Dollars are needed to purchase one New Zealand Dollar."
         },
         {
           "name": "U.S. Dollar / Canadian Dollar",
           "symbol": "USDCAD",
+           "aliases": [
+    "usdcad",
+    "usd cad",
+    "usd/cad",
+    "us dollar canadian dollar",
+    "usdcad price"
+  ],
           "description": "The U.S. Dollar (USD) is the currency of the United States, and the Canadian Dollar (CAD) is the currency of Canada. This pair indicates how many Canadian Dollars are needed to purchase one U.S. Dollar."
         },
         {
           "name": "U.S. Dollar / Swiss Franc",
           "symbol": "USDCHF",
+           "aliases": [
+    "usdchf",
+    "usd chf",
+    "usd/chf",
+    "us dollar swiss franc",
+    "usdchf price"
+  ],
           "description": "The U.S. Dollar (USD) is the currency of the United States, and the Swiss Franc (CHF) is the currency of Switzerland. This pair shows how many Swiss Francs are needed to purchase one U.S. Dollar."
         },
         {
           "name": "U.S. Dollar / Japanese Yen",
           "symbol": "USDJPY",
+           "aliases": [
+    "usdjpy",
+    "usd jpy",
+    "usd/jpy",
+    "us dollar japanese yen",
+    "usdjpy price"
+  ],
           "description": "The U.S. Dollar (USD) is the currency of the United States, and the Japanese Yen (JPY) is the currency of Japan. This pair indicates how many Japanese Yen are needed to purchase one U.S. Dollar."
         },
         {
           "name": "British Pound / Swiss Franc",
           "symbol": "GBPCHF",
+           "aliases": [
+    "gbpchf",
+    "gbp chf",
+    "gbp/chf",
+    "british pound swiss franc",
+    "gbpchf price"
+  ],
           "description": "The British Pound (GBP) is the currency of the United Kingdom, and the Swiss Franc (CHF) is the currency of Switzerland. This pair indicates how many Swiss Francs are needed to purchase one British Pound."
         },
         {
           "name": "Swiss Franc / Japanese Yen",
           "symbol": "CHFJPY",
+            "aliases": [
+    "chfjpy",
+    "chf jpy",
+    "chf/jpy",
+    "swiss franc japanese yen",
+    "chfjpy price"
+  ],
           "description": "The Swiss Franc (CHF) is the currency of Switzerland, and the Japanese Yen (JPY) is the currency of Japan. This pair indicates how many Japanese Yen are needed to purchase one Swiss Franc."
         },
         {
           "name": "Canadian Dollar / Japanese Yen",
           "symbol": "CADJPY",
+          "aliases": [
+    "cadjpy",
+    "cad jpy",
+    "cad/jpy",
+    "canadian dollar japanese yen",
+    "cadjpy price"
+  ],
           "description": "The Canadian Dollar (CAD) is the currency of Canada, and the Japanese Yen (JPY) is the currency of Japan. This pair indicates how many Japanese Yen are needed to purchase one Canadian Dollar."
         }
       ]
