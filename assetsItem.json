@@ -204,217 +204,253 @@
           "symbol": "MSFT",
           "companyName": "Microsoft Corporation",
           "sector": "Technology",
-          "industry": "Software - Infrastructure"
+          "industry": "Software - Infrastructure",
+          "aliases": ["msft", "microsoft", "microsoft corporation", "msft stock", "microsoft stock"]
         },
         {
           "symbol": "NVDA",
           "companyName": "NVIDIA Corporation",
           "sector": "Technology",
-          "industry": "Semiconductors"
+          "industry": "Semiconductors",
+          "aliases": ["nvda", "nvidia", "nvidia corporation", "nvda stock", "nvidia stock"]
         },
         {
           "symbol": "AAPL",
           "companyName": "Apple Inc.",
           "sector": "Technology",
-          "industry": "Consumer Electronics"
+          "industry": "Consumer Electronics",
+          "aliases": ["aapl", "apple", "apple inc", "aapl stock", "apple stock"]
         },
         {
           "symbol": "AMZN",
           "companyName": "Amazon.com, Inc.",
           "sector": "Consumer Cyclical",
-          "industry": "Specialty Retail"
+          "industry": "Specialty Retail",
+          "aliases": ["amzn", "amazon", "amazon.com", "amzn stock", "amazon stock"]
         },
         {
           "symbol": "GOOGL",
           "companyName": "Alphabet Inc.",
           "sector": "Communication Services",
-          "industry": "Internet Content & Information"
+          "industry": "Internet Content & Information",
+          "aliases": ["googl", "google", "alphabet", "alphabet inc", "googl stock", "google stock"]
         },
         {
           "symbol": "GOOG",
           "companyName": "Alphabet Inc.",
           "sector": "Communication Services",
-          "industry": "Internet Content & Information"
+          "industry": "Internet Content & Information",
+          "aliases": ["goog", "google class c", "alphabet class c", "goog stock"]
         },
         {
           "symbol": "META",
           "companyName": "Meta Platforms, Inc.",
           "sector": "Communication Services",
-          "industry": "Internet Content & Information"
+          "industry": "Internet Content & Information",
+          "aliases": ["meta", "facebook", "meta platforms", "meta stock", "facebook stock"]
         },
         {
           "symbol": "AVGO",
           "companyName": "Broadcom Inc.",
           "sector": "Technology",
-          "industry": "Semiconductors"
+          "industry": "Semiconductors",
+          "aliases": ["avgo", "broadcom", "broadcom inc", "avgo stock", "broadcom stock"]
         },
         {
           "symbol": "BRK-B",
           "companyName": "Berkshire Hathaway Inc.",
           "sector": "Financial Services",
-          "industry": "Insurance - Diversified"
+          "industry": "Insurance - Diversified",
+          "aliases": ["brk-b", "brk.b", "berkshire hathaway", "berkshire b", "brk-b stock"]
         },
         {
           "symbol": "BRK-A",
           "companyName": "Berkshire Hathaway Inc.",
           "sector": "Financial Services",
-          "industry": "Insurance - Diversified"
+          "industry": "Insurance - Diversified",
+          "aliases": ["brk-a", "brk.a", "berkshire hathaway a", "berkshire a", "brk-a stock"]
         },
         {
           "symbol": "TSLA",
           "companyName": "Tesla, Inc.",
           "sector": "Consumer Cyclical",
-          "industry": "Auto - Manufacturers"
+          "industry": "Auto - Manufacturers",
+          "aliases": ["tsla", "tesla", "tesla inc", "tsla stock", "tesla stock"]
         },
         {
           "symbol": "WMT",
           "companyName": "Walmart Inc.",
           "sector": "Consumer Defensive",
-          "industry": "Discount Stores"
+          "industry": "Discount Stores",
+          "aliases": ["wmt", "walmart", "walmart inc", "wmt stock", "walmart stock"]
         },
         {
           "symbol": "JPM",
           "companyName": "JPMorgan Chase & Co.",
           "sector": "Financial Services",
-          "industry": "Banks - Diversified"
+          "industry": "Banks - Diversified",
+          "aliases": ["jpm", "jpmorgan", "jpmorgan chase", "jpm stock", "jpmorgan stock"]
         },
         {
           "symbol": "LLY",
           "companyName": "Eli Lilly and Company",
           "sector": "Healthcare",
-          "industry": "Drug Manufacturers - General"
+          "industry": "Drug Manufacturers - General",
+          "aliases": ["lly", "eli lilly", "eli lilly and company", "lly stock", "eli lilly stock"]
         },
         {
           "symbol": "V",
           "companyName": "Visa Inc.",
           "sector": "Financial Services",
-          "industry": "Financial - Credit Services"
+          "industry": "Financial - Credit Services",
+          "aliases": ["v", "visa", "visa inc", "v stock", "visa stock"]
         },
         {
           "symbol": "MA",
           "companyName": "Mastercard Incorporated",
           "sector": "Financial Services",
-          "industry": "Financial - Credit Services"
+          "industry": "Financial - Credit Services",
+          "aliases": ["ma", "mastercard", "mastercard incorporated", "ma stock", "mastercard stock"]
         },
         {
           "symbol": "NFLX",
           "companyName": "Netflix, Inc.",
           "sector": "Communication Services",
-          "industry": "Entertainment"
+          "industry": "Entertainment",
+          "aliases": ["nflx", "netflix", "netflix inc", "nflx stock", "netflix stock"]
         },
         {
           "symbol": "VXUS",
           "companyName": "Vanguard Total Intl Stock Idx Fund",
           "sector": "Financial Services",
-          "industry": "Asset Management"
+          "industry": "Asset Management",
+          "aliases": ["vxus", "vanguard international", "vxus stock", "vanguard total international"]
         },
         {
           "symbol": "XOM",
           "companyName": "Exxon Mobil Corporation",
           "sector": "Energy",
-          "industry": "Oil & Gas Integrated"
+          "industry": "Oil & Gas Integrated",
+          "aliases": ["xom", "exxon", "exxon mobil", "xom stock", "exxon stock"]
         },
         {
           "symbol": "ORCL",
           "companyName": "Oracle Corporation",
           "sector": "Technology",
-          "industry": "Software - Infrastructure"
+          "industry": "Software - Infrastructure",
+          "aliases": ["orcl", "oracle", "oracle corporation", "orcl stock", "oracle stock"]
         },
         {
           "symbol": "COST",
           "companyName": "Costco Wholesale Corporation",
           "sector": "Consumer Defensive",
-          "industry": "Discount Stores"
+          "industry": "Discount Stores",
+          "aliases": ["cost", "costco", "costco wholesale", "cost stock", "costco stock"]
         },
         {
           "symbol": "HD",
           "companyName": "The Home Depot, Inc.",
           "sector": "Consumer Cyclical",
-          "industry": "Home Improvement"
+          "industry": "Home Improvement",
+          "aliases": ["hd", "home depot", "the home depot", "hd stock", "home depot stock"]
         },
         {
           "symbol": "PG",
           "companyName": "The Procter & Gamble Company",
           "sector": "Consumer Defensive",
-          "industry": "Household & Personal Products"
+          "industry": "Household & Personal Products",
+          "aliases": ["pg", "procter gamble", "p&g", "pg stock", "procter & gamble stock"]
         },
         {
           "symbol": "JNJ",
           "companyName": "Johnson & Johnson",
           "sector": "Healthcare",
-          "industry": "Drug Manufacturers - General"
+          "industry": "Drug Manufacturers - General",
+          "aliases": ["jnj", "johnson johnson", "j&j", "jnj stock", "johnson & johnson stock"]
         },
         {
           "symbol": "BND",
           "companyName": "Vanguard Total Bond Market Index Fund",
           "sector": "Financial Services",
-          "industry": "Asset Management - Bonds"
+          "industry": "Asset Management - Bonds",
+          "aliases": ["bnd", "vanguard bond", "bnd stock", "vanguard total bond"]
         },
         {
           "symbol": "BAC",
           "companyName": "Bank of America Corporation",
           "sector": "Financial Services",
-          "industry": "Banks - Diversified"
+          "industry": "Banks - Diversified",
+          "aliases": ["bac", "bank of america", "bofa", "bac stock", "bank of america stock"]
         },
         {
           "symbol": "ABBV",
           "companyName": "AbbVie Inc.",
           "sector": "Healthcare",
-          "industry": "Drug Manufacturers - General"
+          "industry": "Drug Manufacturers - General",
+          "aliases": ["abbv", "abbvie", "abbvie inc", "abbv stock", "abbvie stock"]
         },
         {
           "symbol": "PLTR",
           "companyName": "Palantir Technologies Inc.",
           "sector": "Technology",
-          "industry": "Software - Infrastructure"
+          "industry": "Software - Infrastructure",
+          "aliases": ["pltr", "palantir", "palantir technologies", "pltr stock", "palantir stock"]
         },
         {
           "symbol": "KO",
           "companyName": "The Coca-Cola Company",
           "sector": "Consumer Defensive",
-          "industry": "Beverages - Non-Alcoholic"
+          "industry": "Beverages - Non-Alcoholic",
+          "aliases": ["ko", "coca cola", "coke", "ko stock", "coca-cola stock"]
         },
         {
           "symbol": "UNH",
           "companyName": "UnitedHealth Group Incorporated",
           "sector": "Healthcare",
-          "industry": "Medical - Healthcare Plans"
+          "industry": "Medical - Healthcare Plans",
+          "aliases": ["unh", "unitedhealth", "united health", "unh stock", "unitedhealth stock"]
         },
         {
           "symbol": "CRM",
           "companyName": "Salesforce, Inc.",
           "sector": "Technology",
-          "industry": "Software - Application"
+          "industry": "Software - Application",
+          "aliases": ["crm", "salesforce", "salesforce inc", "crm stock", "salesforce stock"]
         },
         {
           "symbol": "TMUS",
           "companyName": "T-Mobile US, Inc.",
           "sector": "Communication Services",
-          "industry": "Telecommunications Services"
+          "industry": "Telecommunications Services",
+          "aliases": ["tmus", "t-mobile", "tmobile", "tmus stock", "t-mobile stock"]
         },
         {
           "symbol": "PM",
           "companyName": "Philip Morris International Inc.",
           "sector": "Consumer Defensive",
-          "industry": "Tobacco"
+          "industry": "Tobacco",
+          "aliases": ["pm", "philip morris", "pm stock", "philip morris stock"]
         },
         {
           "symbol": "WFC",
           "companyName": "Wells Fargo & Company",
           "sector": "Financial Services",
-          "industry": "Banks - Diversified"
+          "industry": "Banks - Diversified",
+          "aliases": ["wfc", "wells fargo", "wells fargo & company", "wfc stock", "wells fargo stock"]
         },
         {
           "symbol": "CVX",
           "companyName": "Chevron Corporation",
           "sector": "Energy",
-          "industry": "Oil & Gas Integrated"
+          "industry": "Oil & Gas Integrated",
+          "aliases": ["cvx", "chevron", "chevron corporation", "cvx stock", "chevron stock"]
         },
         {
           "symbol": "CSCO",
           "companyName": "Cisco Systems, Inc.",
           "sector": "Technology",
-          "industry": "Communication Equipment"
+          "industry": "Communication Equipment",
+          "aliases": ["csco", "cisco", "cisco systems", "csco stock", "cisco stock"]
         },
         {
           "symbol": "VZA",
@@ -426,229 +462,267 @@
           "symbol": "IBM",
           "companyName": "International Business Machines Corporation",
           "sector": "Technology",
-          "industry": "Information Technology Services"
+          "industry": "Information Technology Services",
+          "aliases": ["ibm", "international business machines", "ibm stock", "ibm corporation"]
         },
         {
           "symbol": "GE",
           "companyName": "General Electric Company",
           "sector": "Industrials",
-          "industry": "Aerospace & Defense"
+          "industry": "Aerospace & Defense",
+          "aliases": ["ge", "general electric", "ge stock", "general electric stock"]
         },
         {
           "symbol": "ABT",
           "companyName": "Abbott Laboratories",
           "sector": "Healthcare",
-          "industry": "Medical - Devices"
+          "industry": "Medical - Devices",
+          "aliases": ["abt", "abbott", "abbott laboratories", "abt stock", "abbott stock"]
         },
         {
           "symbol": "MCD",
           "companyName": "McDonald's Corporation",
           "sector": "Consumer Cyclical",
-          "industry": "Restaurants"
+          "industry": "Restaurants",
+          "aliases": ["mcd", "mcdonalds", "mcdonald's", "mcd stock", "mcdonalds stock"]
         },
         {
           "symbol": "NOW",
           "companyName": "ServiceNow, Inc.",
           "sector": "Technology",
-          "industry": "Software - Application"
+          "industry": "Software - Application",
+          "aliases": ["now", "servicenow", "service now", "now stock", "servicenow stock"]
         },
         {
           "symbol": "AXP",
           "companyName": "American Express Company",
           "sector": "Financial Services",
-          "industry": "Financial - Credit Services"
+          "industry": "Financial - Credit Services",
+          "aliases": ["axp", "american express", "amex", "axp stock", "american express stock"]
         },
         {
           "symbol": "MS",
           "companyName": "Morgan Stanley",
           "sector": "Financial Services",
-          "industry": "Financial - Capital Markets"
+          "industry": "Financial - Capital Markets",
+          "aliases": ["ms", "morgan stanley", "ms stock", "morgan stanley stock"]
         },
         {
           "symbol": "QQQ",
           "companyName": "Invesco QQQ Trust",
           "sector": "Financial Services",
-          "industry": "Asset Management"
+          "industry": "Asset Management",
+          "aliases": ["qqq", "invesco qqq", "nasdaq etf", "qqq etf", "qqq stock"]
         },
         {
           "symbol": "ISRG",
           "companyName": "Intuitive Surgical, Inc.",
           "sector": "Healthcare",
-          "industry": "Medical - Instruments & Supplies"
+          "industry": "Medical - Instruments & Supplies",
+          "aliases": ["isrg", "intuitive surgical", "isrg stock", "intuitive surgical stock"]
         },
         {
           "symbol": "DIS",
           "companyName": "The Walt Disney Company",
           "sector": "Communication Services",
-          "industry": "Entertainment"
+          "industry": "Entertainment",
+          "aliases": ["dis", "disney", "walt disney", "dis stock", "disney stock"]
         },
         {
           "symbol": "MER-PK",
           "companyName": "Merrill Lynch Capital Trust I GTD CAP 6.45%",
           "sector": "",
-          "industry": ""
+          "industry": "",
+          "aliases": ["mer-pk", "merrill lynch", "mer-pk stock"]
         },
         {
           "symbol": "AMD",
           "companyName": "Advanced Micro Devices, Inc.",
           "sector": "Technology",
-          "industry": "Semiconductors"
+          "industry": "Semiconductors",
+          "aliases": ["amd", "advanced micro devices", "amd stock", "amd chip"]
         },
         {
           "symbol": "TBB",
           "companyName": "AT&T Inc. 5.35% GLB NTS 66",
           "sector": "Communication Services",
-          "industry": "Telecommunications Services"
+          "industry": "Telecommunications Services",
+          "aliases": ["tbb", "at&t notes", "tbb stock"]
         },
         {
           "symbol": "T",
           "companyName": "AT&T Inc.",
           "sector": "Communication Services",
-          "industry": "Telecommunications Services"
+          "industry": "Telecommunications Services",
+          "aliases": ["t", "at&t", "att", "t stock", "at&t stock"]
         },
         {
           "symbol": "UBER",
           "companyName": "Uber Technologies, Inc.",
           "sector": "Technology",
-          "industry": "Software - Application"
+          "industry": "Software - Application",
+          "aliases": ["uber", "uber technologies", "uber stock"]
         },
         {
           "symbol": "MRK",
           "companyName": "Merck & Co., Inc.",
           "sector": "Healthcare",
-          "industry": "Drug Manufacturers - General"
+          "industry": "Drug Manufacturers - General",
+          "aliases": ["mrk", "merck", "merck & co", "mrk stock", "merck stock"]
         },
         {
           "symbol": "GS",
           "companyName": "The Goldman Sachs Group, Inc.",
           "sector": "Financial Services",
-          "industry": "Financial - Capital Markets"
+          "industry": "Financial - Capital Markets",
+          "aliases": ["gs", "goldman sachs", "goldman", "gs stock", "goldman sachs stock"]
         },
         {
           "symbol": "INTU",
           "companyName": "Intuit Inc.",
           "sector": "Technology",
-          "industry": "Software - Application"
+          "industry": "Software - Application",
+          "aliases": ["intu", "intuit", "intuit inc", "intu stock", "intuit stock"]
         },
         {
           "symbol": "TBC",
           "companyName": "AT&T Inc. 5.625% Global Notes d",
           "sector": "Communication Services",
-          "industry": "Telecommunications Services"
+          "industry": "Telecommunications Services",
+          "aliases": ["tbc", "at&t global notes", "tbc stock"]
         },
         {
           "symbol": "VZ",
           "companyName": "Verizon Communications Inc.",
           "sector": "Communication Services",
-          "industry": "Telecommunications Services"
+          "industry": "Telecommunications Services",
+          "aliases": ["vz", "verizon", "verizon communications", "vz stock", "verizon stock"]
         },
         {
           "symbol": "PEP",
           "companyName": "PepsiCo, Inc.",
           "sector": "Consumer Defensive",
-          "industry": "Beverages - Non-Alcoholic"
+          "industry": "Beverages - Non-Alcoholic",
+          "aliases": ["pep", "pepsi", "pepsico", "pep stock", "pepsi stock"]
         },
         {
           "symbol": "RTX",
           "companyName": "RTX Corporation",
           "sector": "Industrials",
-          "industry": "Aerospace & Defense"
+          "industry": "Aerospace & Defense",
+          "aliases": ["rtx", "raytheon", "rtx corporation", "rtx stock", "raytheon stock"]
         },
         {
           "symbol": "BKNG",
           "companyName": "Booking Holdings Inc.",
           "sector": "Consumer Cyclical",
-          "industry": "Travel Services"
+          "industry": "Travel Services",
+          "aliases": ["bkng", "booking", "booking holdings", "bkng stock", "booking.com stock"]
         },
         {
           "symbol": "ADBE",
           "companyName": "Adobe Inc.",
           "sector": "Technology",
-          "industry": "Software - Infrastructure"
+          "industry": "Software - Infrastructure",
+          "aliases": ["adbe", "adobe", "adobe inc", "adbe stock", "adobe stock"]
         },
         {
           "symbol": "TXN",
           "companyName": "Texas Instruments Incorporated",
           "sector": "Technology",
-          "industry": "Semiconductors"
+          "industry": "Semiconductors",
+          "aliases": ["txn", "texas instruments", "ti", "txn stock", "texas instruments stock"]
         },
         {
           "symbol": "QCOM",
           "companyName": "QUALCOMM Incorporated",
           "sector": "Technology",
-          "industry": "Semiconductors"
+          "industry": "Semiconductors",
+          "aliases": ["qcom", "qualcomm", "qualcomm inc", "qcom stock", "qualcomm stock"]
         },
         {
           "symbol": "CAT",
           "companyName": "Caterpillar Inc.",
           "sector": "Industrials",
-          "industry": "Agricultural - Machinery"
+          "industry": "Agricultural - Machinery",
+          "aliases": ["cat", "caterpillar", "caterpillar inc", "cat stock", "caterpillar stock"]
         },
         {
           "symbol": "PGR",
           "companyName": "The Progressive Corporation",
           "sector": "Financial Services",
-          "industry": "Insurance - Property & Casualty"
+          "industry": "Insurance - Property & Casualty",
+          "aliases": ["pgr", "progressive", "progressive corporation", "pgr stock"]
         },
         {
           "symbol": "SPGI",
           "companyName": "S&P Global Inc.",
           "sector": "Financial Services",
-          "industry": "Financial - Data & Stock Exchanges"
+          "industry": "Financial - Data & Stock Exchanges",
+          "aliases": ["spgi", "s&p global", "sp global", "spgi stock"]
         },
         {
           "symbol": "SCHW",
           "companyName": "The Charles Schwab Corporation",
           "sector": "Financial Services",
-          "industry": "Financial - Capital Markets"
+          "industry": "Financial - Capital Markets",
+          "aliases": ["schw", "charles schwab", "schwab", "schw stock"]
         },
         {
           "symbol": "TMO",
           "companyName": "Thermo Fisher Scientific Inc.",
           "sector": "Healthcare",
-          "industry": "Medical - Diagnostics & Research"
+          "industry": "Medical - Diagnostics & Research",
+          "aliases": ["tmo", "thermo fisher", "thermo fisher scientific", "tmo stock"]
         },
         {
           "symbol": "BA",
           "companyName": "The Boeing Company",
           "sector": "Industrials",
-          "industry": "Aerospace & Defense"
+          "industry": "Aerospace & Defense",
+          "aliases": ["ba", "boeing", "the boeing company", "ba stock", "boeing stock"]
         },
         {
           "symbol": "BSX",
           "companyName": "Boston Scientific Corporation",
           "sector": "Healthcare",
-          "industry": "Medical - Devices"
+          "industry": "Medical - Devices",
+          "aliases": ["bsx", "boston scientific", "bsx stock"]
         },
         {
           "symbol": "BLK",
           "companyName": "BlackRock, Inc.",
           "sector": "Financial Services",
-          "industry": "Asset Management"
+          "industry": "Asset Management",
+          "aliases": ["blk", "blackrock", "blackrock inc", "blk stock", "blackrock stock"]
         },
         {
           "symbol": "SYK",
           "companyName": "Stryker Corporation",
           "sector": "Healthcare",
-          "industry": "Medical - Devices"
+          "industry": "Medical - Devices",
+          "aliases": ["syk", "stryker", "stryker corporation", "syk stock"]
         },
         {
           "symbol": "NEE",
           "companyName": "NextEra Energy, Inc.",
           "sector": "Utilities",
-          "industry": "Regulated Electric"
+          "industry": "Regulated Electric",
+          "aliases": ["nee", "nextera", "nextera energy", "nee stock", "nextera stock"]
         },
         {
           "symbol": "TJX",
           "companyName": "The TJX Companies, Inc.",
           "sector": "Consumer Cyclical",
-          "industry": "Apparel - Retail"
+          "industry": "Apparel - Retail",
+          "aliases": ["tjx", "tjx companies", "tj maxx", "tjx stock"]
         },
         {
           "symbol": "AMGN",
           "companyName": "Amgen Inc.",
           "sector": "Healthcare",
-          "industry": "Drug Manufacturers - General"
+          "industry": "Drug Manufacturers - General",
+          "aliases": ["amgn", "amgen", "amgen inc", "amgn stock", "amgen stock"]
         },
         {
           "symbol": "AMAT",
@@ -660,151 +734,176 @@
           "symbol": "C",
           "companyName": "Citigroup Inc.",
           "sector": "Financial Services",
-          "industry": "Banks - Diversified"
+          "industry": "Banks - Diversified",
+          "aliases": ["c", "citi", "citigroup", "c stock", "citigroup stock"]
         },
         {
           "symbol": "HON",
           "companyName": "Honeywell International Inc.",
           "sector": "Industrials",
-          "industry": "Conglomerates"
+          "industry": "Conglomerates",
+          "aliases": ["hon", "honeywell", "honeywell international", "hon stock", "honeywell stock"]
         },
         {
           "symbol": "DHR",
           "companyName": "Danaher Corporation",
           "sector": "Healthcare",
-          "industry": "Medical - Diagnostics & Research"
+          "industry": "Medical - Diagnostics & Research",
+          "aliases": ["dhr", "danaher", "danaher corporation", "dhr stock"]
         },
         {
           "symbol": "UNP",
           "companyName": "Union Pacific Corporation",
           "sector": "Industrials",
-          "industry": "Railroads"
+          "industry": "Railroads",
+          "aliases": ["unp", "union pacific", "union pacific corporation", "unp stock", "union pacific stock"]
         },
         {
           "symbol": "DE",
           "companyName": "Deere & Company",
           "sector": "Industrials",
-          "industry": "Agricultural - Machinery"
+          "industry": "Agricultural - Machinery",
+          "aliases": ["de", "deere", "john deere", "de stock", "deere stock"]
         },
         {
           "symbol": "LOW",
           "companyName": "Lowe's Companies, Inc.",
           "sector": "Consumer Cyclical",
-          "industry": "Home Improvement"
+          "industry": "Home Improvement",
+          "aliases": ["low", "lowes", "lowe's", "low stock", "lowes stock"]
         },
         {
           "symbol": "CMCSA",
           "companyName": "Comcast Corporation",
           "sector": "Communication Services",
-          "industry": "Telecommunications Services"
+          "industry": "Telecommunications Services",
+          "aliases": ["cmcsa", "comcast", "comcast corporation", "cmcsa stock", "comcast stock"]
         },
         {
           "symbol": "PFE",
           "companyName": "Pfizer Inc.",
           "sector": "Healthcare",
-          "industry": "Drug Manufacturers - General"
+          "industry": "Drug Manufacturers - General",
+          "aliases": ["pfe", "pfizer", "pfizer inc", "pfe stock", "pfizer stock"]
         },
         {
           "symbol": "PANW",
           "companyName": "Palo Alto Networks, Inc.",
           "sector": "Technology",
-          "industry": "Software - Infrastructure"
+          "industry": "Software - Infrastructure",
+          "aliases": ["panw", "palo alto", "palo alto networks", "panw stock", "palo alto stock"]
         },
         {
           "symbol": "APP",
           "companyName": "AppLovin Corporation",
           "sector": "Technology",
-          "industry": "Software - Application"
+          "industry": "Software - Application",
+          "aliases": ["app", "applovin", "applovin corporation", "app stock", "applovin stock"]
         },
         {
           "symbol": "ADP",
           "companyName": "Automatic Data Processing, Inc.",
           "sector": "Industrials",
-          "industry": "Staffing & Employment Services"
+          "industry": "Staffing & Employment Services",
+          "aliases": ["adp", "automatic data processing", "adp stock", "adp payroll"]
         },
         {
           "symbol": "GILD",
           "companyName": "Gilead Sciences, Inc.",
           "sector": "Healthcare",
-          "industry": "Drug Manufacturers - General"
+          "industry": "Drug Manufacturers - General",
+          "aliases": ["gild", "gilead", "gilead sciences", "gild stock", "gilead stock"]
         },
         {
           "symbol": "ANET",
           "companyName": "Arista Networks, Inc.",
           "sector": "Technology",
-          "industry": "Computer Hardware"
+          "industry": "Computer Hardware",
+          "aliases": ["anet", "arista", "arista networks", "anet stock", "arista stock"]
         },
         {
           "symbol": "GEV",
           "companyName": "GE Vernova Inc.",
           "sector": "Utilities",
-          "industry": "Renewable Utilities"
+          "industry": "Renewable Utilities",
+          "aliases": ["gev", "ge vernova", "gev stock"]
         },
         {
           "symbol": "COP",
           "companyName": "ConocoPhillips",
           "sector": "Energy",
-          "industry": "Oil & Gas Exploration & Production"
+          "industry": "Oil & Gas Exploration & Production",
+          "aliases": ["cop", "conocophillips", "conoco", "cop stock", "conocophillips stock"]
         },
         {
           "symbol": "FISV",
           "companyName": "Fiserv, Inc.",
           "sector": "Technology",
-          "industry": "Information Technology Services"
+          "industry": "Information Technology Services",
+          "aliases": ["fisv", "fiserv", "fiserv inc", "fisv stock"]
         },
         {
           "symbol": "KKR",
           "companyName": "KKR & Co. Inc.",
           "sector": "Financial Services",
-          "industry": "Asset Management"
+          "industry": "Asset Management",
+          "aliases": ["kkr", "kkr & co", "kohlberg kravis", "kkr stock"]
         },
         {
           "symbol": "ANTM",
           "companyName": "Elevance Health Inc.",
           "sector": "Healthcare",
-          "industry": "Medical - Healthcare Plans"
+          "industry": "Medical - Healthcare Plans",
+          "aliases": ["antm", "elevance", "elevance health", "antm stock"]
         },
         {
           "symbol": "BX",
           "companyName": "Blackstone Inc.",
           "sector": "Financial Services",
-          "industry": "Asset Management"
+          "industry": "Asset Management",
+          "aliases": ["bx", "blackstone", "blackstone inc", "bx stock", "blackstone stock"]
         },
         {
           "symbol": "MSTR",
           "companyName": "MicroStrategy Incorporated",
           "sector": "Technology",
-          "industry": "Software - Application"
+          "industry": "Software - Application",
+          "aliases": ["mstr", "microstrategy", "micro strategy", "mstr stock", "microstrategy stock"]
         },
         {
           "symbol": "ADI",
           "companyName": "Analog Devices, Inc.",
           "sector": "Technology",
-          "industry": "Semiconductors"
+          "industry": "Semiconductors",
+          "aliases": ["adi", "analog devices", "adi stock"]
         },
         {
           "symbol": "CRWD",
           "companyName": "CrowdStrike Holdings, Inc.",
           "sector": "Technology",
-          "industry": "Software - Infrastructure"
+          "industry": "Software - Infrastructure",
+          "aliases": ["crwd", "crowdstrike", "crowd strike", "crwd stock", "crowdstrike stock"]
         },
         {
           "symbol": "MMC",
           "companyName": "Marsh & McLennan Companies, Inc.",
           "sector": "Financial Services",
-          "industry": "Insurance - Brokers"
+          "industry": "Insurance - Brokers",
+          "aliases": ["mmc", "marsh mclennan", "marsh & mclennan", "mmc stock"]
         },
         {
           "symbol": "LRCX",
           "companyName": "Lam Research Corporation",
           "sector": "Technology",
-          "industry": "Semiconductors"
+          "industry": "Semiconductors",
+          "aliases": ["lrcx", "lam research", "lrcx stock"]
         },
         {
           "symbol": "MU",
           "companyName": "Micron Technology, Inc.",
           "sector": "Technology",
-          "industry": "Semiconductors"
+          "industry": "Semiconductors",
+          "aliases": ["mu", "micron", "micron technology", "mu stock", "micron stock"]
         },
         {
           "symbol": "EP-PC",
@@ -816,55 +915,64 @@
           "symbol": "VRTX",
           "companyName": "Vertex Pharmaceuticals Incorporated",
           "sector": "Healthcare",
-          "industry": "Biotechnology"
+          "industry": "Biotechnology",
+          "aliases": ["vrtx", "vertex", "vertex pharmaceuticals", "vrtx stock", "vertex stock"]
         },
         {
           "symbol": "LMT",
           "companyName": "Lockheed Martin Corporation",
           "sector": "Industrials",
-          "industry": "Aerospace & Defense"
+          "industry": "Aerospace & Defense",
+          "aliases": ["lmt", "lockheed", "lockheed martin", "lmt stock", "lockheed stock"]
         },
         {
           "symbol": "KLAC",
           "companyName": "KLA Corporation",
           "sector": "Technology",
-          "industry": "Semiconductors"
+          "industry": "Semiconductors",
+          "aliases": ["klac", "kla", "kla corporation", "klac stock"]
         },
         {
           "symbol": "FI",
           "companyName": "Fiserv, Inc.",
           "sector": "Technology",
-          "industry": "Information Technology Services"
+          "industry": "Information Technology Services",
+          "aliases": ["fi", "fidelity", "fi stock"]
         },
         {
           "symbol": "APH",
           "companyName": "Amphenol Corporation",
           "sector": "Technology",
-          "industry": "Hardware, Equipment & Parts"
+          "industry": "Hardware, Equipment & Parts",
+          "aliases": ["aph", "amphenol", "amphenol corporation", "aph stock"]
         },
         {
           "symbol": "BNDX",
           "companyName": "Vanguard Total International Bond Index Fund",
           "sector": "Financial Services",
-          "industry": "Asset Management - Bonds"
+          "industry": "Asset Management - Bonds",
+          "aliases": ["bndx", "vanguard international bond", "bndx stock"]
         },
         {
           "symbol": "PLD",
           "companyName": "Prologis, Inc.",
           "sector": "Real Estate",
-          "industry": "REIT - Industrial"
+          "industry": "REIT - Industrial",
+          "aliases": ["pld", "prologis", "prologis inc", "pld stock"]
         },
         {
           "symbol": "ICE",
           "companyName": "Intercontinental Exchange, Inc.",
           "sector": "Financial Services",
-          "industry": "Financial - Data & Stock Exchanges"
+          "industry": "Financial - Data & Stock Exchanges",
+          "aliases": ["ice", "intercontinental exchange", "ice stock"]
         },
         {
           "symbol": "SBUX",
           "companyName": "Starbucks Corporation",
           "sector": "Consumer Cyclical",
-          "industry": "Restaurants"
+          "industry": "Restaurants",
+          "aliases": ["sbux", "starbucks", "starbucks corporation", "sbux stock"]
         },
         {
           "symbol": "BNH",
@@ -882,19 +990,22 @@
           "symbol": "CME",
           "companyName": "CME Group Inc.",
           "sector": "Financial Services",
-          "industry": "Financial - Data & Stock Exchanges"
+          "industry": "Financial - Data & Stock Exchanges",
+          "aliases": ["cme", "cme group", "chicago mercantile", "cme stock"]
         },
         {
           "symbol": "AMT",
           "companyName": "American Tower Corporation",
           "sector": "Real Estate",
-          "industry": "REIT - Specialty"
+          "industry": "REIT - Specialty",
+          "aliases": ["amt", "american tower", "amt stock", "american tower corporation"]
         },
         {
           "symbol": "MO",
           "companyName": "Altria Group, Inc.",
           "sector": "Consumer Defensive",
-          "industry": "Tobacco"
+          "industry": "Tobacco",
+          "aliases": ["mo", "altria", "altria group", "mo stock"]
         },
         {
           "symbol": "SOJD",
@@ -906,7 +1017,8 @@
           "symbol": "INTC",
           "companyName": "Intel Corporation",
           "sector": "Technology",
-          "industry": "Semiconductors"
+          "industry": "Semiconductors",
+          "aliases": ["intc", "intel", "intel corporation", "intc stock", "intel stock"]
         },
         {
           "symbol": "SOJC",
@@ -918,7 +1030,8 @@
           "symbol": "WELL",
           "companyName": "Welltower Inc.",
           "sector": "Real Estate",
-          "industry": "REIT - Healthcare Facilities"
+          "industry": "REIT - Healthcare Facilities",
+          "aliases": ["well", "welltower", "welltower inc", "well stock"]
         },
         {
           "symbol": "SOJE",
@@ -936,37 +1049,43 @@
           "symbol": "NKE",
           "companyName": "NIKE, Inc.",
           "sector": "Consumer Cyclical",
-          "industry": "Apparel - Footwear & Accessories"
+          "industry": "Apparel - Footwear & Accessories",
+          "aliases": ["nke", "nike", "nike inc", "nke stock", "nike stock"]
         },
         {
           "symbol": "SO",
           "companyName": "The Southern Company",
           "sector": "Utilities",
-          "industry": "Regulated Electric"
+          "industry": "Regulated Electric",
+          "aliases": ["so", "southern company", "so stock"]
         },
         {
           "symbol": "CEG",
           "companyName": "Constellation Energy Corporation",
           "sector": "Utilities",
-          "industry": "Renewable Utilities"
+          "industry": "Renewable Utilities",
+          "aliases": ["ceg", "constellation energy", "ceg stock"]
         },
         {
           "symbol": "WM",
           "companyName": "Waste Management, Inc.",
           "sector": "Industrials",
-          "industry": "Waste Management"
+          "industry": "Waste Management",
+          "aliases": ["wm", "waste management", "wm stock"]
         },
         {
           "symbol": "SHW",
           "companyName": "The Sherwin-Williams Company",
           "sector": "Basic Materials",
-          "industry": "Chemicals - Specialty"
+          "industry": "Chemicals - Specialty",
+          "aliases": ["shw", "sherwin williams", "sherwin-williams", "shw stock"]
         },
         {
           "symbol": "HCA",
           "companyName": "HCA Healthcare, Inc.",
           "sector": "Healthcare",
-          "industry": "Medical - Care Facilities"
+          "industry": "Medical - Care Facilities",
+          "aliases": ["hca", "hca healthcare", "hca stock"]
         },
         {
           "symbol": "DUKB",
@@ -978,13 +1097,15 @@
           "symbol": "CDNS",
           "companyName": "Cadence Design Systems, Inc.",
           "sector": "Technology",
-          "industry": "Software - Application"
+          "industry": "Software - Application",
+          "aliases": ["cdns", "cadence", "cadence design", "cdns stock"]
         },
         {
           "symbol": "ABNB",
           "companyName": "Airbnb, Inc.",
           "sector": "Consumer Cyclical",
-          "industry": "Travel Services"
+          "industry": "Travel Services",
+          "aliases": ["abnb", "airbnb", "airbnb inc", "abnb stock", "airbnb stock"]
         },
         {
           "symbol": "MCO",
@@ -1026,7 +1147,8 @@
           "symbol": "UPS",
           "companyName": "United Parcel Service, Inc.",
           "sector": "Industrials",
-          "industry": "Integrated Freight & Logistics"
+          "industry": "Integrated Freight & Logistics",
+          "aliases": ["ups", "united parcel service", "ups stock"]
         },
         {
           "symbol": "EQIX",
@@ -1044,7 +1166,8 @@
           "symbol": "DASH",
           "companyName": "DoorDash, Inc.",
           "sector": "Communication Services",
-          "industry": "Internet Content & Information"
+          "industry": "Internet Content & Information",
+          "aliases": ["dash", "doordash", "door dash", "dash stock"]
         },
         {
           "symbol": "APO",
@@ -1056,31 +1179,36 @@
           "symbol": "MDLZ",
           "companyName": "Mondelez International, Inc.",
           "sector": "Consumer Defensive",
-          "industry": "Food Confectioners"
+          "industry": "Food Confectioners",
+          "aliases": ["mdlz", "mondelez", "mondelez international", "mdlz stock"]
         },
         {
           "symbol": "CI",
           "companyName": "Cigna Corporation",
           "sector": "Healthcare",
-          "industry": "Medical - Healthcare Plans"
+          "industry": "Medical - Healthcare Plans",
+          "aliases": ["ci", "cigna", "cigna corporation", "ci stock"]
         },
         {
           "symbol": "FTNT",
           "companyName": "Fortinet, Inc.",
           "sector": "Technology",
-          "industry": "Software - Infrastructure"
+          "industry": "Software - Infrastructure",
+          "aliases": ["ftnt", "fortinet", "fortinet inc", "ftnt stock"]
         },
         {
           "symbol": "SNPS",
           "companyName": "Synopsys, Inc.",
           "sector": "Technology",
-          "industry": "Software - Infrastructure"
+          "industry": "Software - Infrastructure",
+          "aliases": ["snps", "synopsys", "synopsys inc", "snps stock"]
         },
         {
           "symbol": "MMM",
           "companyName": "3M Company",
           "sector": "Industrials",
-          "industry": "Conglomerates"
+          "industry": "Conglomerates",
+          "aliases": ["mmm", "3m", "3m company", "mmm stock"]
         },
         {
           "symbol": "TDG",
@@ -1092,7 +1220,8 @@
           "symbol": "DELL",
           "companyName": "Dell Technologies Inc.",
           "sector": "Technology",
-          "industry": "Computer Hardware"
+          "industry": "Computer Hardware",
+          "aliases": ["dell", "dell technologies", "dell stock"]
         },
         {
           "symbol": "CVS",
@@ -2686,147 +2815,176 @@
         {
           "symbol": "HEUSX",
           "name": "Lean Hogs Futures",
-          "description": "Lean hogs are the live hogs that are raised for meat production. Lean hog futures are contracts that allow traders to speculate on the future price of lean hogs."
+          "description": "Lean hogs are the live hogs that are raised for meat production. Lean hog futures are contracts that allow traders to speculate on the future price of lean hogs.",
+          "aliases": ["heusx", "lean hogs", "hogs", "lean hog futures", "hog price"]
         },
         {
           "symbol": "ZCUSX",
           "name": "Corn Futures",
-          "description": "Corn futures are contracts that allow traders to buy or sell corn at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+          "description": "Corn futures are contracts that allow traders to buy or sell corn at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market.",
+          "aliases": ["zcusx", "corn", "corn futures", "corn price"]
         },
         {
           "symbol": "ALIUSD",
           "name": "Aluminum Futures",
-          "description": "Aluminum futures are contracts that allow traders to buy or sell aluminum at a predetermined price at a future date. They are used for hedging and speculation in the metals market."
+          "description": "Aluminum futures are contracts that allow traders to buy or sell aluminum at a predetermined price at a future date. They are used for hedging and speculation in the metals market.",
+          "aliases": ["aliusd", "aluminum", "aluminium", "aluminum futures", "aluminum price"]
         },
         {
           "symbol": "ZOUSX",
           "name": "Oat Futures",
-          "description": "Oat futures are contracts that allow traders to buy or sell oats at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+          "description": "Oat futures are contracts that allow traders to buy or sell oats at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market.",
+          "aliases": ["zousx", "oat", "oats", "oat futures", "oat price"]
         },
         {
           "symbol": "PLUSD",
           "name": "Platinum",
-          "description": "Platinum is a precious metal used in various industrial applications and jewelry. Platinum futures are contracts that allow traders to speculate on the future price of platinum."
+          "description": "Platinum is a precious metal used in various industrial applications and jewelry. Platinum futures are contracts that allow traders to speculate on the future price of platinum.",
+          "aliases": ["plusd", "platinum", "platinum futures", "platinum price"]
         },
         {
           "symbol": "ZMUSD",
           "name": "Soybean Meal Futures",
-          "description": "Soybean meal futures are contracts that allow traders to buy or sell soybean meal at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+          "description": "Soybean meal futures are contracts that allow traders to buy or sell soybean meal at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market.",
+          "aliases": ["zmusd", "soybean meal", "soy meal", "soybean meal futures"]
         },
         {
           "symbol": "GCUSD",
           "name": "Gold Futures",
-          "description": "Gold futures are contracts that allow traders to buy or sell gold at a predetermined price at a future date. They are used for hedging and speculation in the commodities market."
+          "description": "Gold futures are contracts that allow traders to buy or sell gold at a predetermined price at a future date. They are used for hedging and speculation in the commodities market.",
+          "aliases": ["gcusd", "gold", "gold futures", "xauusd", "gold price"]
         },
         {
           "symbol": "ZLUSX",
           "name": "Soybean Oil Futures",
-          "description": "Soybean oil futures are contracts that allow traders to buy or sell soybean oil at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+          "description": "Soybean oil futures are contracts that allow traders to buy or sell soybean oil at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market.",
+          "aliases": ["zlusx", "soybean oil", "soy oil", "soybean oil futures"]
         },
         {
           "symbol": "KEUSX",
           "name": "Wheat Futures",
-          "description": "Wheat futures are contracts that allow traders to buy or sell wheat at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+          "description": "Wheat futures are contracts that allow traders to buy or sell wheat at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market.",
+          "aliases": ["keusx", "wheat", "wheat futures", "wheat price"]
         },
         {
           "symbol": "HGUSD",
           "name": "Copper",
-          "description": "Copper is a base metal used in various industrial applications. Copper futures are contracts that allow traders to speculate on the future price of copper."
+          "description": "Copper is a base metal used in various industrial applications. Copper futures are contracts that allow traders to speculate on the future price of copper.",
+          "aliases": ["hgusd", "copper", "copper futures", "copper price"]
         },
         {
           "symbol": "SBUSX",
           "name": "Sugar",
-          "description": "Sugar futures are contracts that allow traders to buy or sell sugar at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+          "description": "Sugar futures are contracts that allow traders to buy or sell sugar at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market.",
+          "aliases": ["sbusx", "sugar", "sugar futures", "sugar price"]
         },
         {
           "symbol": "SIUSD",
           "name": "Silver Futures",
-          "description": "Silver futures are contracts that allow traders to buy or sell silver at a predetermined price at a future date. They are used for hedging and speculation in the commodities market."
+          "description": "Silver futures are contracts that allow traders to buy or sell silver at a predetermined price at a future date. They are used for hedging and speculation in the commodities market.",
+          "aliases": ["siusd", "silver", "silver futures", "xagusd", "silver price"]
         },
         {
           "symbol": "CTUSX",
           "name": "Cotton",
-          "description": "Cotton futures are contracts that allow traders to buy or sell cotton at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+          "description": "Cotton futures are contracts that allow traders to buy or sell cotton at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market.",
+          "aliases": ["ctusx", "cotton", "cotton futures", "cotton price"]
         },
         {
           "symbol": "ZSUSX",
           "name": "Soybean Futures",
-          "description": "Soybean futures are contracts that allow traders to buy or sell soybeans at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+          "description": "Soybean futures are contracts that allow traders to buy or sell soybeans at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market.",
+          "aliases": ["zsusx", "soybean", "soybeans", "soybean futures", "soy"]
         },
         {
           "symbol": "LBUSD",
           "name": "Lumber Futures",
-          "description": "Lumber futures are contracts that allow traders to buy or sell lumber at a predetermined price at a future date. They are used for hedging and speculation in the forestry market."
+          "description": "Lumber futures are contracts that allow traders to buy or sell lumber at a predetermined price at a future date. They are used for hedging and speculation in the forestry market.",
+          "aliases": ["lbusd", "lumber", "lumber futures", "lumber price"]
         },
         {
           "symbol": "LEUSX",
           "name": "Live Cattle Futures",
-          "description": "Live cattle futures are contracts that allow traders to buy or sell live cattle at a predetermined price at a future date. They are used for hedging and speculation in the livestock market."
+          "description": "Live cattle futures are contracts that allow traders to buy or sell live cattle at a predetermined price at a future date. They are used for hedging and speculation in the livestock market.",
+          "aliases": ["leusx", "live cattle", "cattle", "cattle futures"]
         },
         {
           "symbol": "NGUSD",
           "name": "Natural Gas",
-          "description": "Natural gas futures are contracts that allow traders to buy or sell natural gas at a predetermined price at a future date. They are used for hedging and speculation in the energy market."
+          "description": "Natural gas futures are contracts that allow traders to buy or sell natural gas at a predetermined price at a future date. They are used for hedging and speculation in the energy market.",
+          "aliases": ["ngusd", "natural gas", "natgas", "nat gas", "natural gas price"]
         },
         {
           "symbol": "CLUSD",
           "name": "Crude Oil",
-          "description": "Crude oil futures are contracts that allow traders to buy or sell crude oil at a predetermined price at a future date. They are used for hedging and speculation in the energy market."
+          "description": "Crude oil futures are contracts that allow traders to buy or sell crude oil at a predetermined price at a future date. They are used for hedging and speculation in the energy market.",
+          "aliases": ["clusd", "crude oil", "wti", "oil", "oil price", "crude oil futures"]
         },
         {
           "symbol": "OJUSX",
           "name": "Orange Juice",
-          "description": "Orange juice futures are contracts that allow traders to buy or sell orange juice at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+          "description": "Orange juice futures are contracts that allow traders to buy or sell orange juice at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market.",
+          "aliases": ["ojusx", "orange juice", "oj", "oj futures"]
         },
         {
           "symbol": "KCUSX",
           "name": "Coffee",
-          "description": "Coffee futures are contracts that allow traders to buy or sell coffee at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+          "description": "Coffee futures are contracts that allow traders to buy or sell coffee at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market.",
+          "aliases": ["kcusx", "coffee", "coffee futures", "coffee price"]
         },
         {
           "symbol": "PAUSD",
           "name": "Palladium",
-          "description": "Palladium is a precious metal used in various industrial applications, particularly in catalytic converters. Palladium futures are contracts that allow traders to speculate on the future price of palladium."
+          "description": "Palladium is a precious metal used in various industrial applications, particularly in catalytic converters. Palladium futures are contracts that allow traders to speculate on the future price of palladium.",
+          "aliases": ["pausd", "palladium", "palladium futures", "palladium price"]
         },
         {
           "symbol": "GFUSX",
           "name": "Feeder Cattle Futures",
-          "description": "Feeder cattle futures are contracts that allow traders to buy or sell feeder cattle at a predetermined price at a future date. They are used for hedging and speculation in the livestock market."
+          "description": "Feeder cattle futures are contracts that allow traders to buy or sell feeder cattle at a predetermined price at a future date. They are used for hedging and speculation in the livestock market.",
+          "aliases": ["gfusx", "feeder cattle", "feeder cattle futures"]
         },
         {
           "symbol": "ZRUSD",
           "name": "Rough Rice Futures",
-          "description": "Rough rice futures are contracts that allow traders to buy or sell rough rice at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+          "description": "Rough rice futures are contracts that allow traders to buy or sell rough rice at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market.",
+          "aliases": ["zrusd", "rice", "rough rice", "rice futures"]
         },
         {
           "symbol": "CCUSD",
           "name": "Cocoa",
-          "description": "Cocoa futures are contracts that allow traders to buy or sell cocoa at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market."
+          "description": "Cocoa futures are contracts that allow traders to buy or sell cocoa at a predetermined price at a future date. They are used for hedging and speculation in the agricultural market.",
+          "aliases": ["ccusd", "cocoa", "cocoa futures", "cocoa price"]
         },
         {
           "symbol": "RTYUSD",
           "name": "Micro E-mini Russell 2000 Index Futures",
-          "description": "Micro E-mini Russell 2000 Index futures are contracts that allow traders to speculate on the performance of the small-cap segment of the U.S. equity market, represented by the Russell 2000 Index."
+          "description": "Micro E-mini Russell 2000 Index futures are contracts that allow traders to speculate on the performance of the small-cap segment of the U.S. equity market, represented by the Russell 2000 Index.",
+          "aliases": ["rtyusd", "russell 2000", "russell", "rut", "small cap index"]
         },
         {
           "symbol": "BZUSD",
           "name": "Brent Crude Oil",
-          "description": "Brent crude oil futures are contracts that allow traders to buy or sell Brent crude oil at a predetermined price at a future date. They are used for hedging and speculation in the energy market."
+          "description": "Brent crude oil futures are contracts that allow traders to buy or sell Brent crude oil at a predetermined price at a future date. They are used for hedging and speculation in the energy market.",
+          "aliases": ["bzusd", "brent", "brent crude", "brent oil", "brent crude oil"]
         },
         {
           "symbol": "DCUSD",
           "name": "Class III Milk Futures",
-          "description": "Class III milk futures are contracts that allow traders to buy or sell Class III milk at a predetermined price at a future date. They are used for hedging and speculation in the dairy market."
+          "description": "Class III milk futures are contracts that allow traders to buy or sell Class III milk at a predetermined price at a future date. They are used for hedging and speculation in the dairy market.",
+          "aliases": ["dcusd", "milk", "milk futures", "class iii milk", "dairy"]
         },
         {
           "symbol": "RBUSD",
           "name": "Gasoline RBOB",
-          "description": "Gasoline RBOB futures are contracts that allow traders to buy or sell reformulated gasoline blendstock for oxygenate blending (RBOB) at a predetermined price at a future date. They are used for hedging and speculation in the energy market."
+          "description": "Gasoline RBOB futures are contracts that allow traders to buy or sell reformulated gasoline blendstock for oxygenate blending (RBOB) at a predetermined price at a future date. They are used for hedging and speculation in the energy market.",
+          "aliases": ["rbusd", "gasoline", "rbob", "gas", "gasoline futures"]
         },
         {
           "symbol": "HOUSD",
           "name": "Heating Oil",
-          "description": "Heating oil futures are contracts that allow traders to buy or sell heating oil at a predetermined price at a future date. They are used for hedging and speculation in the energy market."
+          "description": "Heating oil futures are contracts that allow traders to buy or sell heating oil at a predetermined price at a future date. They are used for hedging and speculation in the energy market.",
+          "aliases": ["housd", "heating oil", "heating oil futures", "heat oil"]
         }
       ]
     },
@@ -2836,32 +2994,38 @@
         {
           "name": "Nasdaq 100",
           "symbol": "NQUSD",
-          "description": "The Nasdaq 100 Index is a stock market index that includes 100 of the largest non-financial companies listed on the Nasdaq stock exchange."
+          "description": "The Nasdaq 100 Index is a stock market index that includes 100 of the largest non-financial companies listed on the Nasdaq stock exchange.",
+          "aliases": ["nqusd", "nasdaq 100", "nasdaq100", "ndx", "nas100", "nasdaq 100 index"]
         },
         {
           "name": "CAC 40",
           "symbol": "FCHI",
-          "description": "The CAC 40 Index is a benchmark French stock market index that represents the 40 largest publicly traded companies on the Euronext Paris exchange."
+          "description": "The CAC 40 Index is a benchmark French stock market index that represents the 40 largest publicly traded companies on the Euronext Paris exchange.",
+          "aliases": ["fchi", "cac 40", "cac40", "french cac", "france 40"]
         },
         {
           "name": "S&P 500",
           "symbol": "GSPC",
-          "description": "The S&P 500 Index is a stock market index that measures the stock performance of 500 of the largest companies listed on stock exchanges in the United States."
+          "description": "The S&P 500 Index is a stock market index that measures the stock performance of 500 of the largest companies listed on stock exchanges in the United States.",
+          "aliases": ["gspc", "s&p 500", "sp500", "s&p500", "spx", "s&p 500 index"]
         },
         {
           "name": "DAX Performance Index",
           "symbol": "GDAXI",
-          "description": "The DAX Performance Index is a stock market index that represents the 40 largest and most liquid German companies traded on the Frankfurt Stock Exchange."
+          "description": "The DAX Performance Index is a stock market index that represents the 40 largest and most liquid German companies traded on the Frankfurt Stock Exchange.",
+          "aliases": ["gdaxi", "dax", "dax 40", "dax index", "german dax"]
         },
         {
           "name": "Dow Jones Industrial Average",
           "symbol": "DJI",
-          "description": "The Dow Jones Industrial Average (DJIA) is a stock market index that represents 30 of the largest and most influential companies in the United States."
+          "description": "The Dow Jones Industrial Average (DJIA) is a stock market index that represents 30 of the largest and most influential companies in the United States.",
+          "aliases": ["dji", "dow jones", "djia", "dow", "dow 30", "dow jones industrial average"]
         },
         {
           "name": "FTSE 100",
           "symbol": "FTSE",
-          "description": "The FTSE 100 Index is a stock market index that represents the 100 largest companies listed on the London Stock Exchange by market capitalization."
+          "description": "The FTSE 100 Index is a stock market index that represents the 100 largest companies listed on the London Stock Exchange by market capitalization.",
+          "aliases": ["ftse", "ftse 100", "ftse100", "uk100", "footsie"]
         }
       ]
     },
@@ -2871,457 +3035,542 @@
         {
           "name": "Bitcoin",
           "symbol": "BTCUSDT",
-          "description": "Bitcoin is a decentralized digital currency that allows for peer-to-peer transactions over the Bitcoin network."
+          "description": "Bitcoin is a decentralized digital currency that allows for peer-to-peer transactions over the Bitcoin network.",
+          "aliases": ["btcusdt", "bitcoin", "btc", "btc/usdt", "bitcoin price"]
         },
         {
           "name": "Ethereum",
           "symbol": "ETHUSDT",
-          "description": "Ethereum is a decentralized platform that enables developers to build and deploy smart contracts and decentralized applications (DApps)."
+          "description": "Ethereum is a decentralized platform that enables developers to build and deploy smart contracts and decentralized applications (DApps).",
+          "aliases": ["ethusdt", "ethereum", "eth", "eth/usdt", "ethereum price"]
         },
         {
           "name": "XRP",
           "symbol": "XRPUSDT",
-          "description": "XRP is a digital currency that enables fast, low-cost international payments."
+          "description": "XRP is a digital currency that enables fast, low-cost international payments.",
+          "aliases": ["xrpusdt", "xrp", "ripple", "xrp/usdt", "xrp price"]
         },
         {
           "name": "BNB",
           "symbol": "BNBUSDT",
-          "description": "BNB is the native cryptocurrency of the Binance exchange, used to pay for trading fees and participate in token sales."
+          "description": "BNB is the native cryptocurrency of the Binance exchange, used to pay for trading fees and participate in token sales.",
+          "aliases": ["bnbusdt", "bnb", "binance coin", "bnb/usdt", "bnb price"]
         },
         {
           "name" : "SOLANA",
           "symbol": "SOLUSDT",
-          "description": "Solana is a high-performance blockchain platform designed for decentralized applications and cryptonomic systems."
+          "description": "Solana is a high-performance blockchain platform designed for decentralized applications and cryptonomic systems.",
+          "aliases": ["solusdt", "solana", "sol", "sol/usdt", "solana price"]
         },
         {
           "name" : "DOGE",
           "symbol": "DOGEUSDT",
-          "description": "Dogecoin is a cryptocurrency that started as a meme but has gained popularity as a digital currency for tipping and charitable donations."
+          "description": "Dogecoin is a cryptocurrency that started as a meme but has gained popularity as a digital currency for tipping and charitable donations.",
+          "aliases": ["dogeusdt", "dogecoin", "doge", "doge/usdt", "doge price"]
         },
         {
           "name" : "CARDANO",
           "symbol": "ADAUSDT",
-          "description": "Cardano is a blockchain platform for smart contracts, aiming to provide a more secure and scalable way to build decentralized applications."
+          "description": "Cardano is a blockchain platform for smart contracts, aiming to provide a more secure and scalable way to build decentralized applications.",
+          "aliases": ["adausdt", "cardano", "ada", "ada/usdt", "cardano price"]
         },
         {
           "name" : "TRON",
           "symbol": "TRXUSDT",
-          "description": "Tron is a blockchain-based decentralized platform that aims to build a free, global digital content entertainment system."
+          "description": "Tron is a blockchain-based decentralized platform that aims to build a free, global digital content entertainment system.",
+          "aliases": ["trxusdt", "tron", "trx", "trx/usdt", "tron price"]
         },
         {
           "name" : "CHAINLINK",
           "symbol": "LINKUSDT",
-          "description": "Chainlink is a decentralized oracle network that enables smart contracts to securely interact with real-world data and external APIs."
+          "description": "Chainlink is a decentralized oracle network that enables smart contracts to securely interact with real-world data and external APIs.",
+          "aliases": ["linkusdt", "chainlink", "link", "link/usdt", "chainlink price"]
         },
         {
           "name" : "HYPERLIQUID",
           "symbol": "HYPERUSDT",
-          "description": "Hyperliquid is a decentralized perpetual trading protocol that offers high-speed trading and low latency."
+          "description": "Hyperliquid is a decentralized perpetual trading protocol that offers high-speed trading and low latency.",
+          "aliases": ["hyperusdt", "hyperliquid", "hyper", "hyper/usdt"]
         },
         {
           "name" : "AVALANCHE",
           "symbol": "AVAXUSDT",
-          "description": "Avalanche is a decentralized platform that enables the creation of custom blockchain networks and decentralized applications."
+          "description": "Avalanche is a decentralized platform that enables the creation of custom blockchain networks and decentralized applications.",
+          "aliases": ["avaxusdt", "avalanche", "avax", "avax/usdt", "avalanche price"]
         },
         {
           "name" : "STELLAR",
           "symbol": "XLMUSDT",
-          "description": "Stellar is a decentralized protocol for transferring digital currencies to fiat money domestically and across borders."
+          "description": "Stellar is a decentralized protocol for transferring digital currencies to fiat money domestically and across borders.",
+          "aliases": ["xlmusdt", "stellar", "xlm", "xlm/usdt", "stellar price"]
         },
         {
           "name" : "SUI",
           "symbol": "SUIUSDT",
-          "description": "Sui is a layer-1 blockchain designed for high throughput and low latency, enabling developers to build user-friendly decentralized applications."
+          "description": "Sui is a layer-1 blockchain designed for high throughput and low latency, enabling developers to build user-friendly decentralized applications.",
+          "aliases": ["suiusdt", "sui", "sui/usdt", "sui price"]
         },
         {
           "name" : "BITCOIN CASH",
           "symbol": "BCHUSDT",
-          "description": "Bitcoin Cash is a peer-to-peer electronic cash system that aims to enable fast and low-cost transactions."
+          "description": "Bitcoin Cash is a peer-to-peer electronic cash system that aims to enable fast and low-cost transactions.",
+          "aliases": ["bchusdt", "bitcoin cash", "bch", "bch/usdt", "bch price"]
         },
         {
           "name" : "HEDERA HASHGRAPH",
           "symbol": "HBARUSDT",
-          "description": "Hedera Hashgraph is a decentralized public network that aims to provide fast, secure, and fair transactions."
+          "description": "Hedera Hashgraph is a decentralized public network that aims to provide fast, secure, and fair transactions.",
+          "aliases": ["hbarusdt", "hedera", "hbar", "hbar/usdt", "hedera price"]
         },
           {
           "name" : "WhiteBIT Coin",
           "symbol": "WBTUSDT",
-          "description": "WhiteBIT Coin is the native utility token of the WhiteBIT exchange, used for trading fee discounts and other benefits."
+          "description": "WhiteBIT Coin is the native utility token of the WhiteBIT exchange, used for trading fee discounts and other benefits.",
+          "aliases": ["wbtusdt", "whitebit", "wbt", "wbt/usdt"]
         },
         {
           "name" : "LITECOIN",
           "symbol": "LTCUSDT",
-          "description": "Litecoin is a peer-to-peer cryptocurrency that enables instant, low-cost payments to anyone in the world."
+          "description": "Litecoin is a peer-to-peer cryptocurrency that enables instant, low-cost payments to anyone in the world.",
+          "aliases": ["ltcusdt", "litecoin", "ltc", "ltc/usdt", "litecoin price"]
         },
          {
           "name" : "SHIBA INU",
           "symbol": "SHIBUSDT",
-          "description": "Shiba Inu is a meme-based cryptocurrency that has gained popularity as a decentralized community-driven project."
+          "description": "Shiba Inu is a meme-based cryptocurrency that has gained popularity as a decentralized community-driven project.",
+          "aliases": ["shibusdt", "shiba inu", "shib", "shib/usdt", "shiba price"]
         },
          {
           "name" : "TONCOIN",
           "symbol": "TONUSDT",
-          "description": "Toncoin is the native cryptocurrency of the TON blockchain, designed for fast and secure transactions."
+          "description": "Toncoin is the native cryptocurrency of the TON blockchain, designed for fast and secure transactions.",
+          "aliases": ["tonusdt", "toncoin", "ton", "ton/usdt", "ton price"]
         },
         {
           "name" : "POLKADOT",
           "symbol": "DOTUSDT",
-          "description": "Polkadot is a multi-chain blockchain platform that enables different blockchains to interoperate and share information."
+          "description": "Polkadot is a multi-chain blockchain platform that enables different blockchains to interoperate and share information.",
+          "aliases": ["dotusdt", "polkadot", "dot", "dot/usdt", "polkadot price"]
         },
         {
           "name" : "MANTLE",
           "symbol": "MNTUSDT",
-          "description": "Mantle is a layer-2 scaling solution for Ethereum, designed to improve transaction speed and reduce costs."
+          "description": "Mantle is a layer-2 scaling solution for Ethereum, designed to improve transaction speed and reduce costs.",
+          "aliases": ["mntusdt", "mantle", "mnt", "mnt/usdt", "mantle price"]
         },
       {
           "name" : "MONERO",
           "symbol": "XMRUSDT",
-          "description": "Monero is a privacy-focused cryptocurrency that enables secure, untraceable transactions."
+          "description": "Monero is a privacy-focused cryptocurrency that enables secure, untraceable transactions.",
+          "aliases": ["xmrusdt", "monero", "xmr", "xmr/usdt", "monero price"]
         },
         {
           "name" : "CRONOS",
           "symbol": "CROUSDT",
-          "description": "Cronos is a blockchain network built on the Cosmos SDK that enables the development of decentralized applications and crypto projects."
+          "description": "Cronos is a blockchain network built on the Cosmos SDK that enables the development of decentralized applications and crypto projects.",
+          "aliases": ["crousdt", "cronos", "cro", "cro/usdt", "cronos price"]
         },
         {
           "name" : "UNISWAP",
           "symbol": "UNIUSDT",
-          "description": "Uniswap is a decentralized exchange protocol built on Ethereum that allows users to swap various tokens."
+          "description": "Uniswap is a decentralized exchange protocol built on Ethereum that allows users to swap various tokens.",
+          "aliases": ["uniusdt", "uniswap", "uni", "uni/usdt", "uniswap price"]
         },
         {
           "name" : "AAVE",
           "symbol": "AAVEUSDT",
-          "description": "Aave is a decentralized lending protocol that allows users to borrow and lend cryptocurrencies."
+          "description": "Aave is a decentralized lending protocol that allows users to borrow and lend cryptocurrencies.",
+          "aliases": ["aaveusdt", "aave", "aave/usdt", "aave price"]
         },
         {
           "name" : "PEPE",
           "symbol": "PEPEUSDT",
-          "description": "Pepe is a meme-based cryptocurrency that has gained popularity as a decentralized community-driven project."
+          "description": "Pepe is a meme-based cryptocurrency that has gained popularity as a decentralized community-driven project.",
+          "aliases": ["pepeusdt", "pepe", "pepe coin", "pepe/usdt", "pepe price"]
         },
         {
           "name" : "NEAR PROTOCOL",
           "symbol": "NEARUSDT",
-          "description": "Near Protocol is a decentralized application platform designed for scalability and user-friendliness."
+          "description": "Near Protocol is a decentralized application platform designed for scalability and user-friendliness.",
+          "aliases": ["nearusdt", "near", "near protocol", "near/usdt", "near price"]
         },
         {
           "name" : "ONDO",
           "symbol": "ONDOUSDT",
-          "description": "Ondo is a decentralized finance platform that offers a range of financial services, including lending and borrowing."
+          "description": "Ondo is a decentralized finance platform that offers a range of financial services, including lending and borrowing.",
+          "aliases": ["ondousdt", "ondo", "ondo/usdt", "ondo price"]
         },
         {
           "name" : "APTOS",
           "symbol": "APTUSDT",
-          "description": "Aptos is a layer-1 blockchain designed for high throughput and low latency, enabling developers to build user-friendly decentralized applications."
+          "description": "Aptos is a layer-1 blockchain designed for high throughput and low latency, enabling developers to build user-friendly decentralized applications.",
+          "aliases": ["aptusdt", "aptos", "apt", "apt/usdt", "aptos price"]
         },
         {
           "name" : "ARBITRUM",
           "symbol": "ARBUSDT",
-          "description": "Arbitrum is a layer-2 scaling solution for Ethereum, designed to improve transaction speed and reduce costs."
+          "description": "Arbitrum is a layer-2 scaling solution for Ethereum, designed to improve transaction speed and reduce costs.",
+          "aliases": ["arbusdt", "arbitrum", "arb", "arb/usdt", "arbitrum price"]
         },
         {
           "name" : "ETHEREUM CLASSIC",
           "symbol": "ETCUSDT",
-          "description": "Ethereum Classic is a decentralized platform that enables smart contracts and decentralized applications."
+          "description": "Ethereum Classic is a decentralized platform that enables smart contracts and decentralized applications.",
+          "aliases": ["etcusdt", "ethereum classic", "etc", "etc/usdt", "etc price"]
         },
         {
           "name" : "WORLDCOIN",
           "symbol": "WLDUSDT",
-          "description": "Worldcoin is a global digital currency that aims to create a more inclusive financial system."
+          "description": "Worldcoin is a global digital currency that aims to create a more inclusive financial system.",
+          "aliases": ["wldusdt", "worldcoin", "wld", "wld/usdt", "worldcoin price"]
         },
         {
           "name" : "POLYGON ECOSYSTEM",
           "symbol": "POLUSDT",
-          "description": "Polygon is a layer-2 scaling solution for Ethereum, designed to improve transaction speed and reduce costs."
+          "description": "Polygon is a layer-2 scaling solution for Ethereum, designed to improve transaction speed and reduce costs.",
+          "aliases": ["polusdt", "polygon", "matic", "pol", "pol/usdt", "polygon price"]
         },
         {
           "name" : "BITTENSOR",
           "symbol": "TAOUSDT",
-          "description": "Bittensor is a decentralized, open-source protocol for creating and training AI models."
+          "description": "Bittensor is a decentralized, open-source protocol for creating and training AI models.",
+          "aliases": ["taousdt", "bittensor", "tao", "tao/usdt", "bittensor price"]
         },
         {
           "name" : "KASPA",
           "symbol": "KASUSDT",
-          "description": "Kaspa is a high-throughput blockchain that aims to provide fast and secure transactions."
+          "description": "Kaspa is a high-throughput blockchain that aims to provide fast and secure transactions.",
+          "aliases": ["kasusdt", "kaspa", "kas", "kas/usdt", "kaspa price"]
         },
         {
           "name" : "INTERNET COMPUTER",
           "symbol": "ICPUSDT",
-          "description": "Internet Computer is a decentralized computing platform that aims to extend the public internet."
+          "description": "Internet Computer is a decentralized computing platform that aims to extend the public internet.",
+          "aliases": ["icpusdt", "internet computer", "icp", "icp/usdt", "icp price"]
         },
         {
           "name" : "GATECHAIN TOKEN",
           "symbol": "GTUSDT",
-          "description": "Gatechain is a public blockchain that aims to provide a secure and efficient infrastructure for digital assets."
+          "description": "Gatechain is a public blockchain that aims to provide a secure and efficient infrastructure for digital assets.",
+          "aliases": ["gtusdt", "gatechain", "gt", "gt/usdt"]
         },
         {
           "name" : "ALGORAND",
           "symbol": "ALGOUSDT",
-          "description": "Algorand is a decentralized blockchain platform that aims to provide fast and secure transactions."
+          "description": "Algorand is a decentralized blockchain platform that aims to provide fast and secure transactions.",
+          "aliases": ["algousdt", "algorand", "algo", "algo/usdt", "algorand price"]
         },
         {
           "name" : "VET CHAIN",
           "symbol": "VETUSDT",
-          "description": "VeChain is a blockchain platform designed to enhance supply chain and business processes."
+          "description": "VeChain is a blockchain platform designed to enhance supply chain and business processes.",
+          "aliases": ["vetusdt", "vechain", "vet", "vet/usdt", "vechain price"]
         },
         {
           "name" : "RENDER TOKEN",
           "symbol": "RENDERUSDT",
-          "description": "Render Token is a decentralized GPU rendering network that aims to connect 3D artists and studios with GPU providers."
+          "description": "Render Token is a decentralized GPU rendering network that aims to connect 3D artists and studios with GPU providers.",
+          "aliases": ["renderusdt", "render", "rndr", "render/usdt", "render price"]
         },
         {
           "name" : "COSMOS",
           "symbol": "ATOMUSDT",
-          "description": "Cosmos is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms."
+          "description": "Cosmos is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms.",
+          "aliases": ["atomusdt", "cosmos", "atom", "atom/usdt", "cosmos price"]
         },
         {
           "name" : "IMMUTABLE X",
           "symbol": "IMXUSDT",
-          "description": "Immutable X is a layer-2 scaling solution for Ethereum, designed to improve transaction speed and reduce costs."
+          "description": "Immutable X is a layer-2 scaling solution for Ethereum, designed to improve transaction speed and reduce costs.",
+          "aliases": ["imxusdt", "immutable", "imx", "imx/usdt", "immutable x price"]
         },
         {
           "name" : "FILECOIN",
           "symbol": "FILUSDT",
-          "description": "Filecoin is a decentralized storage network that aims to provide a secure and efficient way to store and retrieve data."
+          "description": "Filecoin is a decentralized storage network that aims to provide a secure and efficient way to store and retrieve data.",
+          "aliases": ["filusdt", "filecoin", "fil", "fil/usdt", "filecoin price"]
         },
         {
           "name" : "Artificial Superintelligence Alliance",
           "symbol": "FETUSDT",
-          "description": "Artificial Superintelligence Alliance is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
+          "description": "Artificial Superintelligence Alliance is a decentralized network focused on the development and promotion of artificial superintelligence technologies.",
+          "aliases": ["fetusdt", "fetch", "fet", "fet/usdt", "fetch.ai"]
         },
          {
           "name" : "OFFICIAL TRUMP",
           "symbol": "TRUMPUSDT",
-          "description": "OFFICIAL TRUMP is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
+          "description": "OFFICIAL TRUMP is a decentralized network focused on the development and promotion of artificial superintelligence technologies.",
+          "aliases": ["trumpusdt", "trump", "trump coin", "trump/usdt"]
         },
          {
           "name" : "META GAME",
           "symbol": "MGCUSDT",
-          "description": "META GAME is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
+          "description": "META GAME is a decentralized network focused on the development and promotion of artificial superintelligence technologies.",
+          "aliases": ["mgcusdt", "meta game", "mgc", "mgc/usdt"]
         },
           {
           "name" : "QUANT",
           "symbol": "QNTUSDT",
-          "description": "QUANT is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
+          "description": "QUANT is a decentralized network focused on the development and promotion of artificial superintelligence technologies.",
+          "aliases": ["qntusdt", "quant", "qnt", "qnt/usdt", "quant price"]
         },
           {
           "name" : "PENDLE",
           "symbol": "PENDLEUSDT",
-          "description": "PENDLE is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
+          "description": "PENDLE is a decentralized network focused on the development and promotion of artificial superintelligence technologies.",
+          "aliases": ["pendleusdt", "pendle", "pendle/usdt", "pendle price"]
         },
           {
           "name" : "ETHERFI",
           "symbol": "ETHFIUSDT",
-          "description": "ETHERFI is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
+          "description": "ETHERFI is a decentralized network focused on the development and promotion of artificial superintelligence technologies.",
+          "aliases": ["ethfiusdt", "etherfi", "ethfi", "ethfi/usdt"]
         },
           {
           "name" : "INJECTIVE PROTOCOL",
           "symbol": "INJUSDT",
-          "description": "INJECTIVE PROTOCOL is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
+          "description": "INJECTIVE PROTOCOL is a decentralized network focused on the development and promotion of artificial superintelligence technologies.",
+          "aliases": ["injusdt", "injective", "inj", "inj/usdt", "injective price"]
         },
           {
           "name" : "OPTIMISIM",
           "symbol": "OPUSDT",
-          "description": "OPTIMISIM is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
-        },
-          {
-          "name" : "QUANT",
-          "symbol": "QNTUSDT",
-          "description": "QUANT is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
+          "description": "OPTIMISIM is a decentralized network focused on the development and promotion of artificial superintelligence technologies.",
+          "aliases": ["opusdt", "optimism", "op", "op/usdt", "optimism price"]
         },
           {
           "name" : "BONK",
           "symbol": "BONKUSDT",
-          "description": "BONK is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
+          "description": "BONK is a decentralized network focused on the development and promotion of artificial superintelligence technologies.",
+          "aliases": ["bonkusdt", "bonk", "bonk/usdt", "bonk price"]
         },
           {
           "name" : "FLARE",
           "symbol": "FLRUSDT",
-          "description": "FLARE is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
+          "description": "FLARE is a decentralized network focused on the development and promotion of artificial superintelligence technologies.",
+          "aliases": ["flrusdt", "flare", "flr", "flr/usdt", "flare price"]
         },
           {
           "name" : "CELESTIA",
           "symbol": "TIAUSDT",
-          "description": "CELESTIA is a decentralized network focused on the development and promotion of artificial superintelligence technologies."
+          "description": "CELESTIA is a decentralized network focused on the development and promotion of artificial superintelligence technologies.",
+          "aliases": ["tiausdt", "celestia", "tia", "tia/usdt", "celestia price"]
         },
          {
           "name" : "STACKS",
           "symbol": "STXUSDT",
-          "description": "STACKS is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms."
+          "description": "STACKS is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms.",
+          "aliases": ["stxusdt", "stacks", "stx", "stx/usdt", "stacks price"]
         },
          {
           "name" : "ZCASH",
           "symbol": "ZECUSDT",
-          "description": "ZCASH is a decentralized and open-source cryptocurrency that offers privacy and selective transparency of transactions."
+          "description": "ZCASH is a decentralized and open-source cryptocurrency that offers privacy and selective transparency of transactions.",
+          "aliases": ["zecusdt", "zcash", "zec", "zec/usdt", "zcash price"]
         },
          {
           "name" : "ETHEREUM NAME SERVICE",
           "symbol": "ENSUSDT",
-          "description": "ETHEREUM NAME SERVICE is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms."
+          "description": "ETHEREUM NAME SERVICE is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms.",
+          "aliases": ["ensusdt", "ens", "ethereum name service", "ens/usdt", "ens price"]
         },
          {
           "name" : "LIDO DAO",
           "symbol": "LDOUSDT",
-          "description": "LIDO DAO is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms."
+          "description": "LIDO DAO is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms.",
+          "aliases": ["ldousdt", "lido", "ldo", "ldo/usdt", "lido price"]
         },
          {
           "name" : "XDC NETWORK",
           "symbol": "XDCUSDT",
-          "description": "XDC NETWORK is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms."
+          "description": "XDC NETWORK is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms.",
+          "aliases": ["xdcusdt", "xdc", "xdc network", "xdc/usdt", "xdc price"]
         },
          {
           "name" : "CURVE DAO",
           "symbol": "CRVUSDT",
-          "description": "CURVE DAO is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms."
+          "description": "CURVE DAO is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms.",
+          "aliases": ["crvusdt", "curve", "crv", "crv/usdt", "curve price"]
         },
          {
           "name" : "AERODROME",
           "symbol": "AEROUSDT",
-          "description": "AERODROME is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms."
+          "description": "AERODROME is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms.",
+          "aliases": ["aerousdt", "aerodrome", "aero", "aero/usdt"]
         },
          {
           "name" : "PANCAKESWAP",
           "symbol": "CAKEUSDT",
-          "description": "PANCAKESWAP is a decentralized exchange built on the Binance Smart Chain, allowing users to trade BEP-20 tokens."
+          "description": "PANCAKESWAP is a decentralized exchange built on the Binance Smart Chain, allowing users to trade BEP-20 tokens.",
+          "aliases": ["cakeusdt", "pancakeswap", "cake", "cake/usdt", "pancake price"]
         },
          {
           "name" : "GNOSIS",
           "symbol": "GNOUSDT",
-          "description": "GNOSIS is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms."
+          "description": "GNOSIS is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms.",
+          "aliases": ["gnousdt", "gnosis", "gno", "gno/usdt", "gnosis price"]
         },
          {
           "name" : "EOS",
           "symbol": "EOSUSDT",
-          "description": "EOS is a decentralized operating system that enables the development and hosting of industrial-scale decentralized applications."
+          "description": "EOS is a decentralized operating system that enables the development and hosting of industrial-scale decentralized applications.",
+          "aliases": ["eosusdt", "eos", "eos/usdt", "eos price"]
         },
          {
           "name" : "FLOKI INU",
           "symbol": "FLOKIUSDT",
-          "description": "FLOKI INU is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms."
+          "description": "FLOKI INU is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms.",
+          "aliases": ["flokiusdt", "floki", "floki inu", "floki/usdt", "floki price"]
         },
          {
           "name" : "DEXE",
           "symbol": "DEXEUSDT",
-          "description": "DEXE is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms."
+          "description": "DEXE is a decentralized network of independent parallel blockchains, each powered by BFT consensus algorithms.",
+          "aliases": ["dexeusdt", "dexe", "dexe/usdt"]
         },
          {
           "name" : "THE GRAPH",
           "symbol": "GRTUSDT",
-          "description": "THE GRAPH is a decentralized protocol for indexing and querying blockchain data."
+          "description": "THE GRAPH is a decentralized protocol for indexing and querying blockchain data.",
+          "aliases": ["grtusdt", "the graph", "grt", "grt/usdt", "graph price"]
         },
         {
           "name" : "DOGWIFHAT",
           "symbol": "WIFUSDT",
-          "description": "DOGWIFHAT is a decentralized protocol for indexing and querying blockchain data."
+          "description": "DOGWIFHAT is a decentralized protocol for indexing and querying blockchain data.",
+          "aliases": ["wifusdt", "dogwifhat", "wif", "wif/usdt", "wif price"]
         },
         {
           "name" : "RAYDIUM",
           "symbol": "RAYUSDT",
-          "description": "RAYDIUM is a decentralized protocol for providing liquidity and trading on the Solana blockchain."
+          "description": "RAYDIUM is a decentralized protocol for providing liquidity and trading on the Solana blockchain.",
+          "aliases": ["rayusdt", "raydium", "ray", "ray/usdt", "raydium price"]
         },
         {
           "name" : "THE SANDBOX",
           "symbol": "SANDUSDT",
-          "description": "THE SANDBOX is a decentralized gaming platform that allows users to create, own, and monetize their gaming experiences."
+          "description": "THE SANDBOX is a decentralized gaming platform that allows users to create, own, and monetize their gaming experiences.",
+          "aliases": ["sandusdt", "sandbox", "sand", "sand/usdt", "sandbox price"]
         },
         {
           "name" : "NEXO",
           "symbol": "NEXOUSDT",
-          "description": "NEXO is a decentralized platform that offers instant crypto credit lines and high-yield savings accounts."
+          "description": "NEXO is a decentralized platform that offers instant crypto credit lines and high-yield savings accounts.",
+          "aliases": ["nexousdt", "nexo", "nexo/usdt", "nexo price"]
         },
         {
           "name" : "THETA NETWORK",
           "symbol": "THETAUSDT",
-          "description": "THETA NETWORK is a decentralized video delivery network powered by blockchain technology."
+          "description": "THETA NETWORK is a decentralized video delivery network powered by blockchain technology.",
+          "aliases": ["thetausdt", "theta", "theta network", "theta/usdt", "theta price"]
         },
         {
           "name" : "VIRTUAL PROTOCOL",
           "symbol": "VIRTUALUSDT",
-          "description": "VIRTUAL PROTOCOL is a decentralized protocol for creating and managing virtual assets on the blockchain."
+          "description": "VIRTUAL PROTOCOL is a decentralized protocol for creating and managing virtual assets on the blockchain.",
+          "aliases": ["virtualusdt", "virtual", "virtual protocol", "virtual/usdt"]
         },
         {
           "name" : "FANTOM",
           "symbol": "FTMUSDT",
-          "description": "FANTOM is a high-performance, scalable, and secure smart contract platform for decentralized applications."
+          "description": "FANTOM is a high-performance, scalable, and secure smart contract platform for decentralized applications.",
+          "aliases": ["ftmusdt", "fantom", "ftm", "ftm/usdt", "fantom price"]
         },
         {
           "name" : "DECENTRALAND",
           "symbol": "MANAUSDT",
-          "description": "DECENTRALAND is a virtual reality platform powered by the Ethereum blockchain, allowing users to create, experience, and monetize content and applications."
+          "description": "DECENTRALAND is a virtual reality platform powered by the Ethereum blockchain, allowing users to create, experience, and monetize content and applications.",
+          "aliases": ["manausdt", "decentraland", "mana", "mana/usdt", "decentraland price"]
         },
         {
           "name" : "TEZOS",
           "symbol": "XTZUSDT",
-          "description": "TEZOS is a self-amending blockchain that evolves by upgrading itself."
+          "description": "TEZOS is a self-amending blockchain that evolves by upgrading itself.",
+          "aliases": ["xtzusdt", "tezos", "xtz", "xtz/usdt", "tezos price"]
         },
         {
           "name" : "SEI",
           "symbol": "SEIUSDT",
-          "description": "SEI is a high-performance blockchain designed for trading and DeFi applications."
+          "description": "SEI is a high-performance blockchain designed for trading and DeFi applications.",
+          "aliases": ["seiusdt", "sei", "sei/usdt", "sei price"]
         },
         {
           "name" : "FARTCOIN",
           "symbol": "FARTCOINTUSDT",
-          "description": "THE GRAPH is a decentralized protocol for indexing and querying blockchain data."
+          "description": "THE GRAPH is a decentralized protocol for indexing and querying blockchain data.",
+          "aliases": ["fartcoinusdt", "fartcoin", "fartcoin/usdt"]
         },
         {
           "name" : "JTO",
           "symbol": "JTOUSDT",
-          "description": "JTO is a decentralized protocol for indexing and querying blockchain data."
+          "description": "JTO is a decentralized protocol for indexing and querying blockchain data.",
+          "aliases": ["jtousdt", "jito", "jto", "jto/usdt", "jto price"]
         },
         {
           "name" : "JASMY",
           "symbol": "JASMYUSDT",
-          "description": "JASMY is a decentralized protocol for indexing and querying blockchain data."
+          "description": "JASMY is a decentralized protocol for indexing and querying blockchain data.",
+          "aliases": ["jasmyusdt", "jasmy", "jasmy/usdt", "jasmy price"]
         },
         {
           "name" : "JUP",
           "symbol": "JUPITERUSDT",
-          "description": "JUPITER is a decentralized protocol for indexing and querying blockchain data."
+          "description": "JUPITER is a decentralized protocol for indexing and querying blockchain data.",
+          "aliases": ["jupiterusdt", "jupiter", "jup", "jup/usdt", "jupiter price"]
         },
         {
           "name" : "BITTORENT",
           "symbol": "BTTUSDT",
-          "description": "BITTORRENT is a decentralized protocol for sharing and distributing digital content."
+          "description": "BITTORRENT is a decentralized protocol for sharing and distributing digital content.",
+          "aliases": ["bttusdt", "bittorrent", "btt", "btt/usdt", "btt price"]
         },
         {
           "name" : "NEO",
           "symbol": "NEOUSDT",
-          "description": "NEO is a decentralized platform for building smart contracts and decentralized applications."
+          "description": "NEO is a decentralized platform for building smart contracts and decentralized applications.",
+          "aliases": ["neousdt", "neo", "neo/usdt", "neo price"]
         },
         {
           "name" : "RSR",
           "symbol": "RSRUSDT",
-          "description": "RSR is a decentralized protocol for indexing and querying blockchain data."
+          "description": "RSR is a decentralized protocol for indexing and querying blockchain data.",
+          "aliases": ["rsrusdt", "reserve rights", "rsr", "rsr/usdt"]
         },
         {
           "name" : "GALA",
           "symbol": "GALAUSDT",
-          "description": "GALA is a decentralized protocol for indexing and querying blockchain data."
+          "description": "GALA is a decentralized protocol for indexing and querying blockchain data.",
+          "aliases": ["galausdt", "gala", "gala games", "gala/usdt", "gala price"]
         },
         {
           "name" : "SUPER",
           "symbol": "SUPERUSDT",
-          "description": "SUPER is a decentralized protocol for indexing and querying blockchain data."
+          "description": "SUPER is a decentralized protocol for indexing and querying blockchain data.",
+          "aliases": ["superusdt", "superfarm", "super", "super/usdt"]
         },
         {
           "name" : "BITCOIN SV",
           "symbol": "BSVUSDT",
-          "description": "BITCOIN SV is a decentralized cryptocurrency that aims to fulfill the original vision of Bitcoin."
+          "description": "BITCOIN SV is a decentralized cryptocurrency that aims to fulfill the original vision of Bitcoin.",
+          "aliases": ["bsvusdt", "bitcoin sv", "bsv", "bsv/usdt", "bsv price"]
         },
         {
           "name" : "MIOTA",
           "symbol": "IOTAUSDT",
-          "description": "MIOTA is a cryptocurrency designed for the Internet of Things (IoT)."
+          "description": "MIOTA is a cryptocurrency designed for the Internet of Things (IoT).",
+          "aliases": ["iotausdt", "iota", "miota", "iota/usdt", "iota price"]
         },
         {
           "name" : "SYRUP TOKEN",
           "symbol": "SYRUPUSDT",
-          "description": "SYRUP TOKEN is a decentralized protocol for indexing and querying blockchain data."
+          "description": "SYRUP TOKEN is a decentralized protocol for indexing and querying blockchain data.",
+          "aliases": ["syrupusdt", "syrup", "syrup token", "syrup/usdt"]
         },
         {
           "name" : "TRUST WALLET TOKEN",
           "symbol": "TWTUSDT",
-          "description": "TRUST WALLET TOKEN is a decentralized protocol for indexing and querying blockchain data."
+          "description": "TRUST WALLET TOKEN is a decentralized protocol for indexing and querying blockchain data.",
+          "aliases": ["twtusdt", "trust wallet", "twt", "twt/usdt"]
         }
       ]
     }
