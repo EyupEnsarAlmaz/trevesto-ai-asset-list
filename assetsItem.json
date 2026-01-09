@@ -728,7 +728,8 @@
           "symbol": "AMAT",
           "companyName": "Applied Materials, Inc.",
           "sector": "Technology",
-          "industry": "Semiconductors"
+          "industry": "Semiconductors",
+          "aliases": ["amat", "applied materials", "amat stock"]
         },
         {
           "symbol": "C",
@@ -1043,7 +1044,8 @@
           "symbol": "BMY",
           "companyName": "Bristol-Myers Squibb Company",
           "sector": "Healthcare",
-          "industry": "Drug Manufacturers - General"
+          "industry": "Drug Manufacturers - General",
+          "aliases": ["bmy", "bristol myers", "bristol-myers squibb"]
         },
         {
           "symbol": "NKE",
@@ -1091,7 +1093,8 @@
           "symbol": "DUKB",
           "companyName": "Duke Energy Corporation 5.625%",
           "sector": "Utilities",
-          "industry": "Regulated Electric"
+          "industry": "Regulated Electric",
+          "aliases": ["dukb", "duke energy 5.625", "duke energy notes"]
         },
         {
           "symbol": "CDNS",
@@ -1111,37 +1114,43 @@
           "symbol": "MCO",
           "companyName": "Moody's Corporation",
           "sector": "Financial Services",
-          "industry": "Financial - Data & Stock Exchanges"
+          "industry": "Financial - Data & Stock Exchanges",
+          "aliases": ["mco", "moodys", "moody's", "moody's corporation"]
         },
         {
           "symbol": "DUK",
           "companyName": "Duke Energy Corporation",
           "sector": "Utilities",
-          "industry": "Regulated Electric"
+          "industry": "Regulated Electric",
+          "aliases": ["duk", "duke energy", "duke energy corporation"]
         },
         {
           "symbol": "ELV",
           "companyName": "Elevance Health Inc.",
           "sector": "Healthcare",
-          "industry": "Medical - Healthcare Plans"
+          "industry": "Medical - Healthcare Plans",
+          "aliases": ["elv", "elevance health", "anthem"]
         },
         {
           "symbol": "CTAS",
           "companyName": "Cintas Corporation",
           "sector": "Industrials",
-          "industry": "Specialty Business Services"
+          "industry": "Specialty Business Services",
+          "aliases": ["ctas", "cintas", "cintas corporation"]
         },
         {
           "symbol": "PH",
           "companyName": "Parker-Hannifin Corporation",
           "sector": "Industrials",
-          "industry": "Industrial - Machinery"
+          "industry": "Industrial - Machinery",
+          "aliases": ["ph", "parker hannifin", "parker-hannifin"]
         },
         {
           "symbol": "MCK",
           "companyName": "McKesson Corporation",
           "sector": "Healthcare",
-          "industry": "Medical - Distribution"
+          "industry": "Medical - Distribution",
+          "aliases": ["mck", "mckesson", "mckesson corporation"]
         },
         {
           "symbol": "UPS",
@@ -1154,13 +1163,15 @@
           "symbol": "EQIX",
           "companyName": "Equinix, Inc.",
           "sector": "Real Estate",
-          "industry": "REIT - Specialty"
+          "industry": "REIT - Specialty",
+          "aliases": ["eqix", "equinix", "equinix inc"]
         },
         {
           "symbol": "AJG",
           "companyName": "Arthur J. Gallagher & Co.",
           "sector": "Financial Services",
-          "industry": "Insurance - Brokers"
+          "industry": "Insurance - Brokers",
+          "aliases": ["ajg", "arthur j gallagher", "gallagher"]
         },
         {
           "symbol": "DASH",
@@ -1173,7 +1184,8 @@
           "symbol": "APO",
           "companyName": "Apollo Global Management, Inc.",
           "sector": "Financial Services",
-          "industry": "Asset Management - Global"
+          "industry": "Asset Management - Global",
+          "aliases": ["apo", "apollo", "apollo global management"]
         },
         {
           "symbol": "MDLZ",
@@ -1214,7 +1226,8 @@
           "symbol": "TDG",
           "companyName": "TransDigm Group Incorporated",
           "sector": "Industrials",
-          "industry": "Aerospace & Defense"
+          "industry": "Aerospace & Defense",
+          "aliases": ["tdg", "transdigm", "transdigm group"]
         },
         {
           "symbol": "DELL",
@@ -1227,241 +1240,281 @@
           "symbol": "CVS",
           "companyName": "CVS Health Corporation",
           "sector": "Healthcare",
-          "industry": "Medical - Healthcare Plans"
+          "industry": "Medical - Healthcare Plans",
+          "aliases": ["cvs", "cvs health", "cvs pharmacy"]
         },
         {
           "symbol": "COF",
           "companyName": "Capital One Financial Corporation",
           "sector": "Financial Services",
-          "industry": "Financial - Credit Services"
+          "industry": "Financial - Credit Services",
+          "aliases": ["cof", "capital one", "capital one financial", "cof stock"]
         },
         {
           "symbol": "ORLY",
           "companyName": "O'Reilly Automotive, Inc.",
           "sector": "Consumer Cyclical",
-          "industry": "Specialty Retail"
+          "industry": "Specialty Retail",
+          "aliases": ["orly", "o'reilly", "oreilly automotive", "orly stock"]
         },
         {
           "symbol": "MAR",
           "companyName": "Marriott International, Inc.",
           "sector": "Consumer Cyclical",
-          "industry": "Travel Lodging"
+          "industry": "Travel Lodging",
+          "aliases": ["mar", "marriott", "marriott international", "mar stock"]
         },
         {
           "symbol": "SCCO",
           "companyName": "Southern Copper Corporation",
           "sector": "Basic Materials",
-          "industry": "Copper"
+          "industry": "Copper",
+          "aliases": ["scco", "southern copper", "southern copper corporation"]
         },
         {
           "symbol": "ATVI",
           "companyName": "Activision Blizzard, Inc.",
           "sector": "Technology",
-          "industry": "Electronic Gaming & Multimedia"
+          "industry": "Electronic Gaming & Multimedia",
+          "aliases": ["atvi", "activision", "activision blizzard", "atvi stock"]
         },
         {
           "symbol": "RSG",
           "companyName": "Republic Services, Inc.",
           "sector": "Industrials",
-          "industry": "Waste Management"
+          "industry": "Waste Management",
+          "aliases": ["rsg", "republic services"]
         },
         {
           "symbol": "WDAY",
           "companyName": "Workday, Inc.",
           "sector": "Technology",
-          "industry": "Software - Application"
+          "industry": "Software - Application",
+          "aliases": ["wday", "workday", "workday inc", "wday stock"]
         },
         {
           "symbol": "GD",
           "companyName": "General Dynamics Corporation",
           "sector": "Industrials",
-          "industry": "Aerospace & Defense"
+          "industry": "Aerospace & Defense",
+          "aliases": ["gd", "general dynamics", "gd stock"]
         },
         {
           "symbol": "ITW",
           "companyName": "Illinois Tool Works Inc.",
           "sector": "Industrials",
-          "industry": "Industrial - Machinery"
+          "industry": "Industrial - Machinery",
+          "aliases": ["itw", "illinois tool works"]
         },
         {
           "symbol": "WMB",
           "companyName": "The Williams Companies, Inc.",
           "sector": "Energy",
-          "industry": "Oil & Gas Midstream"
+          "industry": "Oil & Gas Midstream",
+          "aliases": ["wmb", "williams companies", "williams"]
         },
         {
           "symbol": "PYPL",
           "companyName": "PayPal Holdings, Inc.",
           "sector": "Financial Services",
-          "industry": "Financial - Credit Services"
+          "industry": "Financial - Credit Services",
+          "aliases": ["pypl", "paypal", "paypal holdings", "pypl stock", "paypal stock"]
         },
         {
           "symbol": "ECL",
           "companyName": "Ecolab Inc.",
           "sector": "Basic Materials",
-          "industry": "Chemicals - Specialty"
+          "industry": "Chemicals - Specialty",
+          "aliases": ["ecl", "ecolab", "ecolab inc"]
         },
         {
           "symbol": "CL",
           "companyName": "Colgate-Palmolive Company",
           "sector": "Consumer Defensive",
-          "industry": "Household & Personal Products"
+          "industry": "Household & Personal Products",
+          "aliases": ["cl", "colgate", "colgate-palmolive", "cl stock"]
         },
         {
           "symbol": "PNC",
           "companyName": "The PNC Financial Services Group, Inc.",
           "sector": "Financial Services",
-          "industry": "Banks - Regional"
+          "industry": "Banks - Regional",
+          "aliases": ["pnc", "pnc financial", "pnc bank", "pnc stock"]
         },
         {
           "symbol": "ZTS",
           "companyName": "Zoetis Inc.",
           "sector": "Healthcare",
-          "industry": "Drug Manufacturers - Specialty & Generic"
+          "industry": "Drug Manufacturers - Specialty & Generic",
+          "aliases": ["zts", "zoetis", "zoetis inc"]
         },
         {
           "symbol": "MSI",
           "companyName": "Motorola Solutions, Inc.",
           "sector": "Technology",
-          "industry": "Communication Equipment"
+          "industry": "Communication Equipment",
+          "aliases": ["msi", "motorola", "motorola solutions"]
         },
         {
           "symbol": "CMG",
           "companyName": "Chipotle Mexican Grill, Inc.",
           "sector": "Consumer Cyclical",
-          "industry": "Restaurants"
+          "industry": "Restaurants",
+          "aliases": ["cmg", "chipotle", "chipotle mexican grill", "cmg stock"]
         },
         {
           "symbol": "EPD",
           "companyName": "Enterprise Products Partners L.P.",
           "sector": "Energy",
-          "industry": "Oil & Gas Midstream"
+          "industry": "Oil & Gas Midstream",
+          "aliases": ["epd", "enterprise products", "enterprise products partners"]
         },
         {
           "symbol": "USB",
           "companyName": "U.S. Bancorp",
           "sector": "Financial Services",
-          "industry": "Banks - Regional"
+          "industry": "Banks - Regional",
+          "aliases": ["usb", "us bancorp", "usb stock"]
         },
         {
           "symbol": "RCL",
           "companyName": "Royal Caribbean Cruises Ltd.",
           "sector": "Consumer Cyclical",
-          "industry": "Travel Services"
+          "industry": "Travel Services",
+          "aliases": ["rcl", "royal caribbean", "rcl stock"]
         },
         {
           "symbol": "EMR",
           "companyName": "Emerson Electric Co.",
           "sector": "Industrials",
-          "industry": "Industrial - Machinery"
+          "industry": "Industrial - Machinery",
+          "aliases": ["emr", "emerson", "emerson electric"]
         },
         {
           "symbol": "NOC",
           "companyName": "Northrop Grumman Corporation",
           "sector": "Industrials",
-          "industry": "Aerospace & Defense"
+          "industry": "Aerospace & Defense",
+          "aliases": ["noc", "northrop grumman", "noc stock"]
         },
         {
           "symbol": "COIN",
           "companyName": "Coinbase Global, Inc.",
           "sector": "Financial Services",
-          "industry": "Financial - Data & Stock Exchanges"
+          "industry": "Financial - Data & Stock Exchanges",
+          "aliases": ["coin", "coinbase", "coinbase global"]
         },
         {
           "symbol": "CVNA",
           "companyName": "Carvana Co.",
           "sector": "Consumer Cyclical",
-          "industry": "Specialty Retail"
+          "industry": "Specialty Retail",
+          "aliases": ["cvna", "carvana"]
         },
         {
           "symbol": "HWM",
           "companyName": "Howmet Aerospace Inc.",
           "sector": "Industrials",
-          "industry": "Industrial - Machinery"
+          "industry": "Industrial - Machinery",
+          "aliases": ["hwm", "howmet", "howmet aerospace"]
         },
         {
           "symbol": "ADSK",
           "companyName": "Autodesk, Inc.",
           "sector": "Technology",
-          "industry": "Software - Application"
+          "industry": "Software - Application",
+          "aliases": ["adsk", "autodesk", "autocad"]
         },
         {
           "symbol": "CARR",
           "companyName": "Carrier Global Corporation",
           "sector": "Industrials",
-          "industry": "Construction"
+          "industry": "Construction",
+          "aliases": ["carr", "carrier", "carrier global"]
         },
         {
           "symbol": "PXD",
           "companyName": "Pioneer Natural Resources Company",
           "sector": "Energy",
-          "industry": "Oil & Gas Exploration & Production"
+          "industry": "Oil & Gas Exploration & Production",
+          "aliases": ["pxd", "pioneer", "pioneer natural resources"]
         },
         {
           "symbol": "EOG",
           "companyName": "EOG Resources, Inc.",
           "sector": "Energy",
-          "industry": "Oil & Gas Exploration & Production"
+          "industry": "Oil & Gas Exploration & Production",
+          "aliases": ["eog", "eog resources"]
         },
         {
           "symbol": "BK",
           "companyName": "The Bank of New York Mellon Corporation",
           "sector": "Financial Services",
-          "industry": "Asset Management"
+          "industry": "Asset Management",
+          "aliases": ["bk", "bny mellon", "bank of new york mellon"]
         },
         {
           "symbol": "ET",
           "companyName": "Energy Transfer LP",
           "sector": "Energy",
-          "industry": "Oil & Gas Midstream"
+          "industry": "Oil & Gas Midstream",
+          "aliases": ["et", "energy transfer"]
         },
         {
           "symbol": "VMW",
           "companyName": "VMware, Inc.",
           "sector": "Technology",
-          "industry": "Software - Infrastructure"
+          "industry": "Software - Infrastructure",
+          "aliases": ["vmw", "vmware", "vmware inc", "vmw stock"]
         },
         {
           "symbol": "AZO",
           "companyName": "AutoZone, Inc.",
           "sector": "Consumer Cyclical",
-          "industry": "Specialty Retail"
+          "industry": "Specialty Retail",
+          "aliases": ["azo", "autozone", "auto zone"]
         },
         {
           "symbol": "KMI",
           "companyName": "Kinder Morgan, Inc.",
           "sector": "Energy",
-          "industry": "Oil & Gas Midstream"
+          "industry": "Oil & Gas Midstream",
+          "aliases": ["kmi", "kinder morgan"]
         },
         {
           "symbol": "SNOW",
           "companyName": "Snowflake Inc.",
           "sector": "Technology",
-          "industry": "Software - Application"
+          "industry": "Software - Application",
+          "aliases": ["snow", "snowflake", "snowflake inc", "snow stock"]
         },
         {
           "symbol": "REGN",
           "companyName": "Regeneron Pharmaceuticals, Inc.",
           "sector": "Healthcare",
-          "industry": "Biotechnology"
+          "industry": "Biotechnology",
+          "aliases": ["regn", "regeneron", "regeneron pharmaceuticals", "regn stock"]
         },
         {
           "symbol": "ROP",
           "companyName": "Roper Technologies, Inc.",
           "sector": "Industrials",
-          "industry": "Industrial - Machinery"
+          "industry": "Industrial - Machinery",
+          "aliases": ["rop", "roper", "roper technologies"]
         },
         {
           "symbol": "HLT",
           "companyName": "Hilton Worldwide Holdings Inc.",
           "sector": "Consumer Cyclical",
-          "industry": "Travel Lodging"
+          "industry": "Travel Lodging",
+          "aliases": ["hlt", "hilton", "hilton worldwide", "hlt stock"]
         },
         {
           "symbol": "APD",
           "companyName": "Air Products and Chemicals, Inc.",
           "sector": "Basic Materials",
-          "industry": "Chemicals - Specialty"
+          "industry": "Chemicals - Specialty",
+          "aliases": ["apd", "air products", "air products and chemicals"]
         },
         {
           "symbol": "CPRT",
@@ -1473,121 +1526,141 @@
           "symbol": "TRV",
           "companyName": "The Travelers Companies, Inc.",
           "sector": "Financial Services",
-          "industry": "Insurance - Property & Casualty"
+          "industry": "Insurance - Property & Casualty",
+          "aliases": ["trv", "travelers", "travelers companies", "trv stock"]
         },
         {
           "symbol": "CCZ",
           "companyName": "Comcast Holdings Corp.",
           "sector": "Communication Services",
-          "industry": "Broadcasting"
+          "industry": "Broadcasting",
+          "aliases": ["ccz", "comcast holdings"]
         },
         {
           "symbol": "MNST",
           "companyName": "Monster Beverage Corporation",
           "sector": "Consumer Defensive",
-          "industry": "Beverages - Non-Alcoholic"
+          "industry": "Beverages - Non-Alcoholic",
+          "aliases": ["mnst", "monster", "monster beverage", "mnst stock"]
         },
         {
           "symbol": "VTIP",
           "companyName": "Vanguard Short-Term Inflation-Protected Securities Index Fund",
           "sector": "Financial Services",
-          "industry": "Asset Management - Leveraged"
+          "industry": "Asset Management - Leveraged",
+          "aliases": ["vtip", "vanguard tips", "vanguard inflation protected"]
         },
         {
           "symbol": "CHTR",
           "companyName": "Charter Communications, Inc.",
           "sector": "Communication Services",
-          "industry": "Telecommunications Services"
+          "industry": "Telecommunications Services",
+          "aliases": ["chtr", "charter", "charter communications", "spectrum"]
         },
         {
           "symbol": "CSX",
           "companyName": "CSX Corporation",
           "sector": "Industrials",
-          "industry": "Railroads"
+          "industry": "Railroads",
+          "aliases": ["csx", "csx corporation", "csx railroad"]
         },
         {
           "symbol": "IBIT",
           "companyName": "iShares Bitcoin Trust",
           "sector": "",
-          "industry": ""
+          "industry": "",
+          "aliases": ["ibit", "ishares bitcoin", "bitcoin etf"]
         },
         {
           "symbol": "MRVL",
           "companyName": "Marvell Technology, Inc.",
           "sector": "Technology",
-          "industry": "Semiconductors"
+          "industry": "Semiconductors",
+          "aliases": ["mrvl", "marvell", "marvell technology", "mrvl stock"]
         },
         {
           "symbol": "AFL",
           "companyName": "Aflac Incorporated",
           "sector": "Financial Services",
-          "industry": "Insurance - Life"
+          "industry": "Insurance - Life",
+          "aliases": ["afl", "aflac", "aflac incorporated", "afl stock"]
         },
         {
           "symbol": "FCX",
           "companyName": "Freeport-McMoRan Inc.",
           "sector": "Basic Materials",
-          "industry": "Copper"
+          "industry": "Copper",
+          "aliases": ["fcx", "freeport", "freeport-mcmoran", "fcx stock"]
         },
         {
           "symbol": "AXON",
           "companyName": "Axon Enterprise, Inc.",
           "sector": "Industrials",
-          "industry": "Aerospace & Defense"
+          "industry": "Aerospace & Defense",
+          "aliases": ["axon", "axon enterprise", "axon stock"]
         },
         {
           "symbol": "DLR",
           "companyName": "Digital Realty Trust, Inc.",
           "sector": "Real Estate",
-          "industry": "REIT - Office"
+          "industry": "REIT - Office",
+          "aliases": ["dlr", "digital realty", "digital realty trust"]
         },
         {
           "symbol": "HOOD",
           "companyName": "Robinhood Markets, Inc.",
           "sector": "Technology",
-          "industry": "Software - Infrastructure"
+          "industry": "Software - Infrastructure",
+          "aliases": ["hood", "robinhood", "robinhood markets", "hood stock"]
         },
         {
           "symbol": "FDX",
           "companyName": "FedEx Corporation",
           "sector": "Industrials",
-          "industry": "Integrated Freight & Logistics"
+          "industry": "Integrated Freight & Logistics",
+          "aliases": ["fdx", "fedex", "fedex corporation", "fdx stock"]
         },
         {
           "symbol": "VCIT",
           "companyName": "Vanguard Intermediate-Term Corporate Bond Index Fund",
           "sector": "Financial Services",
-          "industry": "Asset Management - Bonds"
+          "industry": "Asset Management - Bonds",
+          "aliases": ["vcit", "vanguard corporate bond", "vanguard intermediate term"]
         },
         {
           "symbol": "COR",
           "companyName": "Cencora, Inc.",
           "sector": "Healthcare",
-          "industry": "Medical - Distribution"
+          "industry": "Medical - Distribution",
+          "aliases": ["cor", "cencora", "amerisourcebergen"]
         },
         {
           "symbol": "OKE",
           "companyName": "ONEOK, Inc.",
           "sector": "Energy",
-          "industry": "Oil & Gas Midstream"
+          "industry": "Oil & Gas Midstream",
+          "aliases": ["oke", "oneok"]
         },
         {
           "symbol": "NSC",
           "companyName": "Norfolk Southern Corporation",
           "sector": "Industrials",
-          "industry": "Railroads"
+          "industry": "Railroads",
+          "aliases": ["nsc", "norfolk southern", "nsc stock"]
         },
         {
           "symbol": "TFC",
           "companyName": "Truist Financial Corporation",
           "sector": "Financial Services",
-          "industry": "Banks - Regional"
+          "industry": "Banks - Regional",
+          "aliases": ["tfc", "truist", "truist financial", "truist bank"]
         },
         {
           "symbol": "PAYX",
           "companyName": "Paychex, Inc.",
           "sector": "Industrials",
-          "industry": "Staffing & Employment Services"
+          "industry": "Staffing & Employment Services",
+          "aliases": ["payx", "paychex"]
         },
         {
           "symbol": "NEM",
@@ -1611,115 +1684,134 @@
           "symbol": "ALL",
           "companyName": "The Allstate Corporation",
           "sector": "Financial Services",
-          "industry": "Insurance - Property & Casualty"
+          "industry": "Insurance - Property & Casualty",
+          "aliases": ["all", "allstate", "allstate insurance"]
         },
         {
           "symbol": "NET",
           "companyName": "Cloudflare, Inc.",
           "sector": "Technology",
-          "industry": "Software - Infrastructure"
+          "industry": "Software - Infrastructure",
+          "aliases": ["net", "cloudflare", "cloud flare"]
         },
         {
           "symbol": "SPG",
           "companyName": "Simon Property Group, Inc.",
           "sector": "Real Estate",
-          "industry": "REIT - Retail"
+          "industry": "REIT - Retail",
+          "aliases": ["spg", "simon property", "simon property group"]
         },
         {
           "symbol": "AEP",
           "companyName": "American Electric Power Company, Inc.",
           "sector": "Utilities",
-          "industry": "Regulated Electric"
+          "industry": "Regulated Electric",
+          "aliases": ["aep", "american electric power", "aep energy"]
         },
         {
           "symbol": "PSA",
           "companyName": "Public Storage",
           "sector": "Real Estate",
-          "industry": "REIT - Industrial"
+          "industry": "REIT - Industrial",
+          "aliases": ["psa", "public storage"]
         },
         {
           "symbol": "FICO",
           "companyName": "Fair Isaac Corporation",
           "sector": "Technology",
-          "industry": "Software - Application"
+          "industry": "Software - Application",
+          "aliases": ["fico", "fair isaac", "fico score", "fico stock"]
         },
         {
           "symbol": "VST",
           "companyName": "Vistra Corp.",
           "sector": "Utilities",
-          "industry": "Independent Power Producers"
+          "industry": "Independent Power Producers",
+          "aliases": ["vst", "vistra", "vistra corp"]
         },
         {
           "symbol": "LNG",
           "companyName": "Cheniere Energy, Inc.",
           "sector": "Energy",
-          "industry": "Oil & Gas Midstream"
+          "industry": "Oil & Gas Midstream",
+          "aliases": ["lng", "cheniere", "cheniere energy"]
         },
         {
           "symbol": "SQ",
           "companyName": "Block, Inc.",
           "sector": "Technology",
-          "industry": "Software - Infrastructure"
+          "industry": "Software - Infrastructure",
+          "aliases": ["sq", "square", "block inc", "sq stock", "block stock"]
         },
         {
           "symbol": "MPLX",
           "companyName": "MPLX LP",
           "sector": "Energy",
-          "industry": "Oil & Gas Midstream"
+          "industry": "Oil & Gas Midstream",
+          "aliases": ["mplx", "mplx lp", "marathon mplx"]
         },
         {
           "symbol": "GWW",
           "companyName": "W.W. Grainger, Inc.",
           "sector": "Industrials",
-          "industry": "Industrial - Distribution"
+          "industry": "Industrial - Distribution",
+          "aliases": ["gww", "grainger", "ww grainger"]
         },
         {
           "symbol": "PSX",
           "companyName": "Phillips 66",
           "sector": "Energy",
-          "industry": "Oil & Gas Refining & Marketing"
+          "industry": "Oil & Gas Refining & Marketing",
+          "aliases": ["psx", "phillips 66", "psx stock"]
         },
         {
           "symbol": "DFS",
           "companyName": "Discover Financial Services",
           "sector": "Financial Services",
-          "industry": "Financial - Credit Services"
+          "industry": "Financial - Credit Services",
+          "aliases": ["dfs", "discover", "discover financial", "dfs stock"]
         },
         {
           "symbol": "PWR",
           "companyName": "Quanta Services, Inc.",
           "sector": "Industrials",
-          "industry": "Engineering & Construction"
+          "industry": "Engineering & Construction",
+          "aliases": ["pwr", "quanta", "quanta services"]
         },
         {
           "symbol": "MPC",
           "companyName": "Marathon Petroleum Corporation",
           "sector": "Energy",
-          "industry": "Oil & Gas Refining & Marketing"
+          "industry": "Oil & Gas Refining & Marketing",
+          "aliases": ["mpc", "marathon petroleum", "marathon"]
         },
         {
           "symbol": "PCAR",
           "companyName": "PACCAR Inc",
           "sector": "Industrials",
-          "industry": "Agricultural - Machinery"
+          "industry": "Agricultural - Machinery",
+          "aliases": ["pcar", "paccar", "peterbilt", "kenworth"]
         },
         {
           "symbol": "AMP",
           "companyName": "Ameriprise Financial, Inc.",
           "sector": "Financial Services",
-          "industry": "Asset Management"
+          "industry": "Asset Management",
+          "aliases": ["amp", "ameriprise", "ameriprise financial"]
         },
         {
           "symbol": "O",
           "companyName": "Realty Income Corporation",
           "sector": "Real Estate",
-          "industry": "REIT - Retail"
+          "industry": "REIT - Retail",
+          "aliases": ["o", "realty income", "monthly dividend company"]
         },
         {
           "symbol": "ROST",
           "companyName": "Ross Stores, Inc.",
           "sector": "Consumer Cyclical",
-          "industry": "Apparel - Retail"
+          "industry": "Apparel - Retail",
+          "aliases": ["rost", "ross", "ross stores"]
         },
         {
           "symbol": "BDX",
@@ -1743,121 +1835,141 @@
           "symbol": "GM",
           "companyName": "General Motors Company",
           "sector": "Consumer Cyclical",
-          "industry": "Auto - Manufacturers"
+          "industry": "Auto - Manufacturers",
+          "aliases": ["gm", "general motors", "gm stock", "chevy"]
         },
         {
           "symbol": "SRE",
           "companyName": "Sempra",
           "sector": "Utilities",
-          "industry": "Diversified Utilities"
+          "industry": "Diversified Utilities",
+          "aliases": ["sre", "sempra", "sempra energy"]
         },
         {
           "symbol": "AIG",
           "companyName": "American International Group, Inc.",
           "sector": "Financial Services",
-          "industry": "Insurance - Diversified"
+          "industry": "Insurance - Diversified",
+          "aliases": ["aig", "american international", "aig stock"]
         },
         {
           "symbol": "URI",
           "companyName": "United Rentals, Inc.",
           "sector": "Industrials",
-          "industry": "Rental & Leasing Services"
+          "industry": "Rental & Leasing Services",
+          "aliases": ["uri", "united rentals"]
         },
         {
           "symbol": "NDAQ",
           "companyName": "Nasdaq, Inc.",
           "sector": "Financial Services",
-          "industry": "Financial - Data & Stock Exchanges"
+          "industry": "Financial - Data & Stock Exchanges",
+          "aliases": ["ndaq", "nasdaq", "nasdaq inc", "ndaq stock"]
         },
         {
           "symbol": "TLT",
           "companyName": "iShares 20+ Year Treasury Bond ETF",
           "sector": "Financial Services",
-          "industry": "Asset Management - Bonds"
+          "industry": "Asset Management - Bonds",
+          "aliases": ["tlt", "treasury bond etf", "ishares treasury", "tlt stock"]
         },
         {
           "symbol": "CMI",
           "companyName": "Cummins Inc.",
           "sector": "Industrials",
-          "industry": "Industrial - Machinery"
+          "industry": "Industrial - Machinery",
+          "aliases": ["cmi", "cummins", "cummins inc", "cmi stock"]
         },
         {
           "symbol": "CTVA",
           "companyName": "Corteva, Inc.",
           "sector": "Basic Materials",
-          "industry": "Agricultural Inputs"
+          "industry": "Agricultural Inputs",
+          "aliases": ["ctva", "corteva", "corteva agriscience"]
         },
         {
           "symbol": "FAST",
           "companyName": "Fastenal Company",
           "sector": "Industrials",
-          "industry": "Industrial - Distribution"
+          "industry": "Industrial - Distribution",
+          "aliases": ["fast", "fastenal"]
         },
         {
           "symbol": "D",
           "companyName": "Dominion Energy, Inc.",
           "sector": "Utilities",
-          "industry": "Regulated Electric"
+          "industry": "Regulated Electric",
+          "aliases": ["d", "dominion", "dominion energy", "d stock"]
         },
         {
           "symbol": "EW",
           "companyName": "Edwards Lifesciences Corporation",
           "sector": "Healthcare",
-          "industry": "Medical - Devices"
+          "industry": "Medical - Devices",
+          "aliases": ["ew", "edwards lifesciences", "edwards"]
         },
         {
           "symbol": "KVUE",
           "companyName": "Kenvue Inc.",
           "sector": "Consumer Defensive",
-          "industry": "Household & Personal Products"
+          "industry": "Household & Personal Products",
+          "aliases": ["kvue", "kenvue", "johnson johnson consumer"]
         },
         {
           "symbol": "CCIV",
           "companyName": "Lucid Group, Inc.",
           "sector": "Financial Services",
-          "industry": "Shell Companies"
+          "industry": "Shell Companies",
+          "aliases": ["cciv", "lucid", "lucid group", "cciv stock", "lucid stock"]
         },
         {
           "symbol": "KR",
           "companyName": "The Kroger Co.",
           "sector": "Consumer Defensive",
-          "industry": "Grocery Stores"
+          "industry": "Grocery Stores",
+          "aliases": ["kr", "kroger", "the kroger co"]
         },
         {
           "symbol": "KMB",
           "companyName": "Kimberly-Clark Corporation",
           "sector": "Consumer Defensive",
-          "industry": "Household & Personal Products"
+          "industry": "Household & Personal Products",
+          "aliases": ["kmb", "kimberly clark", "kimberly-clark", "kleenex"]
         },
         {
           "symbol": "KDP",
           "companyName": "Keurig Dr Pepper Inc.",
           "sector": "Consumer Defensive",
-          "industry": "Beverages - Non-Alcoholic"
+          "industry": "Beverages - Non-Alcoholic",
+          "aliases": ["kdp", "keurig", "dr pepper", "keurig dr pepper"]
         },
         {
           "symbol": "TGT",
           "companyName": "Target Corporation",
           "sector": "Consumer Defensive",
-          "industry": "Discount Stores"
+          "industry": "Discount Stores",
+          "aliases": ["tgt", "target", "target corporation"]
         },
         {
           "symbol": "MSCI",
           "companyName": "MSCI Inc.",
           "sector": "Financial Services",
-          "industry": "Financial - Data & Stock Exchanges"
+          "industry": "Financial - Data & Stock Exchanges",
+          "aliases": ["msci", "msci inc", "msci index"]
         },
         {
           "symbol": "SGEN",
           "companyName": "Seagen Inc.",
           "sector": "Healthcare",
-          "industry": "Biotechnology"
+          "industry": "Biotechnology",
+          "aliases": ["sgen", "seagen", "seattle genetics"]
         },
         {
           "symbol": "OXY",
           "companyName": "Occidental Petroleum Corporation",
           "sector": "Energy",
-          "industry": "Oil & Gas Exploration & Production"
+          "industry": "Oil & Gas Exploration & Production",
+          "aliases": ["oxy", "occidental", "occidental petroleum", "oxy stock"]
         },
         {
           "symbol": "QQQM",
@@ -1869,121 +1981,141 @@
           "symbol": "FANG",
           "companyName": "Diamondback Energy, Inc.",
           "sector": "Energy",
-          "industry": "Oil & Gas Exploration & Production"
+          "industry": "Oil & Gas Exploration & Production",
+          "aliases": ["fang", "diamondback", "diamondback energy", "fang stock"]
         },
         {
           "symbol": "CCI",
           "companyName": "Crown Castle Inc.",
           "sector": "Real Estate",
-          "industry": "REIT - Specialty"
+          "industry": "REIT - Specialty",
+          "aliases": ["cci", "crown castle", "crown castle inc"]
         },
         {
           "symbol": "VLO",
           "companyName": "Valero Energy Corporation",
           "sector": "Energy",
-          "industry": "Oil & Gas Refining & Marketing"
+          "industry": "Oil & Gas Refining & Marketing",
+          "aliases": ["vlo", "valero", "valero energy", "vlo stock"]
         },
         {
           "symbol": "EXC",
           "companyName": "Exelon Corporation",
           "sector": "Utilities",
-          "industry": "Regulated Electric"
+          "industry": "Regulated Electric",
+          "aliases": ["exc", "exelon", "exelon corporation"]
         },
         {
           "symbol": "ENBA",
           "companyName": "Enbridge Inc. 6.375 SNT18 B 78",
           "sector": "Energy",
-          "industry": "Oil & Gas Midstream"
+          "industry": "Oil & Gas Midstream",
+          "aliases": ["enba", "enbridge notes"]
         },
         {
           "symbol": "HES",
           "companyName": "Hess Corporation",
           "sector": "Energy",
-          "industry": "Oil & Gas Exploration & Production"
+          "industry": "Oil & Gas Exploration & Production",
+          "aliases": ["hes", "hess", "hess corporation"]
         },
         {
           "symbol": "F",
           "companyName": "Ford Motor Company",
           "sector": "Consumer Cyclical",
-          "industry": "Auto - Manufacturers"
+          "industry": "Auto - Manufacturers",
+          "aliases": ["f", "ford", "ford motor", "f stock", "ford stock"]
         },
         {
           "symbol": "VRSK",
           "companyName": "Verisk Analytics, Inc.",
           "sector": "Industrials",
-          "industry": "Consulting Services"
+          "industry": "Consulting Services",
+          "aliases": ["vrsk", "verisk", "verisk analytics"]
         },
         {
           "symbol": "AME",
           "companyName": "AMETEK, Inc.",
           "sector": "Industrials",
-          "industry": "Industrial - Machinery"
+          "industry": "Industrial - Machinery",
+          "aliases": ["ame", "ametek"]
         },
         {
           "symbol": "VCSH",
           "companyName": "Vanguard Short-Term Corporate Bond Index Fund",
           "sector": "Financial Services",
-          "industry": "Asset Management - Bonds"
+          "industry": "Asset Management - Bonds",
+          "aliases": ["vcsh", "vanguard short term bond", "vanguard corporate"]
         },
         {
           "symbol": "VRT",
           "companyName": "Vertiv Holdings Co",
           "sector": "Industrials",
-          "industry": "Electrical Equipment & Parts"
+          "industry": "Electrical Equipment & Parts",
+          "aliases": ["vrt", "vertiv", "vertiv holdings"]
         },
         {
           "symbol": "IXUS",
           "companyName": "iShares Core MSCI Total International Stock ETF",
           "sector": "Financial Services",
-          "industry": "Asset Management"
+          "industry": "Asset Management",
+          "aliases": ["ixus", "ishares international", "msci international etf"]
         },
         {
           "symbol": "TWTR",
           "companyName": "Twitter, Inc. (delisted)",
           "sector": "Communication Services",
-          "industry": "Internet Content & Information"
+          "industry": "Internet Content & Information",
+          "aliases": ["twtr", "twitter"]
         },
         {
           "symbol": "DDOG",
           "companyName": "Datadog, Inc.",
           "sector": "Technology",
-          "industry": "Software - Application"
+          "industry": "Software - Application",
+          "aliases": ["ddog", "datadog", "data dog"]
         },
         {
           "symbol": "IDXX",
           "companyName": "IDEXX Laboratories, Inc.",
           "sector": "Healthcare",
-          "industry": "Medical - Diagnostics & Research"
+          "industry": "Medical - Diagnostics & Research",
+          "aliases": ["idxx", "idexx", "idexx laboratories"]
         },
         {
           "symbol": "FIS",
           "companyName": "Fidelity National Information Services, Inc.",
           "sector": "Technology",
-          "industry": "Consumer Electronics"
+          "industry": "Consumer Electronics",
+          "aliases": ["fis", "fidelity national", "fidelity information services"]
         },
         {
           "symbol": "MS-PQ",
           "companyName": "Morgan Stanley",
           "sector": "Financial Services",
-          "industry": "Financial - Capital Markets"
+          "industry": "Financial - Capital Markets",
+          "aliases": ["ms-pq", "morgan stanley preferred"]
         },
         {
           "symbol": "YUM",
           "companyName": "Yum! Brands, Inc.",
           "sector": "Consumer Cyclical",
-          "industry": "Restaurants"
+          "industry": "Restaurants",
+          "aliases": ["yum", "yum brands", "kfc taco bell", "yum stock"]
         },
         {
           "symbol": "LHX",
           "companyName": "L3Harris Technologies, Inc.",
           "sector": "Industrials",
-          "industry": "Aerospace & Defense"
+          "industry": "Aerospace & Defense",
+          "aliases": ["lhx", "l3harris", "l3 harris", "harris technologies"]
         },
         {
           "symbol": "TTWO",
           "companyName": "Take-Two Interactive Software, Inc.",
           "sector": "Technology",
-          "industry": "Electronic Gaming & Multimedia"
+          "industry": "Electronic Gaming & Multimedia",
+          "aliases": ["ttwo", "take two", "take-two interactive", "ttwo stock"]
         },
         {
           "symbol": "GLW",
@@ -1995,817 +2127,953 @@
           "symbol": "CTSH",
           "companyName": "Cognizant Technology Solutions Corporation",
           "sector": "Technology",
-          "industry": "Information Technology Services"
+          "industry": "Information Technology Services",
+          "aliases": ["ctsh", "cognizant", "cognizant technology", "ctsh stock"]
         },
         {
           "symbol": "VGIT",
           "companyName": "Vanguard Intermediate-Term Treasury Index Fund",
           "sector": "Financial Services",
-          "industry": "Asset Management"
+          "industry": "Asset Management",
+          "aliases": ["vgit", "vanguard intermediate treasury", "vanguard treasury"]
         },
         {
           "symbol": "KIM-PN",
           "companyName": "Kimco Realty Corporation",
           "sector": "Real Estate",
-          "industry": "REIT - Retail"
+          "industry": "REIT - Retail",
+          "aliases": ["kim-pn", "kimco preferred"]
         },
         {
           "symbol": "VEEV",
           "companyName": "Veeva Systems Inc.",
           "sector": "Healthcare",
-          "industry": "Medical - Healthcare Information Services"
+          "industry": "Medical - Healthcare Information Services",
+          "aliases": ["veev", "veeva", "veeva systems", "veev stock"]
         },
         {
           "symbol": "XEL",
           "companyName": "Xcel Energy Inc.",
           "sector": "Utilities",
-          "industry": "Regulated Electric"
+          "industry": "Regulated Electric",
+          "aliases": ["xel", "xcel", "xcel energy"]
         },
         {
           "symbol": "TTD",
           "companyName": "The Trade Desk, Inc.",
           "sector": "Technology",
-          "industry": "Software - Application"
+          "industry": "Software - Application",
+          "aliases": ["ttd", "trade desk", "the trade desk", "ttd stock"]
         },
         {
           "symbol": "EA",
           "companyName": "Electronic Arts Inc.",
           "sector": "Technology",
-          "industry": "Electronic Gaming & Multimedia"
+          "industry": "Electronic Gaming & Multimedia",
+          "aliases": ["ea", "electronic arts", "ea games", "ea stock"]
         },
         {
           "symbol": "CBRE",
           "companyName": "CBRE Group, Inc.",
           "sector": "Real Estate",
-          "industry": "Real Estate - Services"
+          "industry": "Real Estate - Services",
+          "aliases": ["cbre", "cbre group", "coldwell banker"]
         },
         {
           "symbol": "DHI",
           "companyName": "D.R. Horton, Inc.",
           "sector": "Consumer Cyclical",
-          "industry": "Residential Construction"
+          "industry": "Residential Construction",
+          "aliases": ["dhi", "dr horton", "d r horton"]
         },
         {
           "symbol": "OTIS",
           "companyName": "Otis Worldwide Corporation",
           "sector": "Industrials",
-          "industry": "Industrial - Machinery"
+          "industry": "Industrial - Machinery",
+          "aliases": ["otis", "otis elevator", "otis worldwide"]
         },
         {
           "symbol": "PFH",
           "companyName": "CABCO Trust for JC Penney Debentures",
           "sector": "Financial Services",
-          "industry": "Banks"
+          "industry": "Banks",
+          "aliases": ["pfh", "cabco trust", "jc penney debentures"]
         },
         {
           "symbol": "PEG",
           "companyName": "Public Service Enterprise Group Incorporated",
           "sector": "Utilities",
-          "industry": "Regulated Electric"
+          "industry": "Regulated Electric",
+          "aliases": ["peg", "pseg", "public service enterprise"]
         },
         {
           "symbol": "PRS",
           "companyName": "Prudential Financial, Inc. 5.62",
           "sector": "Financial Services",
-          "industry": "Insurance - Life"
+          "industry": "Insurance - Life",
+          "aliases": ["prs", "prudential 5.62"]
         },
         {
           "symbol": "PRH",
           "companyName": "Prudential Financial, Inc. 5.95",
           "sector": "Financial Services",
-          "industry": "Insurance - Life"
+          "industry": "Insurance - Life",
+          "aliases": ["prh", "prudential 5.95"]
         },
         {
           "symbol": "ZS",
           "companyName": "Zscaler, Inc.",
           "sector": "Technology",
-          "industry": "Software - Infrastructure"
+          "industry": "Software - Infrastructure",
+          "aliases": ["zs", "zscaler", "zscaler inc", "zs stock"]
         },
         {
           "symbol": "BKR",
           "companyName": "Baker Hughes Company",
           "sector": "Energy",
-          "industry": "Oil & Gas Equipment & Services"
+          "industry": "Oil & Gas Equipment & Services",
+          "aliases": ["bkr", "baker hughes", "bkr stock"]
         },
         {
           "symbol": "ARES",
           "companyName": "Ares Management Corporation",
           "sector": "Financial Services",
-          "industry": "Asset Management"
+          "industry": "Asset Management",
+          "aliases": ["ares", "ares management"]
         },
         {
           "symbol": "PRU",
           "companyName": "Prudential Financial, Inc.",
           "sector": "Financial Services",
-          "industry": "Insurance - Life"
+          "industry": "Insurance - Life",
+          "aliases": ["pru", "prudential", "prudential financial", "pru stock"]
         },
         {
           "symbol": "MBB",
           "companyName": "iShares MBS ETF",
           "sector": "Financial Services",
-          "industry": "Asset Management"
+          "industry": "Asset Management",
+          "aliases": ["mbb", "ishares mbs", "mortgage backed securities etf"]
         },
         {
           "symbol": "PCG",
           "companyName": "PG&E Corporation",
           "sector": "Utilities",
-          "industry": "Regulated Electric"
+          "industry": "Regulated Electric",
+          "aliases": ["pcg", "pge", "pg&e", "pcg stock"]
         },
         {
           "symbol": "TRGP",
           "companyName": "Targa Resources Corp.",
           "sector": "Energy",
-          "industry": "Oil & Gas Midstream"
+          "industry": "Oil & Gas Midstream",
+          "aliases": ["trgp", "targa", "targa resources"]
         },
         {
           "symbol": "RMD",
           "companyName": "ResMed Inc.",
           "sector": "Healthcare",
-          "industry": "Medical - Instruments & Supplies"
+          "industry": "Medical - Instruments & Supplies",
+          "aliases": ["rmd", "resmed", "resmed inc"]
         },
         {
           "symbol": "ABC",
           "companyName": "AmerisourceBergen Corporation",
           "sector": "Healthcare",
-          "industry": "Medical - Distribution"
+          "industry": "Medical - Distribution",
+          "aliases": ["abc", "amerisourcebergen", "abc stock"]
         },
         {
           "symbol": "XYZ",
           "companyName": "Block, Inc.",
           "sector": "Technology",
-          "industry": "Software - Infrastructure"
+          "industry": "Software - Infrastructure",
+          "aliases": ["xyz", "block xyz"]
         },
         {
           "symbol": "HIG",
           "companyName": "The Hartford Financial Services Group, Inc.",
           "sector": "Financial Services",
-          "industry": "Insurance - Diversified"
+          "industry": "Insurance - Diversified",
+          "aliases": ["hig", "hartford", "the hartford"]
         },
         {
           "symbol": "ODFL",
           "companyName": "Old Dominion Freight Line, Inc.",
           "sector": "Industrials",
-          "industry": "Trucking"
+          "industry": "Trucking",
+          "aliases": ["odfl", "old dominion", "old dominion freight", "odfl stock"]
         },
         {
           "symbol": "CAH",
           "companyName": "Cardinal Health, Inc.",
           "sector": "Healthcare",
-          "industry": "Medical - Distribution"
+          "industry": "Medical - Distribution",
+          "aliases": ["cah", "cardinal health", "cah stock"]
         },
         {
           "symbol": "HUBS",
           "companyName": "HubSpot, Inc.",
           "sector": "Technology",
-          "industry": "Software - Application"
+          "industry": "Software - Application",
+          "aliases": ["hubs", "hubspot", "hub spot"]
         },
         {
           "symbol": "ED",
           "companyName": "Consolidated Edison, Inc.",
           "sector": "Utilities",
-          "industry": "Regulated Electric"
+          "industry": "Regulated Electric",
+          "aliases": ["ed", "con edison", "consolidated edison"]
         },
         {
           "symbol": "MPWR",
           "companyName": "Monolithic Power Systems, Inc.",
           "sector": "Technology",
-          "industry": "Semiconductors"
+          "industry": "Semiconductors",
+          "aliases": ["mpwr", "monolithic power", "mpwr stock"]
         },
         {
           "symbol": "VMC",
           "companyName": "Vulcan Materials Company",
           "sector": "Basic Materials",
-          "industry": "Construction Materials"
+          "industry": "Construction Materials",
+          "aliases": ["vmc", "vulcan materials", "vmc stock"]
         },
         {
           "symbol": "ELC",
           "companyName": "Entergy Louisiana, LLC COLLATERAL TR MT",
           "sector": "Utilities",
-          "industry": "Regulated Electric"
+          "industry": "Regulated Electric",
+          "aliases": ["elc", "entergy louisiana"]
         },
         {
           "symbol": "WAB",
           "companyName": "Westinghouse Air Brake Technologies Corporation",
           "sector": "Industrials",
-          "industry": "Railroads"
+          "industry": "Railroads",
+          "aliases": ["wab", "wabtec", "westinghouse air brake"]
         },
         {
           "symbol": "ROK",
           "companyName": "Rockwell Automation, Inc.",
           "sector": "Industrials",
-          "industry": "Industrial - Machinery"
+          "industry": "Industrial - Machinery",
+          "aliases": ["rok", "rockwell", "rockwell automation", "rok stock"]
         },
         {
           "symbol": "ALNY",
           "companyName": "Alnylam Pharmaceuticals, Inc.",
           "sector": "Healthcare",
-          "industry": "Biotechnology"
+          "industry": "Biotechnology",
+          "aliases": ["alny", "alnylam", "alnylam pharmaceuticals"]
         },
         {
           "symbol": "ETR",
           "companyName": "Entergy Corporation",
           "sector": "Utilities",
-          "industry": "Regulated Electric"
+          "industry": "Regulated Electric",
+          "aliases": ["etr", "entergy", "entergy corporation"]
         },
         {
           "symbol": "IT",
           "companyName": "Gartner, Inc.",
           "sector": "Technology",
-          "industry": "Information Technology Services"
+          "industry": "Information Technology Services",
+          "aliases": ["it", "gartner", "gartner inc"]
         },
         {
           "symbol": "SYY",
           "companyName": "Sysco Corporation",
           "sector": "Consumer Defensive",
-          "industry": "Food Distribution"
+          "industry": "Food Distribution",
+          "aliases": ["syy", "sysco", "sysco corporation", "syy stock"]
         },
         {
           "symbol": "IEF",
           "companyName": "iShares 7-10 Year Treasury Bond ETF",
           "sector": "Financial Services",
-          "industry": "Asset Management - Bonds"
+          "industry": "Asset Management - Bonds",
+          "aliases": ["ief", "ishares 7-10 treasury", "treasury bond etf"]
         },
         {
           "symbol": "DAL",
           "companyName": "Delta Air Lines, Inc.",
           "sector": "Industrials",
-          "industry": "Airlines, Airports & Air Services"
+          "industry": "Airlines, Airports & Air Services",
+          "aliases": ["dal", "delta", "delta air lines", "dal stock"]
         },
         {
           "symbol": "IR",
           "companyName": "Ingersoll Rand Inc.",
           "sector": "Industrials",
-          "industry": "Industrial - Machinery"
+          "industry": "Industrial - Machinery",
+          "aliases": ["ir", "ingersoll rand", "ingersoll"]
         },
         {
           "symbol": "EQT",
           "companyName": "EQT Corporation",
           "sector": "Energy",
-          "industry": "Oil & Gas Exploration & Production"
+          "industry": "Oil & Gas Exploration & Production",
+          "aliases": ["eqt", "eqt corporation"]
         },
         {
           "symbol": "DXCM",
           "companyName": "DexCom, Inc.",
           "sector": "Healthcare",
-          "industry": "Medical - Devices"
+          "industry": "Medical - Devices",
+          "aliases": ["dxcm", "dexcom", "dexcom inc", "dxcm stock"]
         },
         {
           "symbol": "GEHC",
           "companyName": "GE HealthCare Technologies Inc.",
           "sector": "Healthcare",
-          "industry": "Medical - Healthcare Information Services"
+          "industry": "Medical - Healthcare Information Services",
+          "aliases": ["gehc", "ge healthcare", "ge health", "gehc stock"]
         },
         {
           "symbol": "EFX",
           "companyName": "Equifax Inc.",
           "sector": "Industrials",
-          "industry": "Consulting Services"
+          "industry": "Consulting Services",
+          "aliases": ["efx", "equifax", "equifax inc", "efx stock"]
         },
         {
           "symbol": "TW",
           "companyName": "Tradeweb Markets Inc.",
           "sector": "Financial Services",
-          "industry": "Financial - Capital Markets"
+          "industry": "Financial - Capital Markets",
+          "aliases": ["tw", "tradeweb", "tradeweb markets"]
         },
         {
           "symbol": "VONG",
           "companyName": "Vanguard Russell 1000 Growth Index Fund",
           "sector": "Financial Services",
-          "industry": "Asset Management"
+          "industry": "Asset Management",
+          "aliases": ["vong", "vanguard russell growth", "russell 1000 growth"]
         },
         {
           "symbol": "IUSB",
           "companyName": "iShares Core Total USD Bond Market ETF",
           "sector": "Financial Services",
-          "industry": "Asset Management - Bonds"
+          "industry": "Asset Management - Bonds",
+          "aliases": ["iusb", "ishares bond", "usd bond etf"]
         },
         {
           "symbol": "LYV",
           "companyName": "Live Nation Entertainment, Inc.",
           "sector": "Communication Services",
-          "industry": "Entertainment"
+          "industry": "Entertainment",
+          "aliases": ["lyv", "live nation", "live nation entertainment", "ticketmaster"]
         },
         {
           "symbol": "STZ",
           "companyName": "Constellation Brands, Inc.",
           "sector": "Consumer Defensive",
-          "industry": "Beverages - Wineries & Distilleries"
+          "industry": "Beverages - Wineries & Distilleries",
+          "aliases": ["stz", "constellation brands", "corona beer", "modelo"]
         },
         {
           "symbol": "MCHP",
           "companyName": "Microchip Technology Incorporated",
           "sector": "Technology",
-          "industry": "Semiconductors"
+          "industry": "Semiconductors",
+          "aliases": ["mchp", "microchip", "microchip technology"]
         },
         {
           "symbol": "VICI",
           "companyName": "VICI Properties Inc.",
           "sector": "Real Estate",
-          "industry": "REIT - Diversified"
+          "industry": "REIT - Diversified",
+          "aliases": ["vici", "vici properties", "vici reit"]
         },
         {
           "symbol": "HEI",
           "companyName": "HEICO Corporation",
           "sector": "Industrials",
-          "industry": "Aerospace & Defense"
+          "industry": "Aerospace & Defense",
+          "aliases": ["hei", "heico", "heico corporation"]
         },
         {
           "symbol": "HSY",
           "companyName": "The Hershey Company",
           "sector": "Consumer Defensive",
-          "industry": "Food Confectioners"
+          "industry": "Food Confectioners",
+          "aliases": ["hsy", "hershey", "hersheys", "the hershey company", "hershey chocolate"]
         },
         {
           "symbol": "MLM",
           "companyName": "Martin Marietta Materials, Inc.",
           "sector": "Basic Materials",
-          "industry": "Construction Materials"
+          "industry": "Construction Materials",
+          "aliases": ["mlm", "martin marietta", "martin marietta materials"]
         },
         {
           "symbol": "KHC",
           "companyName": "The Kraft Heinz Company",
           "sector": "Consumer Defensive",
-          "industry": "Packaged Foods"
+          "industry": "Packaged Foods",
+          "aliases": ["khc", "kraft", "heinz", "kraft heinz", "the kraft heinz company"]
         },
         {
           "symbol": "WEC",
           "companyName": "WEC Energy Group, Inc.",
           "sector": "Utilities",
-          "industry": "Regulated Electric"
+          "industry": "Regulated Electric",
+          "aliases": ["wec", "wec energy", "wec energy group"]
         },
         {
           "symbol": "A",
           "companyName": "Agilent Technologies, Inc.",
           "sector": "Healthcare",
-          "industry": "Medical - Diagnostics & Research"
+          "industry": "Medical - Diagnostics & Research",
+          "aliases": ["a", "agilent", "agilent technologies"]
         },
         {
           "symbol": "EBAY",
           "companyName": "eBay Inc.",
           "sector": "Consumer Cyclical",
-          "industry": "Specialty Retail"
+          "industry": "Specialty Retail",
+          "aliases": ["ebay", "e bay", "ebay inc"]
         },
         {
           "symbol": "TPL",
           "companyName": "Texas Pacific Land Corporation",
           "sector": "Energy",
-          "industry": "Oil & Gas Exploration & Production"
+          "industry": "Oil & Gas Exploration & Production",
+          "aliases": ["tpl", "texas pacific land", "texas pacific"]
         },
         {
           "symbol": "CSGP",
           "companyName": "CoStar Group, Inc.",
           "sector": "Real Estate",
-          "industry": "Real Estate - Services"
+          "industry": "Real Estate - Services",
+          "aliases": ["csgp", "costar", "costar group"]
         },
         {
           "symbol": "FWONK",
           "companyName": "Formula One Group",
           "sector": "Communication Services",
-          "industry": "Entertainment"
+          "industry": "Entertainment",
+          "aliases": ["fwonk", "formula one", "formula 1", "f1", "liberty media f1"]
         },
         {
           "symbol": "BRO",
           "companyName": "Brown & Brown, Inc.",
           "sector": "Financial Services",
-          "industry": "Insurance - Brokers"
+          "industry": "Insurance - Brokers",
+          "aliases": ["bro", "brown brown", "brown and brown"]
         },
         {
           "symbol": "CRWV",
           "companyName": "CoreWeave, Inc. Class A Common Stock",
           "sector": "Technology",
-          "industry": "Software - Infrastructure"
+          "industry": "Software - Infrastructure",
+          "aliases": ["crwv", "coreweave", "core weave"]
         },
         {
           "symbol": "EXR",
           "companyName": "Extra Space Storage Inc.",
           "sector": "Real Estate",
-          "industry": "REIT - Industrial"
+          "industry": "REIT - Industrial",
+          "aliases": ["exr", "extra space", "extra space storage"]
         },
         {
           "symbol": "ANSS",
           "companyName": "ANSYS, Inc.",
           "sector": "Technology",
-          "industry": "Software - Application"
+          "industry": "Software - Application",
+          "aliases": ["anss", "ansys", "ansys inc"]
         },
         {
           "symbol": "LPLA",
           "companyName": "LPL Financial Holdings Inc.",
           "sector": "Financial Services",
-          "industry": "Financial - Capital Markets"
+          "industry": "Financial - Capital Markets",
+          "aliases": ["lpla", "lpl", "lpl financial"]
         },
         {
           "symbol": "RJF",
           "companyName": "Raymond James Financial, Inc.",
           "sector": "Financial Services",
-          "industry": "Financial - Capital Markets"
+          "industry": "Financial - Capital Markets",
+          "aliases": ["rjf", "raymond james", "raymond james financial"]
         },
         {
           "symbol": "OWL",
           "companyName": "Blue Owl Capital Inc.",
           "sector": "Financial Services",
-          "industry": "Asset Management"
+          "industry": "Asset Management",
+          "aliases": ["owl", "blue owl", "blue owl capital"]
         },
         {
           "symbol": "XYL",
           "companyName": "Xylem Inc.",
           "sector": "Industrials",
-          "industry": "Industrial - Machinery"
+          "industry": "Industrial - Machinery",
+          "aliases": ["xyl", "xylem", "xylem inc"]
         },
         {
           "symbol": "IIVI",
           "companyName": "II-VI Incorporated",
           "sector": "Technology",
-          "industry": "Hardware, Equipment & Parts"
+          "industry": "Hardware, Equipment & Parts",
+          "aliases": ["iivi", "ii vi", "ii-vi", "coherent"]
         },
         {
           "symbol": "NRG",
           "companyName": "NRG Energy, Inc.",
           "sector": "Utilities",
-          "industry": "Independent Power Producers"
+          "industry": "Independent Power Producers",
+          "aliases": ["nrg", "nrg energy"]
         },
         {
           "symbol": "EXEEW",
           "companyName": "Expand Energy Corporation",
           "sector": "Energy",
-          "industry": "Oil & Gas Energy"
+          "industry": "Oil & Gas Energy",
+          "aliases": ["exeew", "expand energy", "chesapeake"]
         },
         {
           "symbol": "LVS",
           "companyName": "Las Vegas Sands Corp.",
           "sector": "Consumer Cyclical",
-          "industry": "Gambling, Resorts & Casinos"
+          "industry": "Gambling, Resorts & Casinos",
+          "aliases": ["lvs", "las vegas sands", "sands casino"]
         },
         {
           "symbol": "CCL",
           "companyName": "Carnival Corporation & plc",
           "sector": "Consumer Cyclical",
-          "industry": "Leisure"
+          "industry": "Leisure",
+          "aliases": ["ccl", "carnival", "carnival cruise", "carnival corporation"]
         },
         {
           "symbol": "MTB",
           "companyName": "M&T Bank Corporation",
           "sector": "Financial Services",
-          "industry": "Banks - Regional"
+          "industry": "Banks - Regional",
+          "aliases": ["mtb", "mt bank", "m&t bank", "m and t bank"]
         },
         {
           "symbol": "CNC",
           "companyName": "Centene Corporation",
           "sector": "Healthcare",
-          "industry": "Medical - Healthcare Plans"
+          "industry": "Medical - Healthcare Plans",
+          "aliases": ["cnc", "centene", "centene corporation"]
         },
         {
           "symbol": "LEN",
           "companyName": "Lennar Corporation",
           "sector": "Consumer Cyclical",
-          "industry": "Residential Construction"
+          "industry": "Residential Construction",
+          "aliases": ["len", "lennar", "lennar homes", "lennar corporation"]
         },
         {
           "symbol": "GIS",
           "companyName": "General Mills, Inc.",
           "sector": "Consumer Defensive",
-          "industry": "Packaged Foods"
+          "industry": "Packaged Foods",
+          "aliases": ["gis", "general mills", "cheerios"]
         },
         {
           "symbol": "DD",
           "companyName": "DuPont de Nemours, Inc.",
           "sector": "Basic Materials",
-          "industry": "Chemicals - Specialty"
+          "industry": "Chemicals - Specialty",
+          "aliases": ["dd", "dupont", "du pont", "dupont de nemours"]
         },
         {
           "symbol": "VTR",
           "companyName": "Ventas, Inc.",
           "sector": "Real Estate",
-          "industry": "REIT - Healthcare Facilities"
+          "industry": "REIT - Healthcare Facilities",
+          "aliases": ["vtr", "ventas", "ventas reit"]
         },
         {
           "symbol": "AVB",
           "companyName": "AvalonBay Communities, Inc.",
           "sector": "Real Estate",
-          "industry": "REIT - Residential"
+          "industry": "REIT - Residential",
+          "aliases": ["avb", "avalonbay", "avalon bay", "avalonbay communities"]
         },
         {
           "symbol": "KEYS",
           "companyName": "Keysight Technologies, Inc.",
           "sector": "Technology",
-          "industry": "Hardware, Equipment & Parts"
+          "industry": "Hardware, Equipment & Parts",
+          "aliases": ["keys", "keysight", "keysight technologies"]
         },
         {
           "symbol": "K",
           "companyName": "Kellanova",
           "sector": "Consumer Defensive",
-          "industry": "Food Confectioners"
+          "industry": "Food Confectioners",
+          "aliases": ["k", "kellanova", "kellogg", "kelloggs"]
         },
         {
           "symbol": "IRM",
           "companyName": "Iron Mountain Incorporated",
           "sector": "Real Estate",
-          "industry": "REIT - Specialty"
+          "industry": "REIT - Specialty",
+          "aliases": ["irm", "iron mountain"]
         },
         {
           "symbol": "HUM",
           "companyName": "Humana Inc.",
           "sector": "Healthcare",
-          "industry": "Medical - Healthcare Plans"
+          "industry": "Medical - Healthcare Plans",
+          "aliases": ["hum", "humana", "humana insurance"]
         },
         {
           "symbol": "NETE",
           "companyName": "Net Element, Inc.",
           "sector": "Technology",
-          "industry": "Software - Infrastructure"
+          "industry": "Software - Infrastructure",
+          "aliases": ["nete", "net element"]
         },
         {
           "symbol": "STT",
           "companyName": "State Street Corporation",
           "sector": "Financial Services",
-          "industry": "Asset Management"
+          "industry": "Asset Management",
+          "aliases": ["stt", "state street", "state street corporation"]
         },
         {
           "symbol": "BR",
           "companyName": "Broadridge Financial Solutions, Inc.",
           "sector": "Technology",
-          "industry": "Information Technology Services"
+          "industry": "Information Technology Services",
+          "aliases": ["br", "broadridge", "broadridge financial"]
         },
         {
           "symbol": "VGSH",
           "companyName": "Vanguard Short-Term Treasury Index Fund",
           "sector": "Financial Services",
-          "industry": "Asset Management - Leveraged"
+          "industry": "Asset Management - Leveraged",
+          "aliases": ["vgsh", "vanguard short term treasury", "vanguard treasury etf"]
         },
         {
           "symbol": "BMLP",
           "companyName": "BMO Dorsey Wright MLP Index Exchange Traded Notes",
           "sector": "Financial Services",
-          "industry": "Asset Management"
+          "industry": "Asset Management",
+          "aliases": ["bmlp", "bmo mlp", "bmo dorsey wright mlp"]
         },
         {
           "symbol": "DTW",
           "companyName": "DTE Energy Company JR SUB DB 2017 E",
           "sector": "Utilities",
-          "industry": "Regulated Electric"
+          "industry": "Regulated Electric",
+          "aliases": ["dtw", "dte energy 2017", "dte 2017"]
         },
         {
           "symbol": "TSCO",
           "companyName": "Tractor Supply Company",
           "sector": "Consumer Cyclical",
-          "industry": "Specialty Retail"
+          "industry": "Specialty Retail",
+          "aliases": ["tsco", "tractor supply", "tractor supply company", "tsc"]
         },
         {
           "symbol": "DTG",
           "companyName": "DTE Energy Company 2021 Series",
           "sector": "Utilities",
-          "industry": "Regulated Electric"
+          "industry": "Regulated Electric",
+          "aliases": ["dtg", "dte energy 2021", "dte 2021"]
         },
         {
           "symbol": "DTB",
           "companyName": "DTE Energy Company 2020 Series",
           "sector": "Utilities",
-          "industry": "Regulated Electric"
+          "industry": "Regulated Electric",
+          "aliases": ["dtb", "dte energy 2020", "dte 2020"]
         },
         {
           "symbol": "NUE",
           "companyName": "Nucor Corporation",
           "sector": "Basic Materials",
-          "industry": "Steel"
+          "industry": "Steel",
+          "aliases": ["nue", "nucor", "nucor steel", "nucor corporation"]
         },
         {
           "symbol": "SMCI",
           "companyName": "Super Micro Computer, Inc.",
           "sector": "Technology",
-          "industry": "Computer Hardware"
+          "industry": "Computer Hardware",
+          "aliases": ["smci", "supermicro", "super micro", "super micro computer"]
         },
         {
           "symbol": "HPQ",
           "companyName": "HP Inc.",
           "sector": "Technology",
-          "industry": "Computer Hardware"
+          "industry": "Computer Hardware",
+          "aliases": ["hpq", "hp", "hp inc", "hewlett packard"]
         },
         {
           "symbol": "UI",
           "companyName": "Ubiquiti Inc.",
           "sector": "Technology",
-          "industry": "Communication Equipment"
+          "industry": "Communication Equipment",
+          "aliases": ["ui", "ubiquiti", "unifi"]
         },
         {
           "symbol": "DTE",
           "companyName": "DTE Energy Company",
           "sector": "Utilities",
-          "industry": "Regulated Electric"
+          "industry": "Regulated Electric",
+          "aliases": ["dte", "dte energy", "dte energy company"]
         },
         {
           "symbol": "UAL",
           "companyName": "United Airlines Holdings, Inc.",
           "sector": "Industrials",
-          "industry": "Airlines, Airports & Air Services"
+          "industry": "Airlines, Airports & Air Services",
+          "aliases": ["ual", "united airlines", "united air", "united"]
         },
         {
           "symbol": "IOT",
           "companyName": "Samsara Inc.",
           "sector": "Technology",
-          "industry": "Software - Infrastructure"
+          "industry": "Software - Infrastructure",
+          "aliases": ["iot", "samsara", "samsara inc"]
         },
         {
           "symbol": "EXE",
           "companyName": "Expand Energy Corporation",
           "sector": "Energy",
-          "industry": "Oil & Gas Exploration & Production"
+          "industry": "Oil & Gas Exploration & Production",
+          "aliases": ["exe", "expand energy"]
         },
         {
           "symbol": "WRB",
           "companyName": "W. R. Berkley Corporation",
           "sector": "Financial Services",
-          "industry": "Insurance - Property & Casualty"
+          "industry": "Insurance - Property & Casualty",
+          "aliases": ["wrb", "wr berkley", "w r berkley", "berkley insurance"]
         },
         {
           "symbol": "GDDY",
           "companyName": "GoDaddy Inc.",
           "sector": "Technology",
-          "industry": "Software - Infrastructure"
+          "industry": "Software - Infrastructure",
+          "aliases": ["gddy", "godaddy", "go daddy"]
         },
         {
           "symbol": "ROL",
           "companyName": "Rollins, Inc.",
           "sector": "Consumer Cyclical",
-          "industry": "Personal Products & Services"
+          "industry": "Personal Products & Services",
+          "aliases": ["rol", "rollins", "orkin"]
         },
         {
           "symbol": "SPLK",
           "companyName": "Splunk Inc.",
           "sector": "Technology",
-          "industry": "Software - Infrastructure"
+          "industry": "Software - Infrastructure",
+          "aliases": ["splk", "splunk"]
         },
         {
           "symbol": "EXEEZ",
           "companyName": "Expand Energy Corporation",
           "sector": "Energy",
-          "industry": "Oil & Gas Energy"
+          "industry": "Oil & Gas Energy",
+          "aliases": ["exeez", "expand energy z"]
         },
         {
           "symbol": "FITB",
           "companyName": "Fifth Third Bancorp",
           "sector": "Financial Services",
-          "industry": "Banks - Regional"
+          "industry": "Banks - Regional",
+          "aliases": ["fitb", "fifth third", "fifth third bank", "fifth third bancorp"]
         },
         {
           "symbol": "EXEEL",
           "companyName": "Expand Energy Corporation",
           "sector": "Energy",
-          "industry": "Oil & Gas Energy"
+          "industry": "Oil & Gas Energy",
+          "aliases": ["exeel", "expand energy l"]
         },
         {
           "symbol": "FCNCA",
           "companyName": "First Citizens BancShares, Inc.",
           "sector": "Financial Services",
-          "industry": "Banks - Regional"
+          "industry": "Banks - Regional",
+          "aliases": ["fcnca", "first citizens", "first citizens bank", "first citizens bancshares"]
         },
         {
           "symbol": "EQR",
           "companyName": "Equity Residential",
           "sector": "Real Estate",
-          "industry": "REIT - Residential"
+          "industry": "REIT - Residential",
+          "aliases": ["eqr", "equity residential", "equity reit"]
         },
         {
           "symbol": "VRSN",
           "companyName": "VeriSign, Inc.",
           "sector": "Technology",
-          "industry": "Software - Infrastructure"
+          "industry": "Software - Infrastructure",
+          "aliases": ["vrsn", "verisign", "veri sign"]
         },
         {
           "symbol": "AWK",
           "companyName": "American Water Works Company, Inc.",
           "sector": "Utilities",
-          "industry": "Regulated Water"
+          "industry": "Regulated Water",
+          "aliases": ["awk", "american water", "american water works"]
         },
         {
           "symbol": "TOST",
           "companyName": "Toast, Inc.",
           "sector": "Technology",
-          "industry": "Software - Infrastructure"
+          "industry": "Software - Infrastructure",
+          "aliases": ["tost", "toast", "toast pos"]
         },
         {
           "symbol": "IP",
           "companyName": "International Paper Company",
           "sector": "Consumer Cyclical",
-          "industry": "Packaging & Containers"
+          "industry": "Packaging & Containers",
+          "aliases": ["ip", "international paper"]
         },
         {
           "symbol": "ZM",
           "companyName": "Zoom Video Communications, Inc.",
           "sector": "Technology",
-          "industry": "Software - Application"
+          "industry": "Software - Application",
+          "aliases": ["zm", "zoom", "zoom video", "zoom meeting"]
         },
         {
           "symbol": "DOV",
           "companyName": "Dover Corporation",
           "sector": "Industrials",
-          "industry": "Industrial - Machinery"
+          "industry": "Industrial - Machinery",
+          "aliases": ["dov", "dover", "dover corporation"]
         },
         {
           "symbol": "PPG",
           "companyName": "PPG Industries, Inc.",
           "sector": "Basic Materials",
-          "industry": "Chemicals - Specialty"
+          "industry": "Chemicals - Specialty",
+          "aliases": ["ppg", "ppg industries", "ppg paints"]
         },
         {
           "symbol": "IQV",
           "companyName": "IQVIA Holdings Inc.",
           "sector": "Healthcare",
-          "industry": "Medical - Diagnostics & Research"
+          "industry": "Medical - Diagnostics & Research",
+          "aliases": ["iqv", "iqvia", "iqvia holdings"]
         },
         {
           "symbol": "AEE",
           "companyName": "Ameren Corporation",
           "sector": "Utilities",
-          "industry": "Regulated Electric"
+          "industry": "Regulated Electric",
+          "aliases": ["aee", "ameren", "ameren corporation"]
         },
         {
           "symbol": "CDW",
           "companyName": "CDW Corporation",
           "sector": "Technology",
-          "industry": "Information Technology Services"
+          "industry": "Information Technology Services",
+          "aliases": ["cdw", "cdw corporation"]
         },
         {
           "symbol": "SOJB",
           "companyName": "The Southern Company JR SUB NT 76",
           "sector": "",
-          "industry": ""
+          "industry": "",
+          "aliases": ["sojb", "southern company jr"]
         },
         {
           "symbol": "CPAY",
           "companyName": "Corpay, Inc.",
           "sector": "Technology",
-          "industry": "Software - Infrastructure"
+          "industry": "Software - Infrastructure",
+          "aliases": ["cpay", "corpay", "fleetcor"]
         },
         {
           "symbol": "CUK",
           "companyName": "Carnival Corporation & plc",
           "sector": "Consumer Cyclical",
-          "industry": "Leisure"
+          "industry": "Leisure",
+          "aliases": ["cuk", "carnival uk", "carnival plc"]
         },
         {
           "symbol": "FTV",
           "companyName": "Fortive Corporation",
           "sector": "Technology",
-          "industry": "Hardware, Equipment & Parts"
+          "industry": "Hardware, Equipment & Parts",
+          "aliases": ["ftv", "fortive", "fortive corporation"]
         },
         {
           "symbol": "RKT",
           "companyName": "Rocket Companies, Inc.",
           "sector": "Financial Services",
-          "industry": "Financial - Mortgages"
+          "industry": "Financial - Mortgages",
+          "aliases": ["rkt", "rocket", "rocket mortgage", "rocket companies"]
         },
         {
           "symbol": "VLTO",
           "companyName": "Veralto Corporation",
           "sector": "Industrials",
-          "industry": "Industrial - Pollution & Treatment Controls"
+          "industry": "Industrial - Pollution & Treatment Controls",
+          "aliases": ["vlto", "veralto", "veralto corporation"]
         },
         {
           "symbol": "PPL",
           "companyName": "PPL Corporation",
           "sector": "Utilities",
-          "industry": "Regulated Electric"
+          "industry": "Regulated Electric",
+          "aliases": ["ppl", "ppl corporation", "ppl energy"]
         },
         {
           "symbol": "DUOL",
           "companyName": "Duolingo, Inc.",
           "sector": "Technology",
-          "industry": "Software - Application"
+          "industry": "Software - Application",
+          "aliases": ["duol", "duolingo", "duo lingo"]
         },
         {
           "symbol": "VG",
           "companyName": "Venture Global, Inc.",
           "sector": "Energy",
-          "industry": "Oil & Gas Midstream"
+          "industry": "Oil & Gas Midstream",
+          "aliases": ["vg", "venture global", "venture global lng"]
         },
         {
           "symbol": "STRK",
           "companyName": "MicroStrategy Incorporated",
           "sector": "Technology",
-          "industry": "Software - Application"
+          "industry": "Software - Application",
+          "aliases": ["strk", "microstrategy strk", "mstr strk"]
         },
         {
           "symbol": "JEPQ",
           "companyName": "JPMorgan Nasdaq Equity Premium Income ETF",
           "sector": "Financial Services",
-          "industry": "Asset Management - Income"
+          "industry": "Asset Management - Income",
+          "aliases": ["jepq", "jpmorgan nasdaq etf", "nasdaq premium income"]
         },
         {
           "symbol": "TYL",
           "companyName": "Tyler Technologies, Inc.",
           "sector": "Technology",
-          "industry": "Software - Application"
+          "industry": "Software - Application",
+          "aliases": ["tyl", "tyler technologies", "tyler tech"]
         },
         {
           "symbol": "DRI",
           "companyName": "Darden Restaurants, Inc.",
           "sector": "Consumer Cyclical",
-          "industry": "Restaurants"
+          "industry": "Restaurants",
+          "aliases": ["dri", "darden", "darden restaurants", "olive garden"]
         },
         {
           "symbol": "SHY",
           "companyName": "iShares 1-3 Year Treasury Bond ETF",
           "sector": "Financial Services",
-          "industry": "Asset Management"
+          "industry": "Asset Management",
+          "aliases": ["shy", "ishares treasury", "ishares 1-3 year treasury"]
         }
       ]
     },
